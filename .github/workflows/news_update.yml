@@ -1,0 +1,35 @@
+name: Daily News Update
+
+on:
+  schedule:
+    - cron: "0 9,18 * * *"
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 transformers pandas matplotlib sklearn prophet wordcloud
+
+    - name: Run daily news script
+      run: python daily_news.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "poonia197020@gmail.com"
+        git config --global user.name "anmolpoonia"
+        git add .
+        git commit -m "Automated daily update"
+        git push
+
+        
