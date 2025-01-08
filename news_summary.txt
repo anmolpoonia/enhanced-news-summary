@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-08 11:15:08
+Daily News Summary - 2025-01-08 18:24:20
 ==================================================
 
 1. Meta proposes new scalable memory layers that improve knowledge, reduce hallucinations
@@ -10,24 +10,24 @@ Link: https://venturebeat.com/ai/nvidias-ai-agent-play-is-here-with-new-models-o
 3. Meta retreats from fact-checking content: what it means for businesses
 Link: https://venturebeat.com/ai/meta-retreats-from-fact-checking-content-what-it-means-for-businesses/
 
-4. OnPay Raises Over $100 Million in Funding
+4. Microsoft makes powerful Phi-4 model fully open-source on Hugging Face
+Link: https://venturebeat.com/ai/microsoft-makes-powerful-phi-4-model-fully-open-source-on-hugging-face/
+
+5. OnPay Raises Over $100 Million in Funding
 Link: https://venturebeat.com/business/onpay-raises-over-100-million-in-funding/
 
-5. Formic Continues To Accelerate Robot Usage Growth in 2024 with 200k Production Hours, Celebrates with First Automation Community Event
-Link: https://venturebeat.com/business/formic-continues-to-accelerate-robot-usage-growth-in-2024-with-200k-production-hours-celebrates-with-first-automation-community-event/
+6. Germany pushing for EU to relax sanctions on Syria, FT reports
+Link: https://www.reuters.com/world/europe/germany-pushing-eu-relax-sanctions-syria-ft-reports-2025-01-07/
 
-6. South Korean court re-issues arrest warrant for impeached President Yoon
-Link: https://www.reuters.com/world/asia-pacific/south-korean-court-re-issues-arrest-warrant-impeached-president-yoon-2025-01-07/
+7. Trump Middle East envoy predicts 'good things' to announce on Gaza hostages before inauguration
+Link: https://www.reuters.com/world/middle-east/trump-middle-east-envoy-predicts-good-things-announce-gaza-hostages-before-2025-01-07/
 
-7. Three Palestinians killed in the West Bank as Israeli military operations intensify
-Link: https://www.reuters.com/world/middle-east/three-palestinians-killed-west-bank-israeli-military-operations-intensify-2025-01-07/
+8. Israel says no foreign courts have warrants issued against reservists
+Link: https://www.reuters.com/world/middle-east/israel-says-no-foreign-courts-have-warrants-issued-against-reservists-2025-01-07/
 
-8. South Korea's impeached leader Yoon hunkers down in Seoul's 'Beverly Hills'
-Link: https://www.reuters.com/world/asia-pacific/south-koreas-impeached-leader-yoon-hunkers-down-seouls-beverly-hills-2025-01-07/
+9. Austrian far-right leader to invite conservatives to hold coalition talks
+Link: https://www.reuters.com/world/europe/austrian-far-right-leader-invite-conservatives-hold-coalition-talks-2025-01-07/
 
-9. Exclusive: UAE in talks with US, Israel about provisional government for post-war Gaza
-Link: https://www.reuters.com/world/uae-in-talks-with-us-israel-about-provisional-government-post-war-gaza-2025-01-07/
-
-10. South Korean transport minister plans to resign over country's worst air crash
-Link: https://www.reuters.com/world/asia-pacific/south-korean-transport-minister-plans-resign-over-countrys-worst-air-crash-2025-01-07/
+10. Finland recovers anchor from seabed in Baltic Sea cables investigation
+Link: https://www.reuters.com/world/europe/finland-recovers-anchor-seabed-baltic-sea-cables-investigation-2025-01-07/
 
