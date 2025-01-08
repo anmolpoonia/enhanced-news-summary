@@ -2,28 +2,36 @@ name: Daily News Update
 
 on:
   schedule:
+    # Schedule to run at 9 AM and 6 PM UTC daily
     - cron: "0 9,18 * * *"
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
 
     steps:
+    # Step 1: Check out the repository
     - name: Checkout code
       uses: actions/checkout@v3
 
+    # Step 2: Set up Python
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: 3.9
 
+    # Step 3: Install dependencies
     - name: Install dependencies
       run: |
-        pip install requests beautifulsoup4 transformers pandas matplotlib sklearn prophet wordcloud
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 pandas matplotlib wordcloud transformers prophet scikit-learn
 
+    # Step 4: Run the Python script
     - name: Run daily news script
       run: python daily_news.py
 
+    # Step 5: Commit and push changes
     - name: Commit and push changes
       run: |
         git config --global user.email "poonia197020@gmail.com"
@@ -31,5 +39,3 @@ jobs:
         git add .
         git commit -m "Automated daily update"
         git push
-
-        
