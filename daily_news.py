@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 import os
 from collections import Counter
-from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS 
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
 # Fetch news from VentureBeat
 def fetch_latest_news():
@@ -67,7 +67,18 @@ def summarize_text(text):
     max_length = min(100, input_length + 5)
     return summarizer(text, max_length=max_length, min_length=5, do_sample=False)[0]["summary_text"]
 
-
+# Sentiment analysis
+sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
+def analyze_sentiment(text):
+    if len(text.split()) < 5:  # Handle very short inputs
+        return "Neutral"
+    sentiment = sentiment_analyzer(text)[0]
+    if sentiment["label"] == "POSITIVE":
+        return "Positive"
+    elif sentiment["label"] == "NEGATIVE":
+        return "Negative"
+    else:
+        return "Neutral"
 
 # Generate a word cloud
 def generate_word_cloud(articles):
@@ -84,7 +95,7 @@ def save_to_history(news, file_path="news_history.csv"):
     new_data = pd.DataFrame([{
         "date": datetime.now().strftime("%Y-%m-%d"),
         "title": article["title"],
-        "sentiment": article.get("sentiment", "Neutral"),
+        "sentiment": article["sentiment"],
         "link": article["link"]
     } for article in news])
     df = pd.concat([df, new_data], ignore_index=True)
@@ -124,8 +135,11 @@ def generate_leaderboard(file_path="news_history.csv"):
     all_titles = " ".join(df["title"])
     words = all_titles.split()
 
+    # Add custom stop words
+    custom_stop_words = set(ENGLISH_STOP_WORDS).union({"ai", "news", "tech"})
+
     # Filter out stop words and punctuation
-    filtered_words = [word.lower() for word in words if word.lower() not in ENGLISH_STOP_WORDS and word.isalpha()]
+    filtered_words = [word.lower() for word in words if word.lower() not in custom_stop_words and word.isalpha()]
 
     # Count word frequencies
     word_counts = Counter(filtered_words)
@@ -155,6 +169,7 @@ if __name__ == "__main__":
     news = fetch_combined_news()
     for article in news:
         article["summary"] = summarize_text(article["title"])
+        article["sentiment"] = analyze_sentiment(article["summary"])  # Use summary for sentiment analysis
     generate_word_cloud(news)
     save_to_history(news)
     forecast_sentiment()
