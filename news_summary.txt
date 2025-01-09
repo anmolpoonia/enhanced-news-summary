@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-08 18:24:20
+Daily News Summary - 2025-01-09 09:19:10
 ==================================================
 
-1. Meta proposes new scalable memory layers that improve knowledge, reduce hallucinations
-Link: https://venturebeat.com/ai/meta-proposes-new-scalable-memory-layers-that-improve-knowledge-reduce-hallucinations/
+1. Smoke, reflections and portals: Adobe’s TransPixar takes AI VFX to the next level
+Link: https://venturebeat.com/ai/smoke-reflections-and-portals-adobes-transpixar-takes-ai-vfx-to-the-next-level/
 
-2. Nvidia's AI agent play is here with new models, orchestration blueprints
-Link: https://venturebeat.com/ai/nvidias-ai-agent-play-is-here-with-new-models-orchestration-blueprints/
-
-3. Meta retreats from fact-checking content: what it means for businesses
-Link: https://venturebeat.com/ai/meta-retreats-from-fact-checking-content-what-it-means-for-businesses/
-
-4. Microsoft makes powerful Phi-4 model fully open-source on Hugging Face
+2. Microsoft makes powerful Phi-4 model fully open-source on Hugging Face
 Link: https://venturebeat.com/ai/microsoft-makes-powerful-phi-4-model-fully-open-source-on-hugging-face/
 
-5. OnPay Raises Over $100 Million in Funding
-Link: https://venturebeat.com/business/onpay-raises-over-100-million-in-funding/
+3. Nvidia's AI agent play is here with new models, orchestration blueprints
+Link: https://venturebeat.com/ai/nvidias-ai-agent-play-is-here-with-new-models-orchestration-blueprints/
 
-6. Germany pushing for EU to relax sanctions on Syria, FT reports
-Link: https://www.reuters.com/world/europe/germany-pushing-eu-relax-sanctions-syria-ft-reports-2025-01-07/
+4. Cofactor Genomics, Inc. Announces CEO Transition in Preparation for Accelerated Commercial Growth and Increased Patient Access for OncoPrism, its Medicare Approved Immunotherapy Test
+Link: https://venturebeat.com/business/cofactor-genomics-inc-announces-ceo-transition-in-preparation-for-accelerated-commercial-growth-and-increased-patient-access-for-oncoprism-its-medicare-approved-immunotherapy-test/
 
-7. Trump Middle East envoy predicts 'good things' to announce on Gaza hostages before inauguration
-Link: https://www.reuters.com/world/middle-east/trump-middle-east-envoy-predicts-good-things-announce-gaza-hostages-before-2025-01-07/
+5. Meta proposes new scalable memory layers that improve knowledge, reduce hallucinations
+Link: https://venturebeat.com/ai/meta-proposes-new-scalable-memory-layers-that-improve-knowledge-reduce-hallucinations/
 
-8. Israel says no foreign courts have warrants issued against reservists
-Link: https://www.reuters.com/world/middle-east/israel-says-no-foreign-courts-have-warrants-issued-against-reservists-2025-01-07/
+6. EU will not tolerate attacks on its borders, France says after Trump Greenland comments
+Link: https://www.reuters.com/world/europe/eu-will-not-tolerate-attacks-its-borders-france-says-after-trump-greenland-2025-01-08/
 
-9. Austrian far-right leader to invite conservatives to hold coalition talks
-Link: https://www.reuters.com/world/europe/austrian-far-right-leader-invite-conservatives-hold-coalition-talks-2025-01-07/
+7. Ukraine stages drone attack on Russia's Saratov region, causing big fire
+Link: https://www.reuters.com/world/europe/ukrainian-drones-attack-city-where-russian-strategic-bomber-fleet-is-based-local-2025-01-08/
 
-10. Finland recovers anchor from seabed in Baltic Sea cables investigation
-Link: https://www.reuters.com/world/europe/finland-recovers-anchor-seabed-baltic-sea-cables-investigation-2025-01-07/
+8. EU warns of 'serious blow' from Trump on climate change
+Link: https://www.reuters.com/business/environment/eu-warns-serious-blow-trump-climate-change-2025-01-08/
+
+9. South Korea's Yoon faces second arrest attempt in fortified compound
+Link: https://www.reuters.com/world/asia-pacific/south-koreas-yoon-faces-second-arrest-attempt-fortified-compound-2025-01-08/
+
+10. Rescue efforts under way after earthquake in Tibet kills more than 120
+Link: https://www.reuters.com/business/environment/rescue-efforts-under-way-after-earthquake-tibet-kills-more-than-120-2025-01-08/
 

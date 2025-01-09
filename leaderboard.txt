@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-to: 26 mentions
-for: 19 mentions
-AI: 17 mentions
-in: 12 mentions
-Nvidia: 10 mentions
+to: 27 mentions
+for: 21 mentions
+AI: 19 mentions
+in: 15 mentions
+with: 11 mentions
