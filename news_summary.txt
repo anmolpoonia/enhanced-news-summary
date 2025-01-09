@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-09 09:19:10
+Daily News Summary - 2025-01-09 18:24:26
 ==================================================
 
-1. Smoke, reflections and portals: Adobe’s TransPixar takes AI VFX to the next level
+1. Cohere just launched 'North', its biggest AI bet yet for privacy-focused enterprises
+Link: https://venturebeat.com/ai/cohere-launches-north-to-redefine-enterprise-ai-with-security-and-customization-at-its-core/
+
+2. How Narvar is using AI and data to enhance post-purchase customer experiences
+Link: https://venturebeat.com/ai/how-narvar-is-using-ai-and-data-to-enhance-post-purchase-customer-experiences/
+
+3. Smoke, reflections and portals: Adobe’s TransPixar takes AI VFX to the next level
 Link: https://venturebeat.com/ai/smoke-reflections-and-portals-adobes-transpixar-takes-ai-vfx-to-the-next-level/
 
-2. Microsoft makes powerful Phi-4 model fully open-source on Hugging Face
-Link: https://venturebeat.com/ai/microsoft-makes-powerful-phi-4-model-fully-open-source-on-hugging-face/
+4. The Next Generation of Investment Tools Is JargonAi
+Link: https://venturebeat.com/business/the-next-generation-of-investment-tools-is-jargonai/
 
-3. Nvidia's AI agent play is here with new models, orchestration blueprints
-Link: https://venturebeat.com/ai/nvidias-ai-agent-play-is-here-with-new-models-orchestration-blueprints/
+5. Diffbot’s AI model doesn’t guess — it knows, thanks to a trillion-fact knowledge graph
+Link: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/
 
-4. Cofactor Genomics, Inc. Announces CEO Transition in Preparation for Accelerated Commercial Growth and Increased Patient Access for OncoPrism, its Medicare Approved Immunotherapy Test
-Link: https://venturebeat.com/business/cofactor-genomics-inc-announces-ceo-transition-in-preparation-for-accelerated-commercial-growth-and-increased-patient-access-for-oncoprism-its-medicare-approved-immunotherapy-test/
+6. Congo rebels muddy minerals market with illegal Rwanda exports, says UN report
+Link: https://www.reuters.com/world/africa/congo-rebels-muddy-minerals-market-with-illegal-rwanda-exports-says-un-report-2025-01-08/
 
-5. Meta proposes new scalable memory layers that improve knowledge, reduce hallucinations
-Link: https://venturebeat.com/ai/meta-proposes-new-scalable-memory-layers-that-improve-knowledge-reduce-hallucinations/
+7. Russian strike kills 13 in Ukrainian city of Zaporizhzhia
+Link: https://www.reuters.com/world/europe/russian-strike-kills-13-ukrainian-city-zaporizhzhia-2025-01-08/
 
-6. EU will not tolerate attacks on its borders, France says after Trump Greenland comments
-Link: https://www.reuters.com/world/europe/eu-will-not-tolerate-attacks-its-borders-france-says-after-trump-greenland-2025-01-08/
+8. Canada's main opposition leader Poilievre rides wave of anti-Trudeau discontent
+Link: https://www.reuters.com/world/americas/canadas-main-opposition-leader-poilievre-rides-wave-anti-trudeau-discontent-2025-01-08/
 
-7. Ukraine stages drone attack on Russia's Saratov region, causing big fire
-Link: https://www.reuters.com/world/europe/ukrainian-drones-attack-city-where-russian-strategic-bomber-fleet-is-based-local-2025-01-08/
+9. With Hezbollah weakened, Lebanon to hold presidential vote
+Link: https://www.reuters.com/world/middle-east/with-hezbollah-weakened-lebanon-hold-presidential-vote-2025-01-08/
 
-8. EU warns of 'serious blow' from Trump on climate change
-Link: https://www.reuters.com/business/environment/eu-warns-serious-blow-trump-climate-change-2025-01-08/
-
-9. South Korea's Yoon faces second arrest attempt in fortified compound
-Link: https://www.reuters.com/world/asia-pacific/south-koreas-yoon-faces-second-arrest-attempt-fortified-compound-2025-01-08/
-
-10. Rescue efforts under way after earthquake in Tibet kills more than 120
-Link: https://www.reuters.com/business/environment/rescue-efforts-under-way-after-earthquake-tibet-kills-more-than-120-2025-01-08/
+10. Hollywood stars among thousands fleeing Los Angeles-area wildfires
+Link: https://www.reuters.com/business/environment/tens-thousands-flee-wildfires-tear-through-los-angeles-area-2025-01-08/
 

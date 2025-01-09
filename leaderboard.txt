@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-to: 27 mentions
-for: 21 mentions
-AI: 19 mentions
-in: 15 mentions
-with: 11 mentions
+to: 31 mentions
+AI: 23 mentions
+for: 22 mentions
+in: 16 mentions
+and: 13 mentions
