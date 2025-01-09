@@ -10,6 +10,7 @@ from sklearn.decomposition import LatentDirichletAllocation
 import os
 from collections import Counter
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
+import matplotlib.pyplot as plt  # For visualization
 
 # Fetch news from VentureBeat
 def fetch_latest_news():
@@ -120,34 +121,35 @@ def forecast_sentiment(file_path="news_history.csv"):
     forecast = model.predict(future)
     forecast.to_csv("sentiment_forecast.csv", index=False)
     print("[INFO] Sentiment forecast saved: sentiment_forecast.csv")
+    plot_forecast(forecast)  # Call visualization function here
+
+# Plot the sentiment forecast
+def plot_forecast(forecast):
+    plt.figure(figsize=(10, 5))
+    plt.plot(forecast['ds'], forecast['yhat'], label="Forecast", color="blue")
+    plt.fill_between(forecast['ds'], forecast['yhat_lower'], forecast['yhat_upper'], color="blue", alpha=0.2, label="Confidence Interval")
+    plt.title("Sentiment Forecast")
+    plt.xlabel("Date")
+    plt.ylabel("Positive Sentiment Count")
+    plt.legend()
+    plt.savefig("sentiment_forecast_plot.png")
+    print("[INFO] Sentiment forecast plot saved: sentiment_forecast_plot.png")
 
 # Generate leaderboard
 def generate_leaderboard(file_path="news_history.csv"):
-    # Check if the file exists and is not empty
     if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
         print("[WARNING] News history file is empty. Skipping leaderboard generation.")
         return
 
-    # Load the news history
     df = pd.read_csv(file_path)
-
-    # Extract titles and split into words
     all_titles = " ".join(df["title"])
     words = all_titles.split()
 
-    # Add custom stop words
     custom_stop_words = set(ENGLISH_STOP_WORDS).union({"ai", "news", "tech"})
-
-    # Filter out stop words and punctuation
     filtered_words = [word.lower() for word in words if word.lower() not in custom_stop_words and word.isalpha()]
-
-    # Count word frequencies
     word_counts = Counter(filtered_words)
-
-    # Get the 5 most common words
     most_common_words = word_counts.most_common(5)
 
-    # Write leaderboard to file
     with open("leaderboard.txt", "w") as file:
         file.write("Top 5 Words in News Titles:\n")
         for word, count in most_common_words:
@@ -172,7 +174,7 @@ if __name__ == "__main__":
         article["sentiment"] = analyze_sentiment(article["summary"])  # Use summary for sentiment analysis
     generate_word_cloud(news)
     save_to_history(news)
-    forecast_sentiment()
+    forecast_sentiment()  # Generates sentiment forecast and visualizes it
     generate_leaderboard()
     save_to_file(news)
     print("[INFO] Script completed.")
