@@ -9,6 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 import os
 from collections import Counter
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS 
 
 # Fetch news from VentureBeat
 def fetch_latest_news():
@@ -111,15 +112,28 @@ def forecast_sentiment(file_path="news_history.csv"):
 
 # Generate leaderboard
 def generate_leaderboard(file_path="news_history.csv"):
+    # Check if the file exists and is not empty
     if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
         print("[WARNING] News history file is empty. Skipping leaderboard generation.")
         return
 
+    # Load the news history
     df = pd.read_csv(file_path)
+
+    # Extract titles and split into words
     all_titles = " ".join(df["title"])
-    word_counts = Counter(all_titles.split())
+    words = all_titles.split()
+
+    # Filter out stop words and punctuation
+    filtered_words = [word.lower() for word in words if word.lower() not in ENGLISH_STOP_WORDS and word.isalpha()]
+
+    # Count word frequencies
+    word_counts = Counter(filtered_words)
+
+    # Get the 5 most common words
     most_common_words = word_counts.most_common(5)
 
+    # Write leaderboard to file
     with open("leaderboard.txt", "w") as file:
         file.write("Top 5 Words in News Titles:\n")
         for word, count in most_common_words:
