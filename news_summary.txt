@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-10 09:19:17
+Daily News Summary - 2025-01-10 18:24:00
 ==================================================
 
 1. LlamaIndex goes beyond RAG so agents can make complex decisions
@@ -10,24 +10,24 @@ Link: https://venturebeat.com/ai/microsofts-new-rstar-math-technique-upgrades-sm
 3. Diffbot’s AI model doesn’t guess — it knows, thanks to a trillion-fact knowledge graph
 Link: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/
 
-4. The Next Generation of Investment Tools Is JargonAi
+4. Self-invoking code benchmarks help you decide which LLMs to use for your programming tasks
+Link: https://venturebeat.com/ai/self-invoking-code-benchmarks-help-you-decide-which-llms-to-use-for-your-programming-tasks/
+
+5. The Next Generation of Investment Tools Is JargonAi
 Link: https://venturebeat.com/business/the-next-generation-of-investment-tools-is-jargonai/
 
-5. Prudentia Sciences Launches with $7M in Funding to Transform the Life Sciences Marketplace for Dealmaking
-Link: https://venturebeat.com/business/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/
+6. Austria's far-right led coalition talks: what are the challenges?
+Link: https://www.reuters.com/world/europe/challenges-austrias-far-right-faces-coalition-talks-2025-01-09/
 
-6. As South Korea's impeached president Yoon awaits fate, his party sees signs of revival
-Link: https://www.reuters.com/world/asia-pacific/south-koreas-impeached-president-yoon-awaits-fate-his-party-sees-signs-revival-2025-01-09/
+7. Italy's Meloni sees Trump defending Western interests, engaging with Ukraine
+Link: https://www.reuters.com/world/italys-meloni-sees-trump-defending-western-interests-engaging-with-ukraine-2025-01-09/
 
-7. Mozambique opposition leader returns after fleeing on post-election safety fears
-Link: https://www.reuters.com/world/africa/mozambique-opposition-leader-returns-after-fleeing-post-election-safety-fears-2025-01-09/
+8. Musk to host German far-right leader on X, stirs angst about election meddling
+Link: https://www.reuters.com/world/musk-host-german-far-right-leader-x-stirs-angst-about-election-meddling-2025-01-09/
 
-8. Trump looks to Greenland to cement his legacy and expand sphere of US influence
-Link: https://www.reuters.com/world/trump-looks-greenland-cement-his-legacy-expand-sphere-us-influence-2025-01-09/
+9. Ghana could seek more IMF funding, incoming finance minister says
+Link: https://www.reuters.com/world/africa/ghana-president-names-cassiel-ato-forson-finance-minister-2025-01-09/
 
-9. Focus shifts to Tibet earthquake survivors as search called off
-Link: https://www.reuters.com/business/environment/focus-shifts-tibet-earthquake-survivors-search-called-off-2025-01-09/
-
-10. Lawyer for South Korea's Yoon says impeached president in official residence
-Link: https://www.reuters.com/world/asia-pacific/lawyer-south-koreas-yoon-says-impeached-president-official-residence-2025-01-09/
+10. As Maduro inauguration looms, Venezuela opposition hold street protests
+Link: https://www.reuters.com/world/americas/maduro-inauguration-looms-venezuela-opposition-plan-street-protests-2025-01-09/
 

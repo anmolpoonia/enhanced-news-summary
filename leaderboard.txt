@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-new: 15 mentions
-trump: 11 mentions
-leader: 11 mentions
-says: 11 mentions
+new: 16 mentions
+trump: 12 mentions
+leader: 12 mentions
+says: 12 mentions
 nvidia: 10 mentions
