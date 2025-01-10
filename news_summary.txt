@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-09 22:36:37
+Daily News Summary - 2025-01-10 09:19:17
 ==================================================
 
-1. Cohere just launched 'North', its biggest AI bet yet for privacy-focused enterprises
-Link: https://venturebeat.com/ai/cohere-launches-north-to-redefine-enterprise-ai-with-security-and-customization-at-its-core/
+1. LlamaIndex goes beyond RAG so agents can make complex decisions
+Link: https://venturebeat.com/ai/llamaindex-goes-beyond-rag-so-agents-can-make-complex-decisions/
 
-2. How Narvar is using AI and data to enhance post-purchase customer experiences
-Link: https://venturebeat.com/ai/how-narvar-is-using-ai-and-data-to-enhance-post-purchase-customer-experiences/
-
-3. Smoke, reflections and portals: Adobe’s TransPixar takes AI VFX to the next level
-Link: https://venturebeat.com/ai/smoke-reflections-and-portals-adobes-transpixar-takes-ai-vfx-to-the-next-level/
-
-4. Microsoft’s new rStar-Math technique upgrades small models to outperform OpenAI’s o1-preview at math problems
+2. Microsoft's new rStar-Math technique upgrades small models to outperform OpenAI's o1-preview at math problems
 Link: https://venturebeat.com/ai/microsofts-new-rstar-math-technique-upgrades-small-models-to-outperform-openais-o1-preview-at-math-problems/
 
-5. The Next Generation of Investment Tools Is JargonAi
+3. Diffbot’s AI model doesn’t guess — it knows, thanks to a trillion-fact knowledge graph
+Link: https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/
+
+4. The Next Generation of Investment Tools Is JargonAi
 Link: https://venturebeat.com/business/the-next-generation-of-investment-tools-is-jargonai/
 
-6. Greenland greets Trump interest with MAGA caps but mixed feelings
-Link: https://www.reuters.com/world/europe/greenland-greets-trump-interest-with-maga-caps-mixed-feelings-2025-01-08/
+5. Prudentia Sciences Launches with $7M in Funding to Transform the Life Sciences Marketplace for Dealmaking
+Link: https://venturebeat.com/business/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/
 
-7. NATO membership only credible security guarantee for Ukraine, Finnish foreign minister says
-Link: https://www.reuters.com/world/europe/nato-membership-only-credible-security-guarantee-ukraine-finnish-foreign-2025-01-08/
+6. As South Korea's impeached president Yoon awaits fate, his party sees signs of revival
+Link: https://www.reuters.com/world/asia-pacific/south-koreas-impeached-president-yoon-awaits-fate-his-party-sees-signs-revival-2025-01-09/
 
-8. Gunfire heard near the presidency of Chad's capital, military vehicles seen
-Link: https://www.reuters.com/world/africa/gunshots-heard-near-presidency-chad-capital-ndjamena-residents-afp-say-2025-01-08/
+7. Mozambique opposition leader returns after fleeing on post-election safety fears
+Link: https://www.reuters.com/world/africa/mozambique-opposition-leader-returns-after-fleeing-post-election-safety-fears-2025-01-09/
 
-9. Canada's main opposition leader Poilievre rides wave of anti-Trudeau discontent
-Link: https://www.reuters.com/world/americas/canadas-main-opposition-leader-poilievre-rides-wave-anti-trudeau-discontent-2025-01-08/
+8. Trump looks to Greenland to cement his legacy and expand sphere of US influence
+Link: https://www.reuters.com/world/trump-looks-greenland-cement-his-legacy-expand-sphere-us-influence-2025-01-09/
 
-10. Venezuela's opposition decry arrests ahead of anti-Maduro protests
-Link: https://www.reuters.com/world/americas/venezuelas-opposition-decry-arrests-ahead-anti-maduro-protests-2025-01-08/
+9. Focus shifts to Tibet earthquake survivors as search called off
+Link: https://www.reuters.com/business/environment/focus-shifts-tibet-earthquake-survivors-search-called-off-2025-01-09/
+
+10. Lawyer for South Korea's Yoon says impeached president in official residence
+Link: https://www.reuters.com/world/asia-pacific/lawyer-south-koreas-yoon-says-impeached-president-official-residence-2025-01-09/
 
