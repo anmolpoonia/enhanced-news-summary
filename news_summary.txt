@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-11 09:17:03
+Daily News Summary - 2025-01-11 18:22:09
 ==================================================
 
 1. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
@@ -16,18 +16,18 @@ Link: https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-s
 5. Self-invoking code benchmarks help you decide which LLMs to use for your programming tasks
 Link: https://venturebeat.com/ai/self-invoking-code-benchmarks-help-you-decide-which-llms-to-use-for-your-programming-tasks/
 
-6. MSF suspends operations at key hospital in Sudan's capital
-Link: https://www.reuters.com/world/africa/msf-suspends-operations-key-hospital-sudans-capital-2025-01-10/
+6. Exclusive: Western powers warn Syria over foreign jihadists in army, sources say
+Link: https://www.reuters.com/world/middle-east/western-powers-warn-syria-over-foreign-jihadists-army-sources-say-2025-01-10/
 
-7. Efforts to end Kurdish militant conflict in Turkey face Syria test
-Link: https://www.reuters.com/world/middle-east/efforts-end-kurdish-militant-conflict-turkey-face-syria-test-2025-01-10/
+7. Canada imposes sanctions on 14 Venezuelan officials
+Link: https://www.reuters.com/world/americas/canada-imposes-sanctions-14-venezuelan-officials-2025-01-10/
 
-8. Tally of Tibet earthquake injured rises on third day of search for survivors
-Link: https://www.reuters.com/business/environment/tally-tibet-earthquake-injured-rises-third-day-search-survivors-2025-01-10/
+8. Greenland leader says everyone should respect island's wish for independence
+Link: https://www.reuters.com/world/greenland-leader-says-everyone-should-respect-islands-wish-independence-2025-01-10/
 
-9. 2024 was the first year above 1.5C of global warming, scientists say
-Link: https://www.reuters.com/business/environment/2024-was-first-year-above-15c-global-warming-scientists-say-2025-01-10/
+9. Biden hits Russian oil in toughest sanctions yet in bid to give Ukraine, Trump leverage
+Link: https://www.reuters.com/world/biden-hits-russian-oil-toughest-sanctions-yet-bid-give-ukraine-trump-leverage-2025-01-10/
 
-10. South Korea jet crash puts fast-growing Jeju Air's safety under scrutiny
-Link: https://www.reuters.com/world/asia-pacific/south-korea-jet-crash-puts-fast-growing-jeju-airs-safety-under-scrutiny-2025-01-10/
+10. Denmark plans new ships, dog sled patrols in Greenland as Trump seeks control
+Link: https://www.reuters.com/world/denmark-plans-new-ships-dog-sled-patrols-greenland-trump-seeks-control-2025-01-10/
 
