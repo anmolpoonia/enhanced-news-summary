@@ -1,5 +1,5 @@
 Top 5 Words in News Titles:
-new: 16 mentions
+new: 17 mentions
 trump: 12 mentions
 leader: 12 mentions
 says: 12 mentions
