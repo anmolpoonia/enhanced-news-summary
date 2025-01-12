@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-11 18:22:09
+Daily News Summary - 2025-01-12 09:16:58
 ==================================================
 
-1. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
-Link: https://venturebeat.com/ai/google-deepmind-researchers-introduce-new-benchmark-to-improve-llm-factuality-reduce-hallucinations/
+1. Listen to your technology users — they have led to the most disruptive innovations in history
+Link: https://venturebeat.com/ai/listen-to-your-technology-users-they-have-led-to-the-most-disruptive-innovations-in-history/
 
-2. Researchers improved AI agent performance on unfamiliar tasks using 'Dungeons and Dragons'
-Link: https://venturebeat.com/ai/researchers-improved-ai-agent-performance-on-unfamiliar-tasks-using-dungeons-and-dragons/
+2. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
+Link: https://venturebeat.com/ai/google-deepmind-researchers-introduce-new-benchmark-to-improve-llm-factuality-reduce-hallucinations/
 
 3. OpenAI has begun building out its robotics team
 Link: https://venturebeat.com/ai/openai-has-begun-building-out-its-robotics-team/
 
-4. Breaking the data bottleneck: Salesforce’s ProVision speeds multimodal AI training with image scene graphs
+4. Researchers improved AI agent performance on unfamiliar tasks using ‘Dungeons and Dragons’
+Link: https://venturebeat.com/ai/researchers-improved-ai-agent-performance-on-unfamiliar-tasks-using-dungeons-and-dragons/
+
+5. Breaking the data bottleneck: Salesforce’s ProVision speeds multimodal AI training with image scene graphs
 Link: https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/
 
-5. Self-invoking code benchmarks help you decide which LLMs to use for your programming tasks
-Link: https://venturebeat.com/ai/self-invoking-code-benchmarks-help-you-decide-which-llms-to-use-for-your-programming-tasks/
+6. Russia says Ukrainian drones injure three in Tambov region
+Link: https://www.reuters.com/world/europe/russia-says-ukrainian-drones-injured-several-tambov-region-2025-01-11/
 
-6. Exclusive: Western powers warn Syria over foreign jihadists in army, sources say
-Link: https://www.reuters.com/world/middle-east/western-powers-warn-syria-over-foreign-jihadists-army-sources-say-2025-01-10/
+7. Jeju Air 'black box' data missing from last 4 minutes before crash, South Korea ministry says
+Link: https://www.reuters.com/world/asia-pacific/south-korea-jeju-air-jet-blackboxes-stopped-recording-4-minutes-before-crash-2025-01-11/
 
-7. Canada imposes sanctions on 14 Venezuelan officials
-Link: https://www.reuters.com/world/americas/canada-imposes-sanctions-14-venezuelan-officials-2025-01-10/
+8. Hollywood celebrities clear their closets for fire aid
+Link: https://www.reuters.com/world/us/hollywood-celebrities-clear-their-closets-fire-aid-2025-01-11/
 
-8. Greenland leader says everyone should respect island's wish for independence
-Link: https://www.reuters.com/world/greenland-leader-says-everyone-should-respect-islands-wish-independence-2025-01-10/
+9. Myanmar military air strike kills dozens in Rakhine village, UN says
+Link: https://www.reuters.com/world/asia-pacific/myanmar-military-air-strike-kills-dozens-rakhine-village-un-says-2025-01-11/
 
-9. Biden hits Russian oil in toughest sanctions yet in bid to give Ukraine, Trump leverage
-Link: https://www.reuters.com/world/biden-hits-russian-oil-toughest-sanctions-yet-bid-give-ukraine-trump-leverage-2025-01-10/
-
-10. Denmark plans new ships, dog sled patrols in Greenland as Trump seeks control
-Link: https://www.reuters.com/world/denmark-plans-new-ships-dog-sled-patrols-greenland-trump-seeks-control-2025-01-10/
+10. Protesters say Fico dragging Slovakia to Russia in Ukraine gas dispute
+Link: https://www.reuters.com/world/europe/protesters-say-fico-dragging-slovakia-russia-ukraine-gas-dispute-2025-01-10/
 
