@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-12 18:22:05
+Daily News Summary - 2025-01-13 09:20:43
 ==================================================
 
 1. Listen to your technology users — they have led to the most disruptive innovations in history
 Link: https://venturebeat.com/ai/listen-to-your-technology-users-they-have-led-to-the-most-disruptive-innovations-in-history/
 
-2. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
+2. AI is set to transform education — what enterprise leaders can learn from this development
+Link: https://venturebeat.com/ai/ai-is-set-to-transform-education-what-enterprise-leaders-can-learn-from-this-development/
+
+3. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
 Link: https://venturebeat.com/ai/google-deepmind-researchers-introduce-new-benchmark-to-improve-llm-factuality-reduce-hallucinations/
 
-3. OpenAI has begun building out its robotics team
+4. OpenAI has begun building out its robotics team
 Link: https://venturebeat.com/ai/openai-has-begun-building-out-its-robotics-team/
 
-4. Researchers improved AI agent performance on unfamiliar tasks using ‘Dungeons and Dragons’
+5. Researchers improved AI agent performance on unfamiliar tasks using ‘Dungeons and Dragons’
 Link: https://venturebeat.com/ai/researchers-improved-ai-agent-performance-on-unfamiliar-tasks-using-dungeons-and-dragons/
 
-5. Breaking the data bottleneck: Salesforce’s ProVision speeds multimodal AI training with image scene graphs
-Link: https://venturebeat.com/data-infrastructure/breaking-the-data-bottleneck-salesforces-provision-speeds-multimodal-ai-training-with-image-scene-graphs/
+6. Thai rice fields transformed into vibrant art depicting red dragon, feline deity
+Link: https://www.reuters.com/world/asia-pacific/thai-rice-fields-transformed-into-vibrant-art-depicting-red-dragon-feline-deity-2025-01-12/
 
-6. Iran holding war games as it faces Israel tensions, Trump's return
-Link: https://www.reuters.com/world/middle-east/iran-holding-war-games-it-faces-israel-tensions-trumps-return-2025-01-11/
+7. Croats vote for president, with incumbent Milanovic ahead in opinion polls
+Link: https://www.reuters.com/world/europe/croats-vote-president-with-incumbent-milanovic-ahead-opinion-polls-2025-01-12/
 
-7. Russia says it will continue oil and gas projects despite US sanctions
-Link: https://www.reuters.com/world/russia-says-it-will-continue-oil-gas-projects-despite-us-sanctions-2025-01-11/
+8. Japan Foreign Minister Iwaya says he will attend Trump inauguration ceremony
+Link: https://www.reuters.com/world/japan-foreign-minister-iwaya-says-he-will-attend-trump-inauguration-ceremony-2025-01-12/
 
-8. Trump's Ukraine envoy Kellogg attends Iran opposition event in Paris
-Link: https://www.reuters.com/world/us/trumps-ukraine-envoy-kellogg-attends-iran-opposition-event-paris-2025-01-11/
+9. Malaysia PM denies hiding document on ex-premier Najib's home detention
+Link: https://www.reuters.com/world/asia-pacific/malaysia-pm-denies-hiding-document-ex-premier-najibs-home-detention-2025-01-12/
 
-9. Germany sets up military division dedicated to territorial defence
-Link: https://www.reuters.com/world/europe/germany-sets-up-military-division-dedicated-territorial-defence-2025-01-11/
-
-10. Ukraine captures two North Korean soldiers in Kursk, Zelenskiy says
-Link: https://www.reuters.com/world/europe/ukraine-captures-two-north-korean-soldiers-kursk-zelenskiy-says-2025-01-11/
+10. South Korea Yoon's lawyer says president will not attend first impeachment trial hearing, Yonhap reports
+Link: https://www.reuters.com/world/asia-pacific/south-korea-yoons-lawyer-says-president-will-not-attend-first-impeachment-trial-2025-01-12/
 
