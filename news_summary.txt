@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-13 09:20:43
+Daily News Summary - 2025-01-13 18:25:46
 ==================================================
 
 1. Listen to your technology users — they have led to the most disruptive innovations in history
@@ -10,24 +10,24 @@ Link: https://venturebeat.com/ai/ai-is-set-to-transform-education-what-enterpris
 3. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
 Link: https://venturebeat.com/ai/google-deepmind-researchers-introduce-new-benchmark-to-improve-llm-factuality-reduce-hallucinations/
 
-4. OpenAI has begun building out its robotics team
-Link: https://venturebeat.com/ai/openai-has-begun-building-out-its-robotics-team/
+4. Cybersecurity at AI speed: How agentic AI is supercharging SOC teams in 2025
+Link: https://venturebeat.com/ai/cybersecurity-at-ai-speed-agentic-ai-supercharging-soc/
 
-5. Researchers improved AI agent performance on unfamiliar tasks using ‘Dungeons and Dragons’
-Link: https://venturebeat.com/ai/researchers-improved-ai-agent-performance-on-unfamiliar-tasks-using-dungeons-and-dragons/
+5. Adobe Firefly Bulk Create edits several images all at once
+Link: https://venturebeat.com/ai/adobe-firefly-bulk-create-edits-several-images-all-at-once/
 
-6. Thai rice fields transformed into vibrant art depicting red dragon, feline deity
-Link: https://www.reuters.com/world/asia-pacific/thai-rice-fields-transformed-into-vibrant-art-depicting-red-dragon-feline-deity-2025-01-12/
+6. Tens of thousands protest in Belgrade
+Link: https://www.reuters.com/world/europe/tens-thousands-protest-belgrade-2025-01-12/
 
-7. Croats vote for president, with incumbent Milanovic ahead in opinion polls
-Link: https://www.reuters.com/world/europe/croats-vote-president-with-incumbent-milanovic-ahead-opinion-polls-2025-01-12/
+7. Romanian protesters demand cancelled presidential election should go ahead
+Link: https://www.reuters.com/world/europe/romanian-protesters-demand-cancelled-presidential-election-should-go-ahead-2025-01-12/
 
-8. Japan Foreign Minister Iwaya says he will attend Trump inauguration ceremony
-Link: https://www.reuters.com/world/japan-foreign-minister-iwaya-says-he-will-attend-trump-inauguration-ceremony-2025-01-12/
+8. Biden likely to talk with Netanyahu; hostage deal 'very close,' security adviser says
+Link: https://www.reuters.com/world/middle-east/biden-likely-talk-with-netanyahu-hostage-deal-very-close-security-adviser-says-2025-01-12/
 
-9. Malaysia PM denies hiding document on ex-premier Najib's home detention
-Link: https://www.reuters.com/world/asia-pacific/malaysia-pm-denies-hiding-document-ex-premier-najibs-home-detention-2025-01-12/
+9. California wildfires devastate Altadena: How one man tried to save his block
+Link: https://www.reuters.com/world/us/how-one-california-man-tried-saving-his-block-wildfire-2025-01-12/
 
-10. South Korea Yoon's lawyer says president will not attend first impeachment trial hearing, Yonhap reports
-Link: https://www.reuters.com/world/asia-pacific/south-korea-yoons-lawyer-says-president-will-not-attend-first-impeachment-trial-2025-01-12/
+10. Top Israeli security delegation in Doha for Gaza talks
+Link: https://www.reuters.com/world/middle-east/top-israeli-security-delegation-doha-gaza-talks-2025-01-12/
 
