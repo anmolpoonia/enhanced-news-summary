@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-13 18:25:46
+Daily News Summary - 2025-01-14 09:18:39
 ==================================================
 
-1. Listen to your technology users — they have led to the most disruptive innovations in history
-Link: https://venturebeat.com/ai/listen-to-your-technology-users-they-have-led-to-the-most-disruptive-innovations-in-history/
+1. Mistral's new Codestral code completion model races up third-party charts
+Link: https://venturebeat.com/ai/mistrals-new-codestral-code-completion-model-races-up-third-party-charts/
 
-2. AI is set to transform education — what enterprise leaders can learn from this development
-Link: https://venturebeat.com/ai/ai-is-set-to-transform-education-what-enterprise-leaders-can-learn-from-this-development/
+2. LlamaV-o1 is the AI model that explains its thought process—here’s why that matters
+Link: https://venturebeat.com/ai/llamav-o1-is-the-ai-model-that-explains-its-thought-process-heres-why-that-matters/
 
-3. Google DeepMind researchers introduce new benchmark to improve LLM factuality, reduce hallucinations
-Link: https://venturebeat.com/ai/google-deepmind-researchers-introduce-new-benchmark-to-improve-llm-factuality-reduce-hallucinations/
-
-4. Cybersecurity at AI speed: How agentic AI is supercharging SOC teams in 2025
+3. Cybersecurity at AI speed: How agentic AI is supercharging SOC teams in 2025
 Link: https://venturebeat.com/ai/cybersecurity-at-ai-speed-agentic-ai-supercharging-soc/
 
-5. Adobe Firefly Bulk Create edits several images all at once
-Link: https://venturebeat.com/ai/adobe-firefly-bulk-create-edits-several-images-all-at-once/
+4. MobileAction Enters Strategic Partnership with Skai to Enhance Apple Search Ads Capabilities
+Link: https://venturebeat.com/business/mobileaction-enters-strategic-partnership-with-skai-to-enhance-apple-search-ads-capabilities/
 
-6. Tens of thousands protest in Belgrade
-Link: https://www.reuters.com/world/europe/tens-thousands-protest-belgrade-2025-01-12/
+5. Do new AI reasoning models require new approaches to prompting?
+Link: https://venturebeat.com/ai/do-new-ai-reasoning-models-require-new-approaches-to-prompting/
 
-7. Romanian protesters demand cancelled presidential election should go ahead
-Link: https://www.reuters.com/world/europe/romanian-protesters-demand-cancelled-presidential-election-should-go-ahead-2025-01-12/
+6. Qatar hands Israel, Hamas 'final' draft of Gaza ceasefire deal, official tells Reuters
+Link: https://www.reuters.com/world/middle-east/qatar-hands-israel-hamas-final-draft-gaza-ceasefire-deal-official-tells-reuters-2025-01-13/
 
-8. Biden likely to talk with Netanyahu; hostage deal 'very close,' security adviser says
-Link: https://www.reuters.com/world/middle-east/biden-likely-talk-with-netanyahu-hostage-deal-very-close-security-adviser-says-2025-01-12/
+7. Ukraine tried to attack TurkStream pipeline infrastructure in southern Russia, Moscow says
+Link: https://www.reuters.com/world/europe/ukraine-tried-attack-turkstream-pipeline-infrastructure-southern-russia-moscow-2025-01-13/
 
-9. California wildfires devastate Altadena: How one man tried to save his block
-Link: https://www.reuters.com/world/us/how-one-california-man-tried-saving-his-block-wildfire-2025-01-12/
+8. Trump call with Putin expected soon, Trump adviser says
+Link: https://www.reuters.com/world/trump-call-with-putin-expected-soon-trump-adviser-says-2025-01-13/
 
-10. Top Israeli security delegation in Doha for Gaza talks
-Link: https://www.reuters.com/world/middle-east/top-israeli-security-delegation-doha-gaza-talks-2025-01-12/
+9. Bezos' Blue Origin prepares for debut New Glenn rocket launch
+Link: https://www.reuters.com/technology/space/bezos-blue-origin-prepares-debut-new-glenn-rocket-launch-2025-01-13/
+
+10. Thai cabinet approves draft law to legalise casinos and gambling, PM says
+Link: https://www.reuters.com/world/asia-pacific/thai-cabinet-approves-draft-law-legalise-casinos-gambling-pm-says-2025-01-13/
 
