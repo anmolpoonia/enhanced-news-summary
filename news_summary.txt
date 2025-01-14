@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-14 09:18:39
+Daily News Summary - 2025-01-14 18:23:08
 ==================================================
 
 1. Mistral's new Codestral code completion model races up third-party charts
@@ -10,24 +10,24 @@ Link: https://venturebeat.com/ai/llamav-o1-is-the-ai-model-that-explains-its-tho
 3. Cybersecurity at AI speed: How agentic AI is supercharging SOC teams in 2025
 Link: https://venturebeat.com/ai/cybersecurity-at-ai-speed-agentic-ai-supercharging-soc/
 
-4. MobileAction Enters Strategic Partnership with Skai to Enhance Apple Search Ads Capabilities
-Link: https://venturebeat.com/business/mobileaction-enters-strategic-partnership-with-skai-to-enhance-apple-search-ads-capabilities/
+4. OpenAI’s agentic era begins: ChatGPT Tasks offers job scheduling, reminders and more
+Link: https://venturebeat.com/ai/openais-agentic-era-begins-chatgpt-tasks-offers-job-scheduling-reminders-and-more/
 
-5. Do new AI reasoning models require new approaches to prompting?
-Link: https://venturebeat.com/ai/do-new-ai-reasoning-models-require-new-approaches-to-prompting/
+5. Building Colossus: Supermicro’s groundbreaking AI supercomputer built for Elon Musk’s xAI
+Link: https://venturebeat.com/ai/building-colossus-supermicros-groundbreaking-ai-supercomputer-built-for-elon-musks-xai/
 
-6. Qatar hands Israel, Hamas 'final' draft of Gaza ceasefire deal, official tells Reuters
-Link: https://www.reuters.com/world/middle-east/qatar-hands-israel-hamas-final-draft-gaza-ceasefire-deal-official-tells-reuters-2025-01-13/
+6. Biggest NATO allies in Europe will swiftly implement new targets, Berlin says
+Link: https://www.reuters.com/world/europe/biggest-nato-allies-europe-will-swiftly-implement-new-targets-berlin-says-2025-01-13/
 
-7. Ukraine tried to attack TurkStream pipeline infrastructure in southern Russia, Moscow says
-Link: https://www.reuters.com/world/europe/ukraine-tried-attack-turkstream-pipeline-infrastructure-southern-russia-moscow-2025-01-13/
+7. Who is Nawaf Salam, Lebanon's new prime minister-designate?
+Link: https://www.reuters.com/world/middle-east/who-is-nawaf-salam-lebanons-new-prime-minister-designate-2025-01-13/
 
-8. Trump call with Putin expected soon, Trump adviser says
-Link: https://www.reuters.com/world/trump-call-with-putin-expected-soon-trump-adviser-says-2025-01-13/
+8. NATO seeks agreement on new goals for weapons and troops in summer, says top official
+Link: https://www.reuters.com/world/europe/nato-seeks-agree-new-goals-weapons-troops-summer-says-top-official-2025-01-13/
 
-9. Bezos' Blue Origin prepares for debut New Glenn rocket launch
-Link: https://www.reuters.com/technology/space/bezos-blue-origin-prepares-debut-new-glenn-rocket-launch-2025-01-13/
+9. Venezuela AG requests warrant, Interpol notice against opposition figure living abroad
+Link: https://www.reuters.com/world/americas/venezuela-ag-requests-warrant-interpol-notice-against-opposition-figure-living-2025-01-13/
 
-10. Thai cabinet approves draft law to legalise casinos and gambling, PM says
-Link: https://www.reuters.com/world/asia-pacific/thai-cabinet-approves-draft-law-legalise-casinos-gambling-pm-says-2025-01-13/
+10. Risky ships must be identified to protect undersea cables, EU's Virkkunen says
+Link: https://www.reuters.com/world/europe/risky-ships-must-be-identified-protect-undersea-cables-eus-virkkunen-says-2025-01-13/
 
