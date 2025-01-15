@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-15 09:18:22
+Daily News Summary - 2025-01-15 18:22:56
 ==================================================
 
-1. OpenAI's agentic era begins: ChatGPT Tasks offers job scheduling, reminders and more
-Link: https://venturebeat.com/ai/openais-agentic-era-begins-chatgpt-tasks-offers-job-scheduling-reminders-and-more/
-
-2. Hallucinations in AI: How GSK is addressing a critical problem in drug development
+1. Hallucinations in AI: How GSK is addressing a critical problem in drug development
 Link: https://venturebeat.com/ai/hallucinations-in-ai-how-gsk-is-addressing-a-critical-problem-in-drug-development/
+
+2. Early days for AI: Only 25% of enterprises have deployed, few reap rewards
+Link: https://venturebeat.com/ai/early-days-for-ai-only-25-of-enterprises-have-deployed-few-reap-rewards/
 
 3. Google’s Gemini AI just shattered the rules of visual processing—here’s what that means for you
 Link: https://venturebeat.com/ai/google-gemini-ai-just-shattered-the-rules-of-visual-processing-heres-what-that-means-for-you/
 
-4. MiniMax unveils its own open source LLM with industry-leading 4M token context
-Link: https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context/
+4. Stoke Space Announces $260 Million in New Investment
+Link: https://venturebeat.com/business/stoke-space-announces-260-million-in-new-investment/
 
-5. Building Colossus: Supermicro’s groundbreaking AI supercomputer built for Elon Musk’s xAI
-Link: https://venturebeat.com/ai/building-colossus-supermicros-groundbreaking-ai-supercomputer-built-for-elon-musks-xai/
+5. What’s next for agentic AI? LangChain founder looks to ambient agents
+Link: https://venturebeat.com/ai/whats-next-for-agentic-ai-langchain-founder-looks-to-ambient-agents/
 
-6. Baltic Sea nations seek to limit further incidents after cable breaches
-Link: https://www.reuters.com/world/europe/baltic-sea-nations-seek-limit-further-incidents-after-cable-breaches-2025-01-14/
+6. Trump will create External Revenue Service to collect revenue from foreign sources
+Link: https://www.reuters.com/world/us/trump-says-will-create-external-revenue-service-collect-revenue-foreign-sources-2025-01-14/
 
-7. Exclusive: China to cut pay by half for staff at top financial regulators, sources say
-Link: https://www.reuters.com/world/china/china-cut-pay-by-half-staff-top-financial-regulators-sources-say-2025-01-14/
+7. UK anti-corruption minister resigns over ties to ousted Bangladesh PM
+Link: https://www.reuters.com/world/uk/uk-anti-corruption-minister-tulip-siddiq-resigns-2025-01-14/
 
-8. As LA fights fires, Australian official urges more help from social media platforms
-Link: https://www.reuters.com/world/asia-pacific/la-fights-fires-australian-official-urges-more-help-social-media-platforms-2025-01-14/
+8. Davos to welcome Trump virtually as world leaders await new US president's policies
+Link: https://www.reuters.com/world/davos-welcome-trump-virtually-he-takes-us-presidency-world-awaits-policies-2025-01-14/
 
-9. Special counsel report found Trump engaged in ‘criminal effort’ to overturn 2020 election
-Link: https://www.reuters.com/world/us/us-justice-dept-releases-report-trump-attempt-overturn-2020-election-2025-01-14/
+9. LA fires: Santa Ana hurricane-force winds could intensify wildfires
+Link: https://www.reuters.com/world/us/los-angeles-firefighters-alert-return-extreme-winds-2025-01-14/
 
-10. Iran, European countries to continue talks over Tehran's nuclear programme, report says
-Link: https://www.reuters.com/world/middle-east/iran-european-countries-continue-talks-over-tehrans-nuclear-programme-report-2025-01-14/
+10. Romanian court lifts house arrest of internet celebrity Andrew Tate
+Link: https://www.reuters.com/world/europe/romanian-courts-lifts-house-arrest-internet-celebrity-andrew-tate-2025-01-14/
 
