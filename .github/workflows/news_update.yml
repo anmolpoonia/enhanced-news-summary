@@ -45,7 +45,7 @@ jobs:
         git config --global user.email "poonia197020@gmail.com"
         git config --global user.name "anmolpoonia"
         git add . -- ':!report.pdf' ':!README.md'
-        git commit -m "Staging changes before pulling" || echo "No changes to commit"
+        git commit -m "latest update" || echo "No changes to commit"
         git pull --rebase origin main
         git add . -- ':!report.pdf' ':!README.md'
         git commit -m "Automated daily update" || echo "No changes to commit"
