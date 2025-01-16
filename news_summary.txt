@@ -1,8 +1,8 @@
-Daily News Summary - 2025-01-16 09:18:35
+Daily News Summary - 2025-01-16 18:23:01
 ==================================================
 
-1. Building resilience with AI threat modeling: Lessons from the Rate Companies
-Link: https://venturebeat.com/security/ai-threat-modeling-why-cisos-are-redefining-identity-centric-zero-trust-in-2025/
+1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
+Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
 
 2. Forget Nvidia: Ndea wants to build AI that keeps improving on its own with 'no bottlenecks in sight'
 Link: https://venturebeat.com/ai/forget-nvidia-ndea-wants-to-build-ai-that-keeps-improving-on-its-own-with-no-bottlenecks-in-sight/
@@ -10,24 +10,24 @@ Link: https://venturebeat.com/ai/forget-nvidia-ndea-wants-to-build-ai-that-keeps
 3. Microsoft’s AutoGen update boosts AI agents with cross-language interoperability and observability
 Link: https://venturebeat.com/ai/microsofts-autogen-update-boosts-ai-agents-with-cross-language-interoperability-and-observability/
 
-4. Luma AI releases Ray2 generative video model with ‘fast, natural’ motion and better physics
-Link: https://venturebeat.com/ai/luma-ai-releases-ray2-generative-video-model-with-fast-natural-motion-and-better-physics/
+4. You can now fine-tune your own version of AI image maker Flux with just 5 images
+Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-image-maker-flux-with-just-5-images/
 
-5. Applications Open for Curql Accelerate’s Third Fintech Cohort
-Link: https://venturebeat.com/business/applications-open-for-curql-accelerates-third-fintech-cohort/
+5. Netradyne® Raises $90 Million in Series D Funding Led by Point72 Private Investments
+Link: https://venturebeat.com/business/netradyne-raises-90-million-in-series-d-funding-led-by-point72-private-investments/
 
-6. Trump advisers concede Ukraine peace deal is months away
-Link: https://www.reuters.com/world/europe/trump-advisers-concede-ukraine-peace-deal-is-months-away-2025-01-15/
+6. Ex-Bank of Canada governor Carney will enter race to replace PM Trudeau - CBC
+Link: https://www.reuters.com/world/americas/ex-bank-canada-governor-carney-will-enter-race-replace-pm-trudeau-cbc-2025-01-15/
 
-7. Indonesia's Mount Ibu erupts, spewing big ash cloud
-Link: https://www.reuters.com/world/asia-pacific/indonesias-mount-ibu-erupts-spewing-big-ash-cloud-2025-01-15/
+7. Alleged Mexican kingpin 'El Mayo' sticks with US lawyer who represented son
+Link: https://www.reuters.com/world/americas/alleged-mexican-kingpin-el-mayo-sticks-with-us-lawyer-who-represented-son-2025-01-15/
 
-8. Ukraine reports emergency power cuts amid 'massive' Russian air strike
-Link: https://www.reuters.com/world/europe/ukraine-reports-emergency-power-cuts-amid-massive-russian-air-strike-2025-01-15/
+8. Micheal Martin to return as Irish prime minister under coalition deal
+Link: https://www.reuters.com/world/europe/micheal-martin-return-irish-prime-minister-under-coalition-deal-2025-01-15/
 
-9. Ukraine's Zelenskiy visits Poland after progress in World War Two dispute
-Link: https://www.reuters.com/world/europe/ukraines-zelenskiy-visits-warsaw-wednesday-poland-says-2025-01-15/
+9. Gaza deal includes six-week initial ceasefire phase, release of hostages, official says
+Link: https://www.reuters.com/world/middle-east/gaza-deal-includes-six-week-initial-ceasefire-phase-release-hostages-official-2025-01-15/
 
-10. Trump's Greenland bid stirs debate in China about what to do with Taiwan
-Link: https://www.reuters.com/world/china/trumps-greenland-bid-stirs-debate-china-about-what-do-with-taiwan-2025-01-15/
+10. Biden's late moves on China, Russia, AI may mostly boost Trump
+Link: https://www.reuters.com/world/bidens-late-moves-china-russia-ai-may-mostly-boost-trump-2025-01-15/
 
