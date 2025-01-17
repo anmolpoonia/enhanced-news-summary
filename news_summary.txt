@@ -1,14 +1,14 @@
-Daily News Summary - 2025-01-16 18:23:01
+Daily News Summary - 2025-01-17 09:18:13
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
 Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
 
-2. Forget Nvidia: Ndea wants to build AI that keeps improving on its own with 'no bottlenecks in sight'
-Link: https://venturebeat.com/ai/forget-nvidia-ndea-wants-to-build-ai-that-keeps-improving-on-its-own-with-no-bottlenecks-in-sight/
+2. Microsoft just built an AI that designs materials for the future: Here's how it works
+Link: https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever/
 
-3. Microsoft’s AutoGen update boosts AI agents with cross-language interoperability and observability
-Link: https://venturebeat.com/ai/microsofts-autogen-update-boosts-ai-agents-with-cross-language-interoperability-and-observability/
+3. Enterprises can now run real-time data through Google Cloud's most advanced VMs
+Link: https://venturebeat.com/data-infrastructure/enterprises-can-now-run-real-time-data-through-google-clouds-most-advanced-vms/
 
 4. You can now fine-tune your own version of AI image maker Flux with just 5 images
 Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-image-maker-flux-with-just-5-images/
@@ -16,18 +16,18 @@ Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-im
 5. Netradyne® Raises $90 Million in Series D Funding Led by Point72 Private Investments
 Link: https://venturebeat.com/business/netradyne-raises-90-million-in-series-d-funding-led-by-point72-private-investments/
 
-6. Ex-Bank of Canada governor Carney will enter race to replace PM Trudeau - CBC
-Link: https://www.reuters.com/world/americas/ex-bank-canada-governor-carney-will-enter-race-replace-pm-trudeau-cbc-2025-01-15/
+6. Ukraine says it downed 34 Russian drones in overnight attack
+Link: https://www.reuters.com/world/europe/ukraine-says-it-downed-34-russian-drones-overnight-attack-2025-01-16/
 
-7. Alleged Mexican kingpin 'El Mayo' sticks with US lawyer who represented son
-Link: https://www.reuters.com/world/americas/alleged-mexican-kingpin-el-mayo-sticks-with-us-lawyer-who-represented-son-2025-01-15/
+7. French parliament head warns against backing no-confidence vote versus government
+Link: https://www.reuters.com/world/europe/french-parliament-head-warns-against-backing-no-confidence-vote-versus-2025-01-16/
 
-8. Micheal Martin to return as Irish prime minister under coalition deal
-Link: https://www.reuters.com/world/europe/micheal-martin-return-irish-prime-minister-under-coalition-deal-2025-01-15/
+8. Iran says Gaza ceasefire is a 'victory' for Palestinian resistance
+Link: https://www.reuters.com/world/middle-east/iran-says-gaza-ceasefire-is-victory-palestinian-resistance-2025-01-16/
 
-9. Gaza deal includes six-week initial ceasefire phase, release of hostages, official says
-Link: https://www.reuters.com/world/middle-east/gaza-deal-includes-six-week-initial-ceasefire-phase-release-hostages-official-2025-01-15/
+9. Cyprus says US decree on security affirms island's stabilising role in region
+Link: https://www.reuters.com/world/cyprus-says-us-decree-security-affirms-islands-stabilising-role-region-2025-01-16/
 
-10. Biden's late moves on China, Russia, AI may mostly boost Trump
-Link: https://www.reuters.com/world/bidens-late-moves-china-russia-ai-may-mostly-boost-trump-2025-01-15/
+10. UK PM Starmer to travel to Ukraine to sign new treaty
+Link: https://www.reuters.com/world/uk-pm-starmer-travel-ukraine-sign-new-treaty-2025-01-16/
 

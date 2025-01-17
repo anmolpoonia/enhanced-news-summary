@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-new: 33 mentions
-says: 29 mentions
+new: 34 mentions
+says: 32 mentions
 trump: 22 mentions
 researchers: 16 mentions
 model: 15 mentions
