@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-17 18:23:05
+Daily News Summary - 2025-01-18 09:16:20
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
 Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
 
-2. Microsoft just built an AI that designs materials for the future: Here's how it works
-Link: https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever/
+2. Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads
+Link: https://venturebeat.com/ai/beyond-rag-how-cache-augmented-generation-reduces-latency-complexity-for-smaller-workloads/
 
-3. Enterprises can now run real-time data through Google Cloud's most advanced VMs
-Link: https://venturebeat.com/data-infrastructure/enterprises-can-now-run-real-time-data-through-google-clouds-most-advanced-vms/
+3. Runway's new AI image generator Frames is here, and it looks fittingly cinematic
+Link: https://venturebeat.com/ai/runways-new-ai-image-generator-frames-is-here-and-it-looks-fittingly-cinematic/
 
 4. Devin 1.2: Updated AI engineer enhances coding with smarter in-context reasoning, voice integration
 Link: https://venturebeat.com/ai/devin-1-2-updated-ai-engineer-enhances-coding-smarter-in-context-reasoning-voice-integration/
 
-5. You can now fine-tune your own version of AI image maker Flux with just 5 images
-Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-image-maker-flux-with-just-5-images/
+5. Microsoft just built an AI that designs materials for the future: Here’s how it works
+Link: https://venturebeat.com/ai/microsoft-mattergen-ai-system-generates-materials-that-could-change-industries-forever/
 
-6. Cuba releases jailed dissident, rights activist Jose Daniel Ferrer
-Link: https://www.reuters.com/world/americas/cuba-releases-jailed-dissident-rights-activist-jose-daniel-ferrer-2025-01-16/
+6. Iranian president arrives in Moscow for treaty signing with Putin, TASS says
+Link: https://www.reuters.com/world/iranian-president-arrives-moscow-treaty-signing-with-putin-tass-says-2025-01-17/
 
-7. WHO calls for international support to fund aid in Gaza after ceasefire deal
-Link: https://www.reuters.com/world/who-calls-international-support-fund-aid-gaza-after-ceasefire-deal-2025-01-16/
+7. ICC prosecutor sees 'no real effort' by Israel to probe alleged Gaza war crimes
+Link: https://www.reuters.com/world/middle-east/icc-prosecutor-sees-no-real-effort-by-israel-probe-alleged-gaza-war-crimes-2025-01-17/
 
-8. Iraq wants Iran-backed factions to lay down weapons, foreign minister says
-Link: https://www.reuters.com/world/middle-east/iraq-wants-iran-backed-factions-lay-down-weapons-foreign-minister-says-2025-01-16/
+8. Three Navalny lawyers jailed for belonging to extremist organisation, Mediazona news outlet says
+Link: https://www.reuters.com/world/europe/three-navalny-lawyers-jailed-belonging-extremist-organisation-mediazona-news-2025-01-17/
 
-9. US envoys working to resolve last-minute dispute over Gaza deal, US official says
-Link: https://www.reuters.com/world/middle-east/us-envoys-working-resolve-last-minute-dispute-over-gaza-deal-us-official-says-2025-01-16/
+9. Pakistan court sentences ex-PM Imran Khan to 14 years in land graft case, ARY News reports
+Link: https://www.reuters.com/world/asia-pacific/pakistan-court-sentences-ex-pm-imran-khan-14-years-land-graft-case-ary-news-2025-01-17/
 
-10. Human Rights Watch chief says Trump's return threatens freedoms
-Link: https://www.reuters.com/world/human-rights-watch-chief-says-trumps-return-threatens-freedoms-2025-01-16/
+10. 'It starts now': South Korea's President Yoon defiant as police closed in
+Link: https://www.reuters.com/world/asia-pacific/it-starts-now-south-koreas-president-yoon-defiant-police-closed-2025-01-17/
 
