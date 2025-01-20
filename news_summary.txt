@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-20 09:19:22
+Daily News Summary - 2025-01-20 18:22:37
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
@@ -10,24 +10,24 @@ Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aide
 3. Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
 Link: https://venturebeat.com/ai/anthropomorphizing-ai-dire-consequences-of-mistaking-human-like-for-human-have-already-emerged/
 
-4. Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
+4. Open-source DeepSeek-R1 uses pure reinforcement learning to match OpenAI o1 — at 95% less cost
+Link: https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/
+
+5. Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
 Link: https://venturebeat.com/ai/microsoft-autogen-v0-4-a-turning-point-toward-more-intelligent-ai-agents-for-enterprise-developers/
 
-5. Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads
-Link: https://venturebeat.com/ai/beyond-rag-how-cache-augmented-generation-reduces-latency-complexity-for-smaller-workloads/
+6. Cheers and weeping as Israelis watch Gaza hostages return
+Link: https://www.reuters.com/world/middle-east/cheers-weeping-israelis-watch-gaza-hostages-return-2025-01-19/
 
-6. Philippines, U.S. hold joint maritime exercises in South China Sea
-Link: https://www.reuters.com/world/asia-pacific/philippines-us-hold-joint-maritime-exercises-south-china-sea-2025-01-19/
+7. Economic grievances fuel support for hostile actions, Edelman global survey shows
+Link: https://www.reuters.com/world/economic-grievances-fuel-support-hostile-actions-edelman-global-survey-shows-2025-01-19/
 
-7. Death toll in Colombia's Catatumbo rises to 60, ombudsman says
-Link: https://www.reuters.com/world/americas/death-toll-colombias-catatumbo-rises-60-ombudsman-says-2025-01-19/
+8. Negotiators zero in on potential deal to disarm Syria's last battleground
+Link: https://www.reuters.com/world/middle-east/negotiators-zero-potential-deal-disarm-syrias-last-battleground-2025-01-19/
 
-8. Gaza ceasefire and hostage release set to begin
-Link: https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/
+9. TikTok goes dark for US users; Trump signals intervention
+Link: https://www.reuters.com/technology/tiktok-goes-dark-us-users-trump-says-save-tiktok-2025-01-19/
 
-9. Exclusive: German ambassador warns of Trump plan to redefine constitutional order, document shows
-Link: https://www.reuters.com/world/us/german-ambassador-warns-trump-plan-redefine-constitutional-order-document-shows-2025-01-18/
-
-10. South Korean court extends President Yoon's detention
-Link: https://www.reuters.com/world/asia-pacific/south-korean-court-grants-extension-president-yoons-detention-2025-01-18/
+10. Who are the Israeli hostages being released by Hamas on Sunday?
+Link: https://www.reuters.com/world/middle-east/factbox-who-are-israeli-hostages-being-released-by-hamas-sunday-2025-01-19/
 
