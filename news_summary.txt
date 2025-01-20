@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-19 18:21:18
+Daily News Summary - 2025-01-20 09:19:22
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
 Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
 
-2. Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
+2. AI comes alive: From bartenders to surgical aides to puppies, tomorrow's robots are on their way
+Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/
+
+3. Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
 Link: https://venturebeat.com/ai/anthropomorphizing-ai-dire-consequences-of-mistaking-human-like-for-human-have-already-emerged/
 
-3. Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
+4. Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
 Link: https://venturebeat.com/ai/microsoft-autogen-v0-4-a-turning-point-toward-more-intelligent-ai-agents-for-enterprise-developers/
 
-4. Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads
+5. Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads
 Link: https://venturebeat.com/ai/beyond-rag-how-cache-augmented-generation-reduces-latency-complexity-for-smaller-workloads/
 
-5. Runway’s new AI image generator Frames is here, and it looks fittingly cinematic
-Link: https://venturebeat.com/ai/runways-new-ai-image-generator-frames-is-here-and-it-looks-fittingly-cinematic/
+6. Philippines, U.S. hold joint maritime exercises in South China Sea
+Link: https://www.reuters.com/world/asia-pacific/philippines-us-hold-joint-maritime-exercises-south-china-sea-2025-01-19/
 
-6. Thousands gather in Washington to protest Trump inauguration
-Link: https://www.reuters.com/world/us/thousands-gather-washington-protest-trump-inauguration-2025-01-18/
+7. Death toll in Colombia's Catatumbo rises to 60, ombudsman says
+Link: https://www.reuters.com/world/americas/death-toll-colombias-catatumbo-rises-60-ombudsman-says-2025-01-19/
 
-7. Austin Tice's mother, in Damascus, hopes to find son missing since 2012
-Link: https://www.reuters.com/world/austin-tices-mother-damascus-hopes-find-son-missing-since-2012-2025-01-18/
+8. Gaza ceasefire and hostage release set to begin
+Link: https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/
 
-8. Fuel tanker truck blast kills at least 60 in Nigeria
-Link: https://www.reuters.com/world/africa/fuel-tanker-truck-explosion-kills-least-60-people-nigeria-2025-01-18/
+9. Exclusive: German ambassador warns of Trump plan to redefine constitutional order, document shows
+Link: https://www.reuters.com/world/us/german-ambassador-warns-trump-plan-redefine-constitutional-order-document-shows-2025-01-18/
 
-9. Blackouts hit wide swathes of army-controlled Sudan after drone attacks
-Link: https://www.reuters.com/world/africa/blackouts-hit-wide-swathes-army-controlled-sudan-after-drone-attacks-2025-01-18/
-
-10. Dozens injured, trapped in a ski lift accident in the north of Spain
-Link: https://www.reuters.com/world/europe/dozens-injured-trapped-ski-lift-accident-north-spain-2025-01-18/
+10. South Korean court extends President Yoon's detention
+Link: https://www.reuters.com/world/asia-pacific/south-korean-court-grants-extension-president-yoons-detention-2025-01-18/
 
