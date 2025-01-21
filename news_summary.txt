@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-21 09:18:45
+Daily News Summary - 2025-01-21 18:23:41
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
@@ -10,24 +10,9 @@ Link: https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement
 3. AI comes alive: From bartenders to surgical aides to puppies, tomorrow's robots are on their way
 Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/
 
-4. Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
-Link: https://venturebeat.com/ai/anthropomorphizing-ai-dire-consequences-of-mistaking-human-like-for-human-have-already-emerged/
+4. Precog Secures Significant Investment from Venture Guides to Accelerate Growth and Market Expansion
+Link: https://venturebeat.com/business/precog-secures-significant-investment-from-venture-guides-to-accelerate-growth-and-market-expansion/
 
-5. Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
-Link: https://venturebeat.com/ai/microsoft-autogen-v0-4-a-turning-point-toward-more-intelligent-ai-agents-for-enterprise-developers/
-
-6. France to keep fighting for release of French-Israeli hostages, says foreign minister
-Link: https://www.reuters.com/world/europe/france-keep-fighting-release-french-israeli-hostages-says-foreign-minister-2025-01-20/
-
-7. Russian disinformation targets German election campaign, says think-tank
-Link: https://www.reuters.com/world/europe/russian-disinformation-targets-german-election-campaign-says-think-tank-2025-01-20/
-
-8. South Korea's Yoon shuns questioning as security tightened after court rampage
-Link: https://www.reuters.com/world/asia-pacific/south-koreas-yoon-shuns-questioning-security-tightened-after-court-rampage-2025-01-20/
-
-9. Taliban deputy foreign minister calls for girls' high schools to open
-Link: https://www.reuters.com/world/asia-pacific/taliban-deputy-foreign-minister-calls-girls-high-schools-open-2025-01-20/
-
-10. Nigeria death toll from fuel truck blast reaches 86
-Link: https://www.reuters.com/world/africa/nigeria-death-toll-fuel-truck-blast-reaches-86-2025-01-20/
+5. These are the best-paid programming languages for 2025
+Link: https://venturebeat.com/programming-development/these-are-the-best-paid-programming-languages-for-2025/
 
