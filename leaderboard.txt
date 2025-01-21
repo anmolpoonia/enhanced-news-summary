@@ -1,5 +1,5 @@
 Top 5 Words in News Titles:
-says: 40 mentions
+says: 42 mentions
 new: 39 mentions
 trump: 26 mentions
 gaza: 17 mentions

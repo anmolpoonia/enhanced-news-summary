@@ -1,33 +1,33 @@
-Daily News Summary - 2025-01-20 18:22:37
+Daily News Summary - 2025-01-21 09:18:45
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
 Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
 
-2. AI comes alive: From bartenders to surgical aides to puppies, tomorrow's robots are on their way
+2. Open-source DeepSeek-R1 uses pure reinforcement learning to match OpenAI o1 — at 95% less cost
+Link: https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/
+
+3. AI comes alive: From bartenders to surgical aides to puppies, tomorrow's robots are on their way
 Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/
 
-3. Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
+4. Anthropomorphizing AI: Dire consequences of mistaking human-like for human have already emerged
 Link: https://venturebeat.com/ai/anthropomorphizing-ai-dire-consequences-of-mistaking-human-like-for-human-have-already-emerged/
-
-4. Open-source DeepSeek-R1 uses pure reinforcement learning to match OpenAI o1 — at 95% less cost
-Link: https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/
 
 5. Microsoft AutoGen v0.4: A turning point toward more intelligent AI agents for enterprise developers
 Link: https://venturebeat.com/ai/microsoft-autogen-v0-4-a-turning-point-toward-more-intelligent-ai-agents-for-enterprise-developers/
 
-6. Cheers and weeping as Israelis watch Gaza hostages return
-Link: https://www.reuters.com/world/middle-east/cheers-weeping-israelis-watch-gaza-hostages-return-2025-01-19/
+6. France to keep fighting for release of French-Israeli hostages, says foreign minister
+Link: https://www.reuters.com/world/europe/france-keep-fighting-release-french-israeli-hostages-says-foreign-minister-2025-01-20/
 
-7. Economic grievances fuel support for hostile actions, Edelman global survey shows
-Link: https://www.reuters.com/world/economic-grievances-fuel-support-hostile-actions-edelman-global-survey-shows-2025-01-19/
+7. Russian disinformation targets German election campaign, says think-tank
+Link: https://www.reuters.com/world/europe/russian-disinformation-targets-german-election-campaign-says-think-tank-2025-01-20/
 
-8. Negotiators zero in on potential deal to disarm Syria's last battleground
-Link: https://www.reuters.com/world/middle-east/negotiators-zero-potential-deal-disarm-syrias-last-battleground-2025-01-19/
+8. South Korea's Yoon shuns questioning as security tightened after court rampage
+Link: https://www.reuters.com/world/asia-pacific/south-koreas-yoon-shuns-questioning-security-tightened-after-court-rampage-2025-01-20/
 
-9. TikTok goes dark for US users; Trump signals intervention
-Link: https://www.reuters.com/technology/tiktok-goes-dark-us-users-trump-says-save-tiktok-2025-01-19/
+9. Taliban deputy foreign minister calls for girls' high schools to open
+Link: https://www.reuters.com/world/asia-pacific/taliban-deputy-foreign-minister-calls-girls-high-schools-open-2025-01-20/
 
-10. Who are the Israeli hostages being released by Hamas on Sunday?
-Link: https://www.reuters.com/world/middle-east/factbox-who-are-israeli-hostages-being-released-by-hamas-sunday-2025-01-19/
+10. Nigeria death toll from fuel truck blast reaches 86
+Link: https://www.reuters.com/world/africa/nigeria-death-toll-fuel-truck-blast-reaches-86-2025-01-20/
 
