@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-21 18:23:41
+Daily News Summary - 2025-01-22 09:19:15
 ==================================================
 
 1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
 Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
 
-2. Open-source DeepSeek-R1 uses pure reinforcement learning to match OpenAI o1 — at 95% less cost
-Link: https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/
+2. Tencent introduces 'Hunyuan3D 2.0' AI that speeds up 3D design from days to seconds
+Link: https://venturebeat.com/ai/tencent-introduces-hunyuan3d-2-0-ai-that-speeds-up-3d-design-from-days-to-seconds/
 
-3. AI comes alive: From bartenders to surgical aides to puppies, tomorrow's robots are on their way
-Link: https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/
+3. How Axis Security is using Xpander.AI's agent platform to supercharge customer support ticket management
+Link: https://venturebeat.com/security/how-axis-security-is-using-xpander-ais-agent-platform-to-supercharge-customer-support-ticket-management/
 
-4. Precog Secures Significant Investment from Venture Guides to Accelerate Growth and Market Expansion
+4. Perplexity launches Sonar API, taking aim at Google and OpenAI with real-time AI search
+Link: https://venturebeat.com/ai/perplexity-launches-sonar-api-taking-aim-at-google-and-openai-with-real-time-ai-search/
+
+5. Precog Secures Significant Investment from Venture Guides to Accelerate Growth and Market Expansion
 Link: https://venturebeat.com/business/precog-secures-significant-investment-from-venture-guides-to-accelerate-growth-and-market-expansion/
-
-5. These are the best-paid programming languages for 2025
-Link: https://venturebeat.com/programming-development/these-are-the-best-paid-programming-languages-for-2025/
 
