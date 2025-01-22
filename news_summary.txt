@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-22 09:19:15
+Daily News Summary - 2025-01-22 18:24:01
 ==================================================
 
-1. VentureBeat Special Issue - AI at Scale: from Vision to Viability
-Link: https://venturebeat.com/venturebeat-special-issue-ai-at-scale-from-vision-to-viability/
+1. OpenAI Stargate is a $500B bet: America's AI Manhattan Project or costly dead end?
+Link: https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/
 
-2. Tencent introduces 'Hunyuan3D 2.0' AI that speeds up 3D design from days to seconds
-Link: https://venturebeat.com/ai/tencent-introduces-hunyuan3d-2-0-ai-that-speeds-up-3d-design-from-days-to-seconds/
-
-3. How Axis Security is using Xpander.AI's agent platform to supercharge customer support ticket management
-Link: https://venturebeat.com/security/how-axis-security-is-using-xpander-ais-agent-platform-to-supercharge-customer-support-ticket-management/
-
-4. Perplexity launches Sonar API, taking aim at Google and OpenAI with real-time AI search
+2. Perplexity launches Sonar API, taking aim at Google and OpenAI with real-time AI search
 Link: https://venturebeat.com/ai/perplexity-launches-sonar-api-taking-aim-at-google-and-openai-with-real-time-ai-search/
 
-5. Precog Secures Significant Investment from Venture Guides to Accelerate Growth and Market Expansion
-Link: https://venturebeat.com/business/precog-secures-significant-investment-from-venture-guides-to-accelerate-growth-and-market-expansion/
+3. How Harness is 'harnessing' agentic AI to help improve enterprise incident response with automated data collection and playbooks
+Link: https://venturebeat.com/ai/harness-debuts-agentic-ai-powered-incident-response-in-a-bid-to-help-enterprises-cut-downtime-and-respond-faster/
+
+4. DeepMind’s new inference-time scaling technique improves planning accuracy in LLMs
+Link: https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improves-planning-accuracy-in-llms/
+
+5. StructuredWeb Secures $30 Million From Invictus Growth Partners to Drive AI-Enabled Channel Sales and Marketing
+Link: https://venturebeat.com/business/structuredweb-secures-30-million-from-invictus-growth-partners-to-drive-ai-enabled-channel-sales-and-marketing/
 
