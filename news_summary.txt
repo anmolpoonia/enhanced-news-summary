@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-23 09:18:37
+Daily News Summary - 2025-01-23 18:23:29
 ==================================================
 
 1. ByteDance's UI-TARS can take over your computer, outperforms GPT-4o and Claude
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/google-releases-free-gemini-2-0-flash-thinking-
 3. DeepMind’s new inference-time scaling technique improves planning accuracy in LLMs
 Link: https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improves-planning-accuracy-in-llms/
 
-4. OpenAI Stargate is a $500B bet: America’s AI Manhattan Project or costly dead end?
-Link: https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/
+4. Pipeshift cuts GPU usage for AI inferences 75% with modular interface engine
+Link: https://venturebeat.com/ai/pipeshift-cuts-gpu-usage-for-ai-inferences-75-with-modular-interface-engine/
 
-5. StructuredWeb Secures $30 Million From Invictus Growth Partners to Drive AI-Enabled Channel Sales and Marketing
-Link: https://venturebeat.com/business/structuredweb-secures-30-million-from-invictus-growth-partners-to-drive-ai-enabled-channel-sales-and-marketing/
+5. Elisity Achieves Record Momentum in 2024 as Adoption of Identity-Based Microsegmentation Accelerates
+Link: https://venturebeat.com/business/elisity-achieves-record-momentum-in-2024-as-adoption-of-identity-based-microsegmentation-accelerates/
 
