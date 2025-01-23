@@ -1,17 +1,17 @@
-Daily News Summary - 2025-01-22 18:24:01
+Daily News Summary - 2025-01-23 09:18:37
 ==================================================
 
-1. OpenAI Stargate is a $500B bet: America's AI Manhattan Project or costly dead end?
-Link: https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/
+1. ByteDance's UI-TARS can take over your computer, outperforms GPT-4o and Claude
+Link: https://venturebeat.com/ai/bytedances-ui-tars-can-take-over-your-computer-outperforms-gpt-4o-and-claude/
 
-2. Perplexity launches Sonar API, taking aim at Google and OpenAI with real-time AI search
-Link: https://venturebeat.com/ai/perplexity-launches-sonar-api-taking-aim-at-google-and-openai-with-real-time-ai-search/
+2. Google releases free Gemini 2.0 Flash Thinking model, pressuring OpenAI's premium strategy
+Link: https://venturebeat.com/ai/google-releases-free-gemini-2-0-flash-thinking-model-pressuring-openais-premium-strategy/
 
-3. How Harness is 'harnessing' agentic AI to help improve enterprise incident response with automated data collection and playbooks
-Link: https://venturebeat.com/ai/harness-debuts-agentic-ai-powered-incident-response-in-a-bid-to-help-enterprises-cut-downtime-and-respond-faster/
-
-4. DeepMind’s new inference-time scaling technique improves planning accuracy in LLMs
+3. DeepMind’s new inference-time scaling technique improves planning accuracy in LLMs
 Link: https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improves-planning-accuracy-in-llms/
+
+4. OpenAI Stargate is a $500B bet: America’s AI Manhattan Project or costly dead end?
+Link: https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/
 
 5. StructuredWeb Secures $30 Million From Invictus Growth Partners to Drive AI-Enabled Channel Sales and Marketing
 Link: https://venturebeat.com/business/structuredweb-secures-30-million-from-invictus-growth-partners-to-drive-ai-enabled-channel-sales-and-marketing/
