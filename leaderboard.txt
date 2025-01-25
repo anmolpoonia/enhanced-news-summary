@@ -2,5 +2,5 @@ Top 5 Words in News Titles:
 new: 44 mentions
 says: 42 mentions
 trump: 26 mentions
-model: 18 mentions
+model: 19 mentions
 gaza: 17 mentions
