@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-26 09:17:21
+Daily News Summary - 2025-01-26 18:21:42
 ==================================================
 
-1. Why 'prosocial AI' must be the framework for designing, deploying and governing AI
-Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
-
-2. Tech leaders respond to the rapid rise of DeepSeek
-Link: https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/
-
-3. OpenAI: Extending model 'thinking time' helps combat emerging cyber vulnerabilities
-Link: https://venturebeat.com/ai/openai-extending-model-thinking-time-helps-combat-emerging-cyber-vulnerabilities/
-
-4. DeepSeek R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost
+1. DeepSeek R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost
 Link: https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost/
 
-5. ImmunoMet Therapeutics Presents Updated Clinical Data from Phase 1b Study of Lixumistat in Pancreatic Cancer at ASCO-GI Meeting
+2. Why 'prosocial AI' must be the framework for designing, deploying and governing AI
+Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
+
+3. AI chat firm GameOn couple arrested for defrauding investors of over $60M to finance wedding and more
+Link: https://venturebeat.com/games/ai-chat-firm-gameon-couple-arrested-for-defrauding-investors-of-over-60m-to-finance-wedding-and-more/
+
+4. ImmunoMet Therapeutics Presents Updated Clinical Data from Phase 1b Study of Lixumistat in Pancreatic Cancer at ASCO-GI Meeting
 Link: https://venturebeat.com/business/immunomet-therapeutics-presents-updated-clinical-data-from-phase-1b-study-of-lixumistat-in-pancreatic-cancer-at-asco-gi-meeting/
+
+5. Tech leaders respond to the rapid rise of DeepSeek
+Link: https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/
 
