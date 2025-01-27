@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-26 18:21:42
+Daily News Summary - 2025-01-27 09:19:42
 ==================================================
 
 1. DeepSeek R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost
 Link: https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost/
 
-2. Why 'prosocial AI' must be the framework for designing, deploying and governing AI
+2. We asked OpenAI's o1 about the top AI trends in 2025 — here's a look into our conversation
+Link: https://venturebeat.com/ai/we-asked-openais-o1-about-the-top-ai-trends-in-2025-heres-a-look-into-our-conversation/
+
+3. Why 'prosocial AI' must be the framework for designing, deploying and governing AI
 Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
 
-3. AI chat firm GameOn couple arrested for defrauding investors of over $60M to finance wedding and more
-Link: https://venturebeat.com/games/ai-chat-firm-gameon-couple-arrested-for-defrauding-investors-of-over-60m-to-finance-wedding-and-more/
+4. Corstasis Therapeutics Inc. Announces FDA Acceptance of New Drug Application for Bumetanide Nasal Spray
+Link: https://venturebeat.com/business/corstasis-therapeutics-inc-announces-fda-acceptance-of-new-drug-application-for-bumetanide-nasal-spray/
 
-4. ImmunoMet Therapeutics Presents Updated Clinical Data from Phase 1b Study of Lixumistat in Pancreatic Cancer at ASCO-GI Meeting
+5. ImmunoMet Therapeutics Presents Updated Clinical Data from Phase 1b Study of Lixumistat in Pancreatic Cancer at ASCO-GI Meeting
 Link: https://venturebeat.com/business/immunomet-therapeutics-presents-updated-clinical-data-from-phase-1b-study-of-lixumistat-in-pancreatic-cancer-at-asco-gi-meeting/
-
-5. Tech leaders respond to the rapid rise of DeepSeek
-Link: https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/
 
