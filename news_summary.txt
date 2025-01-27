@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-27 09:19:42
+Daily News Summary - 2025-01-27 18:23:28
 ==================================================
 
 1. DeepSeek R1’s bold bet on reinforcement learning: How it outpaced OpenAI at 3% of the cost
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/we-asked-openais-o1-about-the-top-ai-trends-in-
 3. Why 'prosocial AI' must be the framework for designing, deploying and governing AI
 Link: https://venturebeat.com/ai/why-prosocial-ai-must-be-the-framework-for-designing-deploying-and-governing-ai/
 
-4. Corstasis Therapeutics Inc. Announces FDA Acceptance of New Drug Application for Bumetanide Nasal Spray
-Link: https://venturebeat.com/business/corstasis-therapeutics-inc-announces-fda-acceptance-of-new-drug-application-for-bumetanide-nasal-spray/
+4. ONCOMATRYX Raises €25 Million to Foster OMTX705 Clinical Trials
+Link: https://venturebeat.com/business/oncomatryx-raises-e25-million-to-foster-omtx705-clinical-trials/
 
-5. ImmunoMet Therapeutics Presents Updated Clinical Data from Phase 1b Study of Lixumistat in Pancreatic Cancer at ASCO-GI Meeting
-Link: https://venturebeat.com/business/immunomet-therapeutics-presents-updated-clinical-data-from-phase-1b-study-of-lixumistat-in-pancreatic-cancer-at-asco-gi-meeting/
+5. Neural Frames Launches Next-Generation AI Video Editor, Integrating Runway’s Gen-3 Alpha
+Link: https://venturebeat.com/business/neural-frames-launches-next-generation-ai-video-editor-integrating-runways-gen-3-alpha/
 
