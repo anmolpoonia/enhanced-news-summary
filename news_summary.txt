@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-28 09:18:29
+Daily News Summary - 2025-01-28 18:23:12
 ==================================================
 
 1. DeepSeek-R1 is a boon for enterprises — making AI apps cheaper, easier to build, and more innovative
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/deepseek-unleashes-janus-pro-7b-vision-model-am
 3. Is DeepSeek really sending data to China? Let’s decode
 Link: https://venturebeat.com/ai/is-deepseek-really-sending-data-to-china-lets-decode/
 
-4. Calm down: DeepSeek-R1 is great, but ChatGPT’s product advantage is far from over
-Link: https://venturebeat.com/ai/calm-down-deepseek-r1-is-great-but-chatgpts-product-advantage-is-far-from-over/
+4. Outsmarting AI-powered cyber attacks: A 2025 playbook for real-time endpoint defense
+Link: https://venturebeat.com/security/outsmarting-ai-powered-cyber-attacks-endpoint-defense-2025/
 
-5. ONCOMATRYX Raises €25 Million to Foster OMTX705 Clinical Trials
-Link: https://venturebeat.com/business/oncomatryx-raises-e25-million-to-foster-omtx705-clinical-trials/
+5. Snowflake makes SnowConvert free and adds support for migrating enterprise data from Amazon
+Link: https://venturebeat.com/data-infrastructure/snowflake-makes-snowconvert-free-and-adds-support-for-migrating-enterprise-data-from-amazon/
 
