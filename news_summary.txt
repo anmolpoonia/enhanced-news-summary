@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-28 18:23:12
+Daily News Summary - 2025-01-29 09:18:09
 ==================================================
 
-1. DeepSeek-R1 is a boon for enterprises — making AI apps cheaper, easier to build, and more innovative
-Link: https://venturebeat.com/ai/deepseek-r1-is-a-boon-for-enterprises-making-ai-apps-cheaper-easier-to-build-and-more-innovative/
+1. VB in Conversation - Securing the Super Bowl
+Link: https://venturebeat.com/vb-in-conversation-securing-the-superbowl/
 
-2. DeepSeek unleashes 'Janus Pro 7B' vision model amidst AI stock bloodbath, igniting fresh fears of Chinese tech dominance
-Link: https://venturebeat.com/ai/deepseek-unleashes-janus-pro-7b-vision-model-amidst-ai-stock-bloodbath-igniting-fresh-fears-of-chinese-tech-dominance/
+2. Jack Dorsey is back with Goose, a new, ultra simple open source AI agent building platform from his startup Block
+Link: https://venturebeat.com/programming-development/jack-dorsey-is-back-with-goose-a-new-ultra-simple-open-source-ai-agent-building-platform-from-his-startup-block/
 
-3. Is DeepSeek really sending data to China? Let’s decode
-Link: https://venturebeat.com/ai/is-deepseek-really-sending-data-to-china-lets-decode/
+3. Alibaba’s Qwen2.5-Max challenges U.S. tech giants, reshapes enterprise AI
+Link: https://venturebeat.com/ai/alibabas-qwen2-5-max-challenges-u-s-tech-giants-reshapes-enterprise-ai/
 
-4. Outsmarting AI-powered cyber attacks: A 2025 playbook for real-time endpoint defense
+4. PureSpectrum Launches Industry’s First Training Data: Redefining AI with Accurate Human-Centric Datasets for Market Research
+Link: https://venturebeat.com/business/purespectrum-launches-industrys-first-training-data-redefining-ai-with-accurate-human-centric-datasets-for-market-research/
+
+5. Outsmarting AI-powered cyber attacks: A 2025 playbook for real-time endpoint defense
 Link: https://venturebeat.com/security/outsmarting-ai-powered-cyber-attacks-endpoint-defense-2025/
-
-5. Snowflake makes SnowConvert free and adds support for migrating enterprise data from Amazon
-Link: https://venturebeat.com/data-infrastructure/snowflake-makes-snowconvert-free-and-adds-support-for-migrating-enterprise-data-from-amazon/
 
