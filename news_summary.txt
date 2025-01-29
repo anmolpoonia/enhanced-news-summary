@@ -1,8 +1,8 @@
-Daily News Summary - 2025-01-29 09:18:09
+Daily News Summary - 2025-01-29 18:23:40
 ==================================================
 
-1. VB in Conversation - Securing the Super Bowl
-Link: https://venturebeat.com/vb-in-conversation-securing-the-superbowl/
+1. DeepSeek-R1 is a boon for enterprises — making AI apps cheaper, easier to build, and more innovative
+Link: https://venturebeat.com/ai/deepseek-r1-is-a-boon-for-enterprises-making-ai-apps-cheaper-easier-to-build-and-more-innovative/
 
 2. Jack Dorsey is back with Goose, a new, ultra simple open source AI agent building platform from his startup Block
 Link: https://venturebeat.com/programming-development/jack-dorsey-is-back-with-goose-a-new-ultra-simple-open-source-ai-agent-building-platform-from-his-startup-block/
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/programming-development/jack-dorsey-is-back-with-g
 3. Alibaba’s Qwen2.5-Max challenges U.S. tech giants, reshapes enterprise AI
 Link: https://venturebeat.com/ai/alibabas-qwen2-5-max-challenges-u-s-tech-giants-reshapes-enterprise-ai/
 
-4. PureSpectrum Launches Industry’s First Training Data: Redefining AI with Accurate Human-Centric Datasets for Market Research
-Link: https://venturebeat.com/business/purespectrum-launches-industrys-first-training-data-redefining-ai-with-accurate-human-centric-datasets-for-market-research/
+4. Ex-Google, Apple engineers launch unconditionally open source Oumi AI platform that could help to build the next DeepSeek
+Link: https://venturebeat.com/ai/ex-google-apple-engineers-launch-unconditionally-open-source-oumi-ai-platform-that-could-help-to-build-the-next-deepseek/
 
-5. Outsmarting AI-powered cyber attacks: A 2025 playbook for real-time endpoint defense
-Link: https://venturebeat.com/security/outsmarting-ai-powered-cyber-attacks-endpoint-defense-2025/
+5. Sverica Capital Management Announces Continuation Fund for Stream Companies Holdings
+Link: https://venturebeat.com/business/sverica-capital-management-announces-continuation-fund-for-stream-companies-holdings/
 
