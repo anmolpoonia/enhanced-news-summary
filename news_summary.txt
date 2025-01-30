@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-29 18:23:40
+Daily News Summary - 2025-01-30 09:18:08
 ==================================================
 
-1. DeepSeek-R1 is a boon for enterprises — making AI apps cheaper, easier to build, and more innovative
-Link: https://venturebeat.com/ai/deepseek-r1-is-a-boon-for-enterprises-making-ai-apps-cheaper-easier-to-build-and-more-innovative/
+1. DeepSeek helps speed up threat detection while raising national security concerns
+Link: https://venturebeat.com/security/deepseek-helps-speed-up-threat-detection-while-raising-national-security-concerns/
 
-2. Jack Dorsey is back with Goose, a new, ultra simple open source AI agent building platform from his startup Block
-Link: https://venturebeat.com/programming-development/jack-dorsey-is-back-with-goose-a-new-ultra-simple-open-source-ai-agent-building-platform-from-his-startup-block/
+2. Dario Amodei challenges DeepSeek’s $6 million AI narrative: What Anthropic thinks about China’s latest AI move
+Link: https://venturebeat.com/ai/dario-amodei-challenges-deepseeks-6-million-ai-narrative-what-anthropic-thinks-about-chinas-latest-ai-move/
 
-3. Alibaba’s Qwen2.5-Max challenges U.S. tech giants, reshapes enterprise AI
-Link: https://venturebeat.com/ai/alibabas-qwen2-5-max-challenges-u-s-tech-giants-reshapes-enterprise-ai/
+3. Pig API: Give your AI agents a virtual desktop to automate Windows apps
+Link: https://venturebeat.com/ai/pig-api-give-your-ai-agents-a-virtual-desktop-to-automate-windows-apps/
 
-4. Ex-Google, Apple engineers launch unconditionally open source Oumi AI platform that could help to build the next DeepSeek
-Link: https://venturebeat.com/ai/ex-google-apple-engineers-launch-unconditionally-open-source-oumi-ai-platform-that-could-help-to-build-the-next-deepseek/
+4. U.S. Copyright Office says AI generated content can be copyrighted — if a human contributes to or edits it
+Link: https://venturebeat.com/ai/u-s-copyright-office-says-ai-generated-content-can-be-copyrighted-if-a-human-contributes-to-or-edits-it/
 
-5. Sverica Capital Management Announces Continuation Fund for Stream Companies Holdings
-Link: https://venturebeat.com/business/sverica-capital-management-announces-continuation-fund-for-stream-companies-holdings/
+5. Agentic AI needs orchestration: How ServiceNow’s AI orchestrator automates complex enterprise workflows
+Link: https://venturebeat.com/ai/agentic-ai-needs-orchestration-how-servicenows-ai-orchestrator-automates-complex-enterprise-workflows/
 
