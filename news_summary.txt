@@ -1,4 +1,4 @@
-Daily News Summary - 2025-01-30 18:23:00
+Daily News Summary - 2025-01-31 09:18:36
 ==================================================
 
 1. Inside the Super Bowl’s cyber war: NFL CISO on AI threats, deepfakes and defending the big game
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/riffusions-free-ai-music-platform-could-be-the-
 3. DeepSeek helps speed up threat detection while raising national security concerns
 Link: https://venturebeat.com/security/deepseek-helps-speed-up-threat-detection-while-raising-national-security-concerns/
 
-4. Mistral Small 3 brings open source AI to the masses—smaller, faster, and cheaper
-Link: https://venturebeat.com/ai/mistral-small-3-brings-open-source-ai-to-the-masses-smaller-faster-and-cheaper/
+4. Former Google, Meta leaders launch Palona AI, bringing personalized, emotive customer agents to non-techie enterprises
+Link: https://venturebeat.com/ai/former-google-meta-leaders-launch-palona-ai-bringing-personalized-emotive-customer-agents-to-non-techie-enterprises/
 
-5. Cerebras becomes the world’s fastest host for DeepSeek R1, outpacing Nvidia GPUs by 57x
-Link: https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/
+5. Mistral Small 3 brings open-source AI to the masses — smaller, faster and cheaper
+Link: https://venturebeat.com/ai/mistral-small-3-brings-open-source-ai-to-the-masses-smaller-faster-and-cheaper/
 
