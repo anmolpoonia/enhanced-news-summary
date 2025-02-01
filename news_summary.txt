@@ -1,18 +1,18 @@
-Daily News Summary - 2025-01-31 18:22:58
+Daily News Summary - 2025-02-01 09:17:27
 ==================================================
 
-1. Inside the Super Bowl’s cyber war: NFL CISO on AI threats, deepfakes and defending the big game
-Link: https://venturebeat.com/vb-in-conversation-securing-the-superbowl/
+1. It's here: OpenAI's o3-mini advanced reasoning model arrives to counter DeepSeek's rise
+Link: https://venturebeat.com/ai/its-here-openais-o3-mini-advanced-reasoning-model-arrives-to-counter-deepseeks-rise/
 
-2. Mistral Small 3 brings open-source AI to the masses — smaller, faster and cheaper
-Link: https://venturebeat.com/ai/mistral-small-3-brings-open-source-ai-to-the-masses-smaller-faster-and-cheaper/
+2. Beyond benchmarks: How DeepSeek-R1 and o1 perform on real-world tasks
+Link: https://venturebeat.com/ai/beyond-benchmarks-how-deepseek-r1-and-o1-perform-on-real-world-tasks/
 
-3. Cerebras becomes the world’s fastest host for DeepSeek R1, outpacing Nvidia GPUs by 57x
-Link: https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/
-
-4. Former Google, Meta leaders launch Palona AI, bringing personalized, emotive customer agents to non-techie enterprises
+3. Former Google, Meta leaders launch Palona AI, bringing personalized, emotive customer agents to non-techie enterprises
 Link: https://venturebeat.com/ai/former-google-meta-leaders-launch-palona-ai-bringing-personalized-emotive-customer-agents-to-non-techie-enterprises/
 
-5. Riffusion’s free AI music platform could be the Spotify of the future
-Link: https://venturebeat.com/ai/riffusions-free-ai-music-platform-could-be-the-spotify-of-the-future/
+4. Sam Altman admits OpenAI was ‘on the wrong side of history’ in open source debate
+Link: https://venturebeat.com/ai/sam-altman-admits-openai-was-on-the-wrong-side-of-history-in-open-source-debate/
+
+5. Mistral Small 3 brings open-source AI to the masses — smaller, faster and cheaper
+Link: https://venturebeat.com/ai/mistral-small-3-brings-open-source-ai-to-the-masses-smaller-faster-and-cheaper/
 
