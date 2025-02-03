@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-03 09:19:37
+Daily News Summary - 2025-02-03 18:23:30
 ==================================================
 
-1. Clever architecture over raw compute: DeepSeek shatters the 'bigger is better' approach to AI development
-Link: https://venturebeat.com/ai/clever-architecture-over-raw-compute-deepseek-shatters-the-bigger-is-better-approach-to-ai-development/
+1. OpenAI's surprise new o3-powered 'Deep Research' mode shows the power of the AI agent era
+Link: https://venturebeat.com/ai/openais-surprise-new-o3-powered-deep-research-shows-the-power-of-the-ai-agent-era/
 
-2. Sam Altman admits OpenAI was 'on the wrong side of history' in open source debate
+2. How Thomson Reuters and Anthropic built an AI that lawyers actually trust
+Link: https://venturebeat.com/ai/how-thomson-reuters-and-anthropic-built-an-ai-that-lawyers-actually-trust/
+
+3. Sam Altman admits OpenAI was 'on the wrong side of history' in open source debate
 Link: https://venturebeat.com/ai/sam-altman-admits-openai-was-on-the-wrong-side-of-history-in-open-source-debate/
 
-3. The AI paradox: How tomorrow's cutting-edge tools can become dangerous cyber threats (and what to do to prepare)
-Link: https://venturebeat.com/security/the-ai-paradox-how-tomorrows-cutting-edge-tools-can-become-dangerous-cyber-threats-and-how-to-prepare/
+4. Evolving threat landscape, rethinking cyber defense, and AI: Opportunties and risk
+Link: https://venturebeat.com/security/evolving-threat-landscape-rethinking-cyber-defense-and-ai-opportunties-and-risk/
 
-4. Beyond benchmarks: How DeepSeek-R1 and o1 perform on real-world tasks
-Link: https://venturebeat.com/ai/beyond-benchmarks-how-deepseek-r1-and-o1-perform-on-real-world-tasks/
-
-5. It’s here: OpenAI’s o3-mini advanced reasoning model arrives to counter DeepSeek’s rise
-Link: https://venturebeat.com/ai/its-here-openais-o3-mini-advanced-reasoning-model-arrives-to-counter-deepseeks-rise/
+5. Applied Digital is harnessing the Nvidia accelerated computing platform to power the next generation of AI workloads
+Link: https://venturebeat.com/ai/applied-digital-is-harnessing-the-nvidia-accelerated-computing-platform-to-power-the-next-generation-of-ai-workloads/
 
