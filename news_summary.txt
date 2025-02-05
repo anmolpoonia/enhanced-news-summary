@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-05 09:19:22
+Daily News Summary - 2025-02-05 18:23:41
 ==================================================
 
-1. OmniHuman: ByteDance’s new AI creates realistic videos from a single photo
-Link: https://venturebeat.com/ai/omnihuman-bytedances-new-ai-creates-realistic-videos-from-a-single-photo/
+1. Lightning AI’s AI Hub shows AI app marketplaces are the next enterprise game-changer
+Link: https://venturebeat.com/ai/lightnings-ai-hub-shows-ai-app-marketplaces-are-the-next-enterprise-game-changer/
 
-2. Anthropic claims new AI security method blocks 95% of jailbreaks, invites red teamers to try
-Link: https://venturebeat.com/security/anthropic-claims-new-ai-security-method-blocks-95-of-jailbreaks-invites-red-teamers-to-try/
+2. Not every AI prompt deserves multiple seconds of thinking: how Meta is teaching models to prioritize
+Link: https://venturebeat.com/ai/not-every-ai-prompt-deserves-multiple-seconds-of-thinking-how-meta-is-teaching-models-to-prioritize/
 
-3. Adobe Acrobat AI now reads and explains your contracts in minutes — here's how it works
-Link: https://venturebeat.com/ai/adobe-acrobat-ai-now-reads-and-explains-your-contracts-in-minutes-heres-how-it-works/
+3. Google drops AI weapons ban—what it means for the future of artificial intelligence
+Link: https://venturebeat.com/ai/google-drops-ai-weapons-ban-what-it-means-for-the-future-of-artificial-intelligence/
 
-4. Rejoni completes patient enrollment in pivotal clinical study of a Novel Treatment for the Prevention of Intrauterine Adhesions, the Juveena® Hydrogel System.
-Link: https://venturebeat.com/business/rejoni-completes-patient-enrollment-in-pivotal-clinical-study-of-a-novel-treatment-for-the-prevention-of-intrauterine-adhesions-the-juveena-hydrogel-system/
+4. Forget expensive leadership training—CodeSignal’s AI tool brings coaching to everyone
+Link: https://venturebeat.com/ai/forget-expensive-leadership-training-codesignals-ai-tool-brings-coaching-to-everyone/
 
-5. Behavioral AI is our best hope for fighting social engineering threats
-Link: https://venturebeat.com/security/behavioral-ai-is-our-best-hope-for-fighting-social-engineering-threats/
+5. Land O’Frost Reduces Daily Labor Expenses by 20% While Upskilling Its Workforce with Formic Robots
+Link: https://venturebeat.com/business/land-ofrost-reduces-daily-labor-expenses-by-20-while-upskilling-its-workforce-with-formic-robots/
 
