@@ -1,14 +1,14 @@
-Daily News Summary - 2025-02-04 18:23:30
+Daily News Summary - 2025-02-05 09:19:22
 ==================================================
 
-1. Anthropic claims new AI security method blocks 95% of jailbreaks, invites red teamers to try
+1. OmniHuman: ByteDance’s new AI creates realistic videos from a single photo
+Link: https://venturebeat.com/ai/omnihuman-bytedances-new-ai-creates-realistic-videos-from-a-single-photo/
+
+2. Anthropic claims new AI security method blocks 95% of jailbreaks, invites red teamers to try
 Link: https://venturebeat.com/security/anthropic-claims-new-ai-security-method-blocks-95-of-jailbreaks-invites-red-teamers-to-try/
 
-2. Adobe Acrobat AI now reads and explains your contracts in minutes — here's how it works
+3. Adobe Acrobat AI now reads and explains your contracts in minutes — here's how it works
 Link: https://venturebeat.com/ai/adobe-acrobat-ai-now-reads-and-explains-your-contracts-in-minutes-heres-how-it-works/
-
-3. Open-source revolution: How DeepSeek-R1 challenges OpenAI's o1 with superior processing, cost efficiency
-Link: https://venturebeat.com/ai/open-source-revolution-how-deepseek-r1-challenges-openais-o1-with-superior-processing-cost-efficiency/
 
 4. Rejoni completes patient enrollment in pivotal clinical study of a Novel Treatment for the Prevention of Intrauterine Adhesions, the Juveena® Hydrogel System.
 Link: https://venturebeat.com/business/rejoni-completes-patient-enrollment-in-pivotal-clinical-study-of-a-novel-treatment-for-the-prevention-of-intrauterine-adhesions-the-juveena-hydrogel-system/
