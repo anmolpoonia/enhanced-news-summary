@@ -1,4 +1,4 @@
-Daily News Summary - 2025-02-06 09:18:33
+Daily News Summary - 2025-02-06 18:23:21
 ==================================================
 
 1. Forget expensive leadership training—CodeSignal’s AI tool brings coaching to everyone
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/how-app-orchids-ai-and-google-cloud-are-changin
 3. Lightning AI’s AI Hub shows AI app marketplaces are the next enterprise game-changer
 Link: https://venturebeat.com/ai/lightnings-ai-hub-shows-ai-app-marketplaces-are-the-next-enterprise-game-changer/
 
-4. Google launches Gemini 2.0 Pro, Flash-Lite and connects reasoning model Flash Thinking to YouTube, Maps and Search
-Link: https://venturebeat.com/ai/google-launches-gemini-2-0-pro-flash-lite-and-connects-reasoning-model-flash-thinking-to-youtube-maps-and-search/
+4. DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same
+Link: https://venturebeat.com/ai/deepseeks-r1-and-openais-deep-research-just-redefined-ai-rag-distillation-and-custom-models-will-never-be-the-same/
 
-5. Not every AI prompt deserves multiple seconds of thinking: how Meta is teaching models to prioritize
-Link: https://venturebeat.com/ai/not-every-ai-prompt-deserves-multiple-seconds-of-thinking-how-meta-is-teaching-models-to-prioritize/
+5. Urban Sky Raises $30 Million in Series B Funding to Unlock Routine and Easy Global Access to the Stratosphere
+Link: https://venturebeat.com/business/urban-sky-raises-30-million-in-series-b-funding-to-unlock-routine-and-easy-global-access-to-the-stratosphere/
 
