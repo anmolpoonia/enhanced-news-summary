@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-05 18:23:41
+Daily News Summary - 2025-02-06 09:18:33
 ==================================================
 
-1. Lightning AI’s AI Hub shows AI app marketplaces are the next enterprise game-changer
-Link: https://venturebeat.com/ai/lightnings-ai-hub-shows-ai-app-marketplaces-are-the-next-enterprise-game-changer/
-
-2. Not every AI prompt deserves multiple seconds of thinking: how Meta is teaching models to prioritize
-Link: https://venturebeat.com/ai/not-every-ai-prompt-deserves-multiple-seconds-of-thinking-how-meta-is-teaching-models-to-prioritize/
-
-3. Google drops AI weapons ban—what it means for the future of artificial intelligence
-Link: https://venturebeat.com/ai/google-drops-ai-weapons-ban-what-it-means-for-the-future-of-artificial-intelligence/
-
-4. Forget expensive leadership training—CodeSignal’s AI tool brings coaching to everyone
+1. Forget expensive leadership training—CodeSignal’s AI tool brings coaching to everyone
 Link: https://venturebeat.com/ai/forget-expensive-leadership-training-codesignals-ai-tool-brings-coaching-to-everyone/
 
-5. Land O’Frost Reduces Daily Labor Expenses by 20% While Upskilling Its Workforce with Formic Robots
-Link: https://venturebeat.com/business/land-ofrost-reduces-daily-labor-expenses-by-20-while-upskilling-its-workforce-with-formic-robots/
+2. How App Orchid’s AI and Google Cloud are changing the game for business data analytics
+Link: https://venturebeat.com/ai/how-app-orchids-ai-and-google-cloud-are-changing-the-game-for-business-data-analytics/
+
+3. Lightning AI’s AI Hub shows AI app marketplaces are the next enterprise game-changer
+Link: https://venturebeat.com/ai/lightnings-ai-hub-shows-ai-app-marketplaces-are-the-next-enterprise-game-changer/
+
+4. Google launches Gemini 2.0 Pro, Flash-Lite and connects reasoning model Flash Thinking to YouTube, Maps and Search
+Link: https://venturebeat.com/ai/google-launches-gemini-2-0-pro-flash-lite-and-connects-reasoning-model-flash-thinking-to-youtube-maps-and-search/
+
+5. Not every AI prompt deserves multiple seconds of thinking: how Meta is teaching models to prioritize
+Link: https://venturebeat.com/ai/not-every-ai-prompt-deserves-multiple-seconds-of-thinking-how-meta-is-teaching-models-to-prioritize/
 
