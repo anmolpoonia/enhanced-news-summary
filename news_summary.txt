@@ -1,17 +1,17 @@
-Daily News Summary - 2025-02-06 18:23:21
+Daily News Summary - 2025-02-07 09:18:33
 ==================================================
 
-1. Forget expensive leadership training—CodeSignal’s AI tool brings coaching to everyone
-Link: https://venturebeat.com/ai/forget-expensive-leadership-training-codesignals-ai-tool-brings-coaching-to-everyone/
-
-2. How App Orchid’s AI and Google Cloud are changing the game for business data analytics
-Link: https://venturebeat.com/ai/how-app-orchids-ai-and-google-cloud-are-changing-the-game-for-business-data-analytics/
-
-3. Lightning AI’s AI Hub shows AI app marketplaces are the next enterprise game-changer
-Link: https://venturebeat.com/ai/lightnings-ai-hub-shows-ai-app-marketplaces-are-the-next-enterprise-game-changer/
-
-4. DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same
+1. DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same
 Link: https://venturebeat.com/ai/deepseeks-r1-and-openais-deep-research-just-redefined-ai-rag-distillation-and-custom-models-will-never-be-the-same/
+
+2. French AI startup Mistral launches Le Chat mobile app for iPhone, Android — can it take enterprise eyes off DeepSeek?
+Link: https://venturebeat.com/ai/french-ai-startup-mistral-launches-le-chat-mobile-app-for-iphone-android-can-it-take-enterprise-eyes-off-deepseek/
+
+3. GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates
+Link: https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/
+
+4. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
+Link: https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/
 
 5. Urban Sky Raises $30 Million in Series B Funding to Unlock Routine and Easy Global Access to the Stratosphere
 Link: https://venturebeat.com/business/urban-sky-raises-30-million-in-series-b-funding-to-unlock-routine-and-easy-global-access-to-the-stratosphere/
