@@ -1,4 +1,4 @@
-Daily News Summary - 2025-02-07 09:18:33
+Daily News Summary - 2025-02-07 18:23:29
 ==================================================
 
 1. DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/french-ai-startup-mistral-launches-le-chat-mobi
 3. GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates
 Link: https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/
 
-4. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
-Link: https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/
+4. From 220M data points to revenue: How AI is transforming sports entertainment ROI
+Link: https://venturebeat.com/ai/from-220m-data-points-to-revenue-how-ai-is-transforming-sports-entertainment-roi/
 
-5. Urban Sky Raises $30 Million in Series B Funding to Unlock Routine and Easy Global Access to the Stratosphere
-Link: https://venturebeat.com/business/urban-sky-raises-30-million-in-series-b-funding-to-unlock-routine-and-easy-global-access-to-the-stratosphere/
+5. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
+Link: https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/
 
