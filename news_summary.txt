@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-07 18:23:29
+Daily News Summary - 2025-02-08 09:16:41
 ==================================================
 
-1. DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same
-Link: https://venturebeat.com/ai/deepseeks-r1-and-openais-deep-research-just-redefined-ai-rag-distillation-and-custom-models-will-never-be-the-same/
+1. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
+Link: https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/
 
-2. French AI startup Mistral launches Le Chat mobile app for iPhone, Android — can it take enterprise eyes off DeepSeek?
-Link: https://venturebeat.com/ai/french-ai-startup-mistral-launches-le-chat-mobile-app-for-iphone-android-can-it-take-enterprise-eyes-off-deepseek/
-
-3. GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates
-Link: https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/
-
-4. From 220M data points to revenue: How AI is transforming sports entertainment ROI
+2. From 220M data points to revenue: How AI is transforming sports entertainment ROI
 Link: https://venturebeat.com/ai/from-220m-data-points-to-revenue-how-ai-is-transforming-sports-entertainment-roi/
 
-5. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
-Link: https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/
+3. OpenAI responds to DeepSeek competition with detailed reasoning traces for o3-mini
+Link: https://venturebeat.com/ai/openai-responds-to-deepseek-competition-with-detailed-reasoning-traces-for-o3-mini/
+
+4. Apple’s ELEGNT framework could make home robots feel less like machines and more like companions
+Link: https://venturebeat.com/ai/apples-elegnt-framework-could-make-home-robots-feel-less-like-machines-and-more-like-companions/
+
+5. GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates
+Link: https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/
 
