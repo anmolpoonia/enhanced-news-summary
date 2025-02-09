@@ -3,4 +3,4 @@ new: 51 mentions
 says: 43 mentions
 model: 28 mentions
 trump: 26 mentions
-data: 25 mentions
+data: 26 mentions

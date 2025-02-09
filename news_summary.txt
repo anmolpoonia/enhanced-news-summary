@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-08 18:21:26
+Daily News Summary - 2025-02-09 09:16:38
 ==================================================
 
-1. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
+1. Begin with problems, sandbox, identify trustworth vendors — a quick guide to getting started with AI
+Link: https://venturebeat.com/ai/begin-with-problems-sandbox-identify-trustworth-vendors-a-quick-guide-to-getting-started-with-ai/
+
+2. Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy
 Link: https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/
 
-2. From 220M data points to revenue: How AI is transforming sports entertainment ROI
+3. From 220M data points to revenue: How AI is transforming sports entertainment ROI
 Link: https://venturebeat.com/ai/from-220m-data-points-to-revenue-how-ai-is-transforming-sports-entertainment-roi/
-
-3. OpenAI responds to DeepSeek competition with detailed reasoning traces for o3-mini
-Link: https://venturebeat.com/ai/openai-responds-to-deepseek-competition-with-detailed-reasoning-traces-for-o3-mini/
 
 4. Apple’s ELEGNT framework could make home robots feel less like machines and more like companions
 Link: https://venturebeat.com/ai/apples-elegnt-framework-could-make-home-robots-feel-less-like-machines-and-more-like-companions/
 
-5. GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates
-Link: https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/
+5. OpenAI responds to DeepSeek competition with detailed reasoning traces for o3-mini
+Link: https://venturebeat.com/ai/openai-responds-to-deepseek-competition-with-detailed-reasoning-traces-for-o3-mini/
 
