@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-13 09:19:21
+Daily News Summary - 2025-02-13 18:24:19
 ==================================================
 
-1. Too many models, too much confusion: OpenAI pledges to simplify its product line
-Link: https://venturebeat.com/ai/too-many-models-too-much-confusion-openai-pledges-to-simplify-its-product-line/
+1. Less supervision, better results: Study shows AI models generalize more effectively on their own
+Link: https://venturebeat.com/ai/less-supervision-better-results-study-shows-ai-models-generalize-more-effectively-on-their-own/
 
-2. Snowflake expands AI tools with Anthropic partnership—what it means for businesses
-Link: https://venturebeat.com/ai/snowflake-expands-ai-tools-with-anthropic-partnership-what-it-means-for-businesses/
-
-3. Adobe Firefly AI video generator debuts—the most 'IP-safe' AI tool yet?
-Link: https://venturebeat.com/ai/adobe-firefly-ai-video-generator-debuts-the-most-ip-safe-ai-tool-yet/
-
-4. CrowdStrike just killed 40 hours of SOC pain: Here’s how they did it
+2. CrowdStrike just killed 40 hours of SOC pain: Here's how they did it
 Link: https://venturebeat.com/security/crowdstrikes-ai-slashes-soc-workloads-over-40-hours-a-week/
 
-5. Less supervision, better results: Study shows AI models generalize more effectively on their own
-Link: https://venturebeat.com/ai/less-supervision-better-results-study-shows-ai-models-generalize-more-effectively-on-their-own/
+3. Don't sleep on Google Gemini's Deep Research mode: 8 examples of informative reports
+Link: https://venturebeat.com/ai/dont-sleep-on-google-geminis-deep-research-mode-8-examples-of-informative-reports/
+
+4. PIN AI launches mobile app letting you make your own personalized, private DeepSeek or Llama-powered AI model on your phone
+Link: https://venturebeat.com/ai/pin-ai-launches-mobile-app-letting-you-make-your-own-personalized-private-deepseek-or-llama-powered-ai-model-on-your-phone/
+
+5. Taking AI to the playground: LinkedIn combines LLMs, LangChain and Jupyter Notebooks to improve prompt engineering
+Link: https://venturebeat.com/ai/taking-ai-to-the-playground-linkedin-combines-llms-langchain-and-jupyter-notebooks-to-improve-prompt-engineering/
 
