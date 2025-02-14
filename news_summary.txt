@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-13 18:24:19
+Daily News Summary - 2025-02-14 09:18:46
 ==================================================
 
-1. Less supervision, better results: Study shows AI models generalize more effectively on their own
-Link: https://venturebeat.com/ai/less-supervision-better-results-study-shows-ai-models-generalize-more-effectively-on-their-own/
+1. SAP integrates Databricks to enhance AI readiness with new Business Data Cloud
+Link: https://venturebeat.com/data-infrastructure/sap-taps-databricks-to-enhance-ai-readiness-with-new-business-data-cloud/
 
-2. CrowdStrike just killed 40 hours of SOC pain: Here's how they did it
-Link: https://venturebeat.com/security/crowdstrikes-ai-slashes-soc-workloads-over-40-hours-a-week/
+2. AI’s biggest obstacle? Data reliability. Astronomer’s new platform tackles the challenge
+Link: https://venturebeat.com/ai/ai-biggest-obstacle-data-reliability-astronomers-new-platform-tackles-the-challenge/
 
 3. Don't sleep on Google Gemini's Deep Research mode: 8 examples of informative reports
 Link: https://venturebeat.com/ai/dont-sleep-on-google-geminis-deep-research-mode-8-examples-of-informative-reports/
 
-4. PIN AI launches mobile app letting you make your own personalized, private DeepSeek or Llama-powered AI model on your phone
-Link: https://venturebeat.com/ai/pin-ai-launches-mobile-app-letting-you-make-your-own-personalized-private-deepseek-or-llama-powered-ai-model-on-your-phone/
+4. Totem Closes $1.3M in Pre-Seed Funding to Scale Operations for Explosive Demand
+Link: https://venturebeat.com/business/totem-closes-1-3m-in-pre-seed-funding-to-scale-operations-for-explosive-demand/
 
-5. Taking AI to the playground: LinkedIn combines LLMs, LangChain and Jupyter Notebooks to improve prompt engineering
-Link: https://venturebeat.com/ai/taking-ai-to-the-playground-linkedin-combines-llms-langchain-and-jupyter-notebooks-to-improve-prompt-engineering/
+5. PIN AI launches mobile app letting you make your own personalized, private DeepSeek or Llama-powered AI model on your phone
+Link: https://venturebeat.com/ai/pin-ai-launches-mobile-app-letting-you-make-your-own-personalized-private-deepseek-or-llama-powered-ai-model-on-your-phone/
 
