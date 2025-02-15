@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-new: 56 mentions
+new: 57 mentions
 says: 43 mentions
-data: 37 mentions
+data: 39 mentions
 model: 31 mentions
 deepseek: 31 mentions
