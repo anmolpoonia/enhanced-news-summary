@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-15 18:21:23
+Daily News Summary - 2025-02-16 09:16:32
 ==================================================
 
-1. Perplexity just made AI research crazy cheap—what that means for the industry
-Link: https://venturebeat.com/ai/perplexity-just-made-ai-research-crazy-cheap-what-that-means-for-the-industry/
+1. A look under the hood of transfomers, the engine driving AI model evolution
+Link: https://venturebeat.com/ai/a-look-under-the-hood-of-transfomers-the-engine-driving-ai-model-evolution/
 
-2. 'Personalized, unrestricted' AI lab Nous Research launches first toggle-on reasoning model: DeepHermes-3
-Link: https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3/
-
-3. Researchers find you don’t need a ton of data to train LLMs for reasoning tasks
+2. Researchers find you don’t need a ton of data to train LLMs for reasoning tasks
 Link: https://venturebeat.com/ai/researchers-find-you-dont-need-a-ton-of-data-to-train-llms-for-reasoning-tasks/
 
-4. AI’s biggest obstacle? Data reliability. Astronomer’s new platform tackles the challenge
-Link: https://venturebeat.com/ai/ai-biggest-obstacle-data-reliability-astronomers-new-platform-tackles-the-challenge/
+3. Perplexity just made AI research crazy cheap—what that means for the industry
+Link: https://venturebeat.com/ai/perplexity-just-made-ai-research-crazy-cheap-what-that-means-for-the-industry/
 
-5. Totem Closes $1.3M in Pre-Seed Funding to Scale Operations for Explosive Demand
-Link: https://venturebeat.com/business/totem-closes-1-3m-in-pre-seed-funding-to-scale-operations-for-explosive-demand/
+4. ‘Personalized, unrestricted’ AI lab Nous Research launches first toggle-on reasoning model: DeepHermes-3
+Link: https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3/
+
+5. AI’s biggest obstacle? Data reliability. Astronomer’s new platform tackles the challenge
+Link: https://venturebeat.com/ai/ai-biggest-obstacle-data-reliability-astronomers-new-platform-tackles-the-challenge/
 
