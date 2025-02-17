@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-16 18:21:55
+Daily News Summary - 2025-02-17 09:20:26
 ==================================================
 
-1. A look under the hood of transfomers, the engine driving AI model evolution
+1. Like it or not, AI is learning how to influence you
+Link: https://venturebeat.com/ai/like-it-or-not-ai-is-learning-how-to-influence-you/
+
+2. A look under the hood of transfomers, the engine driving AI model evolution
 Link: https://venturebeat.com/ai/a-look-under-the-hood-of-transfomers-the-engine-driving-ai-model-evolution/
 
-2. Researchers find you don’t need a ton of data to train LLMs for reasoning tasks
+3. Researchers find you don’t need a ton of data to train LLMs for reasoning tasks
 Link: https://venturebeat.com/ai/researchers-find-you-dont-need-a-ton-of-data-to-train-llms-for-reasoning-tasks/
-
-3. Perplexity just made AI research crazy cheap—what that means for the industry
-Link: https://venturebeat.com/ai/perplexity-just-made-ai-research-crazy-cheap-what-that-means-for-the-industry/
 
 4. ‘Personalized, unrestricted’ AI lab Nous Research launches first toggle-on reasoning model: DeepHermes-3
 Link: https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3/
 
-5. AI’s biggest obstacle? Data reliability. Astronomer’s new platform tackles the challenge
-Link: https://venturebeat.com/ai/ai-biggest-obstacle-data-reliability-astronomers-new-platform-tackles-the-challenge/
+5. Perplexity just made AI research crazy cheap—what that means for the industry
+Link: https://venturebeat.com/ai/perplexity-just-made-ai-research-crazy-cheap-what-that-means-for-the-industry/
 
