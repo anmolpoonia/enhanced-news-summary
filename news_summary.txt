@@ -1,4 +1,4 @@
-Daily News Summary - 2025-02-17 09:20:26
+Daily News Summary - 2025-02-17 18:23:14
 ==================================================
 
 1. Like it or not, AI is learning how to influence you
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/a-look-under-the-hood-of-transfomers-the-engine
 3. Researchers find you don’t need a ton of data to train LLMs for reasoning tasks
 Link: https://venturebeat.com/ai/researchers-find-you-dont-need-a-ton-of-data-to-train-llms-for-reasoning-tasks/
 
-4. ‘Personalized, unrestricted’ AI lab Nous Research launches first toggle-on reasoning model: DeepHermes-3
-Link: https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3/
+4. Shadow AI: How unapproved AI apps are compromising security, and what you can do about it
+Link: https://venturebeat.com/security/shadow-ai-unapproved-ai-apps-compromising-security-what-you-can-do-about-it/
 
-5. Perplexity just made AI research crazy cheap—what that means for the industry
-Link: https://venturebeat.com/ai/perplexity-just-made-ai-research-crazy-cheap-what-that-means-for-the-industry/
+5. Replit and Anthropic’s AI just helped Zillow build production software—without a single engineer
+Link: https://venturebeat.com/ai/replit-and-anthropics-ai-just-helped-zillow-build-production-software-without-a-single-engineer/
 
