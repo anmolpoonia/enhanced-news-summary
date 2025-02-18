@@ -1,17 +1,17 @@
-Daily News Summary - 2025-02-18 09:19:04
+Daily News Summary - 2025-02-18 18:24:47
 ==================================================
 
 1. Like it or not, AI is learning how to influence you
 Link: https://venturebeat.com/ai/like-it-or-not-ai-is-learning-how-to-influence-you/
 
-2. A look under the hood of transfomers, the engine driving AI model evolution
-Link: https://venturebeat.com/ai/a-look-under-the-hood-of-transfomers-the-engine-driving-ai-model-evolution/
-
-3. Researchers find you don’t need a ton of data to train LLMs for reasoning tasks
-Link: https://venturebeat.com/ai/researchers-find-you-dont-need-a-ton-of-data-to-train-llms-for-reasoning-tasks/
-
-4. Shadow AI: How unapproved AI apps are compromising security, and what you can do about it
+2. Shadow AI: How unapproved AI apps are compromising security, and what you can do about it
 Link: https://venturebeat.com/security/shadow-ai-unapproved-ai-apps-compromising-security-what-you-can-do-about-it/
+
+3. Aomni just raised $4M to prove AI can boost sales without replacing humans
+Link: https://venturebeat.com/ai/aomni-thinks-sales-reps-should-spend-more-time-selling-not-stuck-in-spreadsheets/
+
+4. KIVA AI Rebrands to Perle, Bringing Human Wisdom to AI Models for Companies of All Sizes
+Link: https://venturebeat.com/business/kiva-ai-rebrands-to-perle-bringing-human-wisdom-to-ai-models-for-companies-of-all-sizes/
 
 5. Replit and Anthropic’s AI just helped Zillow build production software—without a single engineer
 Link: https://venturebeat.com/ai/replit-and-anthropics-ai-just-helped-zillow-build-production-software-without-a-single-engineer/
