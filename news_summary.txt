@@ -1,4 +1,4 @@
-Daily News Summary - 2025-02-19 09:20:29
+Daily News Summary - 2025-02-19 18:22:49
 ==================================================
 
 1. Ex-OpenAI CTO Mira Murati unveils Thinking Machines: A startup focused on multimodality, human-AI collaboration
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/ai-can-fix-bugs-but-cant-find-them-openais-stud
 3. Aomni just raised $4M to prove AI can boost sales without replacing humans
 Link: https://venturebeat.com/ai/aomni-thinks-sales-reps-should-spend-more-time-selling-not-stuck-in-spreadsheets/
 
-4. Elon Musk just released an AI that’s smarter than ChatGPT — here’s why that matters
-Link: https://venturebeat.com/ai/elon-musk-just-released-an-ai-thats-smarter-than-chatgpt-heres-why-that-matters/
+4. A Stytch in time: Connected Apps untangles authorization tie-ups for AI agents
+Link: https://venturebeat.com/security/a-stytch-in-time-connected-apps-untangles-authorization-tie-ups-for-ai-agents/
 
-5. Out-analyzing analysts: OpenAI’s Deep Research pairs reasoning LLMs with agentic RAG to automate work — and replace jobs
-Link: https://venturebeat.com/ai/out-analyzing-analysts-openai-deep-research-pairs-reasoning-llms-with-agentic-rag-to-automate-work-and-replace-jobs/
+5. TSVC Files Lawsuit Against Foothill Ventures for False Advertising and Brand Misrepresentation in the U.S. and China
+Link: https://venturebeat.com/business/tsvc-files-lawsuit-against-foothill-ventures-for-false-advertising-and-brand-misrepresentation-in-the-u-s-and-china/
 
