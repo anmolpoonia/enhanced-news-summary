@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-18 18:24:47
+Daily News Summary - 2025-02-19 09:20:29
 ==================================================
 
-1. Like it or not, AI is learning how to influence you
-Link: https://venturebeat.com/ai/like-it-or-not-ai-is-learning-how-to-influence-you/
+1. Ex-OpenAI CTO Mira Murati unveils Thinking Machines: A startup focused on multimodality, human-AI collaboration
+Link: https://venturebeat.com/ai/ex-openai-cto-mira-murati-unveils-thinking-machines-a-startup-focused-on-multimodality-human-ai-collaboration/
 
-2. Shadow AI: How unapproved AI apps are compromising security, and what you can do about it
-Link: https://venturebeat.com/security/shadow-ai-unapproved-ai-apps-compromising-security-what-you-can-do-about-it/
+2. AI can fix bugs—but can’t find them: OpenAI’s study highlights limits of LLMs in software engineering
+Link: https://venturebeat.com/ai/ai-can-fix-bugs-but-cant-find-them-openais-study-highlights-limits-of-llms-in-software-engineering/
 
 3. Aomni just raised $4M to prove AI can boost sales without replacing humans
 Link: https://venturebeat.com/ai/aomni-thinks-sales-reps-should-spend-more-time-selling-not-stuck-in-spreadsheets/
 
-4. KIVA AI Rebrands to Perle, Bringing Human Wisdom to AI Models for Companies of All Sizes
-Link: https://venturebeat.com/business/kiva-ai-rebrands-to-perle-bringing-human-wisdom-to-ai-models-for-companies-of-all-sizes/
+4. Elon Musk just released an AI that’s smarter than ChatGPT — here’s why that matters
+Link: https://venturebeat.com/ai/elon-musk-just-released-an-ai-thats-smarter-than-chatgpt-heres-why-that-matters/
 
-5. Replit and Anthropic’s AI just helped Zillow build production software—without a single engineer
-Link: https://venturebeat.com/ai/replit-and-anthropics-ai-just-helped-zillow-build-production-software-without-a-single-engineer/
+5. Out-analyzing analysts: OpenAI’s Deep Research pairs reasoning LLMs with agentic RAG to automate work — and replace jobs
+Link: https://venturebeat.com/ai/out-analyzing-analysts-openai-deep-research-pairs-reasoning-llms-with-agentic-rag-to-automate-work-and-replace-jobs/
 
