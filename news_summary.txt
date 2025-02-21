@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-20 18:23:56
+Daily News Summary - 2025-02-21 09:18:57
 ==================================================
 
 1. VentureBeat Special Issue - The Cyber Resilience Playbook
 Link: https://venturebeat.com/venturebeat-special-issue-the-cyber-resilience-playbook/
 
-2. Crunchbase’s AI can predict startup success with 95% accuracy—will it change investing?
-Link: https://venturebeat.com/ai/crunchbases-ai-can-predict-startup-success-with-95-accuracy-will-it-change-investing/
-
-3. Sawmills emerges from stealth to trim enterprise observability costs and provide telemetry data sovereignty
-Link: https://venturebeat.com/data-infrastructure/sawmills-emerges-from-stealth-to-trim-enterprise-observability-costs-and-provide-telemetry-data-sovereignty/
-
-4. Medical training’s AI leap: How agentic RAG, open-weight LLMs and real-time case insights are shaping a new generation of doctors at NYU Langone
+2. Medical training's AI leap: How agentic RAG, open-weight LLMs and real-time case insights are shaping a new generation of doctors at NYU Langone
 Link: https://venturebeat.com/ai/medical-trainings-ai-leap-how-agentic-rag-open-weight-llms-and-real-time-case-insights-are-shaping-a-new-generation-of-doctors-at-nyu-langone/
 
-5. Identity is the breaking point — get it right or zero trust fails
-Link: https://venturebeat.com/security/identity-is-the-breaking-point-get-it-right-or-zero-trust-fails/
+3. OpenAI's ChatGPT explodes to 400M weekly users, with GPT-5 on the way
+Link: https://venturebeat.com/ai/openai-chatgpt-explodes-to-400m-weekly-users-with-gpt-5-on-the-way/
+
+4. How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)
+Link: https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-abilities-in-small-language-models-and-allows-them-to-outperform-llms/
+
+5. Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand
+Link: https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/
 
