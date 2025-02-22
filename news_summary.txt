@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-21 18:23:28
+Daily News Summary - 2025-02-22 09:18:03
 ==================================================
 
 1. VentureBeat Special Issue - The Cyber Resilience Playbook
 Link: https://venturebeat.com/venturebeat-special-issue-the-cyber-resilience-playbook/
 
-2. Medical training's AI leap: How agentic RAG, open-weight LLMs and real-time case insights are shaping a new generation of doctors at NYU Langone
-Link: https://venturebeat.com/ai/medical-trainings-ai-leap-how-agentic-rag-open-weight-llms-and-real-time-case-insights-are-shaping-a-new-generation-of-doctors-at-nyu-langone/
-
-3. OpenAI's ChatGPT explodes to 400M weekly users, with GPT-5 on the way
-Link: https://venturebeat.com/ai/openai-chatgpt-explodes-to-400m-weekly-users-with-gpt-5-on-the-way/
-
-4. How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)
+2. How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)
 Link: https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-abilities-in-small-language-models-and-allows-them-to-outperform-llms/
 
-5. Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand
+3. Medical training's AI leap: How agentic RAG, open-weight LLMs and real-time case insights are shaping a new generation of doctors at NYU Langone
+Link: https://venturebeat.com/ai/medical-trainings-ai-leap-how-agentic-rag-open-weight-llms-and-real-time-case-insights-are-shaping-a-new-generation-of-doctors-at-nyu-langone/
+
+4. Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand
 Link: https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/
+
+5. Dovetail Launches Slack Integration to Bring Customer Insights into Everyday Team Conversations
+Link: https://venturebeat.com/business/dovetail-launches-slack-integration-to-bring-customer-insights-into-everyday-team-conversations/
 
