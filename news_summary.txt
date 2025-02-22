@@ -1,4 +1,4 @@
-Daily News Summary - 2025-02-22 09:18:03
+Daily News Summary - 2025-02-22 18:22:06
 ==================================================
 
 1. VentureBeat Special Issue - The Cyber Resilience Playbook
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-
 3. Medical training's AI leap: How agentic RAG, open-weight LLMs and real-time case insights are shaping a new generation of doctors at NYU Langone
 Link: https://venturebeat.com/ai/medical-trainings-ai-leap-how-agentic-rag-open-weight-llms-and-real-time-case-insights-are-shaping-a-new-generation-of-doctors-at-nyu-langone/
 
-4. Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand
-Link: https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/
+4. The rise of browser-use agents: Why Convergence’s Proxy is beating OpenAI’s Operator
+Link: https://venturebeat.com/ai/the-rise-of-browser-use-agents-why-convergences-proxy-is-beating-openais-operator/
 
-5. Dovetail Launches Slack Integration to Bring Customer Insights into Everyday Team Conversations
-Link: https://venturebeat.com/business/dovetail-launches-slack-integration-to-bring-customer-insights-into-everyday-team-conversations/
+5. Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand
+Link: https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/
 
