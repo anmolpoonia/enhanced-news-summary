@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-25 09:20:05
+Daily News Summary - 2025-02-25 18:25:05
 ==================================================
 
-1. Anthropic's Claude 3.7 Sonnet takes aim at OpenAI and DeepSeek in AI’s next big battle
+1. Adobe launches first Photoshop mobile app and it has amazing Firefly AI-powered object detection, editing, and effects
+Link: https://venturebeat.com/ai/adobe-launches-first-photoshop-mobile-app-and-it-has-amazing-firefly-ai-powered-object-detection-editing-and-effects/
+
+2. Google makes Gemini Code Assist free with 180,000 code completions per month as AI-powered dev race heats up
+Link: https://venturebeat.com/programming-development/google-makes-gemini-code-assist-free/
+
+3. Anthropic's Claude 3.7 Sonnet takes aim at OpenAI and DeepSeek in AI’s next big battle
 Link: https://venturebeat.com/ai/anthropics-claude-3-7-sonnet-takes-aim-at-openai-and-deepseek-in-ais-next-big-battle/
 
-2. AI still has a hallucination problem: How MongoDB aims to solve it with advanced rerankers and embedding models
-Link: https://venturebeat.com/ai/ai-still-has-a-hallucination-problem-how-mongodb-aims-to-solve-it-with-advanced-rerankers-and-embedding-models/
+4. How big U.S. bank BNY manages armies of AI agents
+Link: https://venturebeat.com/ai/how-big-u-s-bank-bny-manages-armies-of-ai-agents/
 
-3. xAI's new Grok 3 model criticized for blocking sources that call Musk, Trump top spreaders of misinformation
-Link: https://venturebeat.com/ai/xais-new-grok-3-model-criticized-for-blocking-sources-that-call-musk-trump-top-spreaders-of-misinformation/
-
-4. AI agents are redefining digital commerce: Don’t let your platform be the bottleneck
-Link: https://venturebeat.com/ai/ai-agents-are-redefining-digital-commerce-dont-let-your-platform-be-the-bottleneck/
-
-5. We need to talk about the F word (‘friction’ in enterprise, that is)
-Link: https://venturebeat.com/virtual/we-need-to-talk-about-the-f-word-friction-in-enterprise-that-is/
+5. The future of data security and governance: Why organizations must rethink their strategy
+Link: https://venturebeat.com/security/the-future-of-data-security-and-governance-why-organizations-must-rethink-their-strategy/
 
