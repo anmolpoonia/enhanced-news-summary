@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-26 09:21:10
+Daily News Summary - 2025-02-26 18:24:49
 ==================================================
 
-1. Adobe launches first Photoshop mobile app and it has amazing Firefly AI-powered object detection, editing, and effects
-Link: https://venturebeat.com/ai/adobe-launches-first-photoshop-mobile-app-and-it-has-amazing-firefly-ai-powered-object-detection-editing-and-effects/
+1. OpenAI expands Deep Research access to Plus users, heating up AI agent wars with DeepSeek and Claude
+Link: https://venturebeat.com/ai/openai-expands-deep-research-access-to-plus-users-heating-up-ai-agent-wars-with-deepseek-and-claude/
 
-2. Google makes Gemini Code Assist free with 180,000 code completions per month as AI-powered dev race heats up
-Link: https://venturebeat.com/programming-development/google-makes-gemini-code-assist-free/
+2. Hume launches new text-to-speech model Octave that generates custom AI voices with adjustable emotions
+Link: https://venturebeat.com/ai/hume-launches-text-to-speech-model-octave/
 
-3. Anthropic's Claude 3.7 Sonnet takes aim at OpenAI and DeepSeek in AI’s next big battle
-Link: https://venturebeat.com/ai/anthropics-claude-3-7-sonnet-takes-aim-at-openai-and-deepseek-in-ais-next-big-battle/
-
-4. OpenAI drops Deep Research access to Plus users, heating up AI agent wars with DeepSeek and Claude
-Link: https://venturebeat.com/ai/openai-drops-deep-research-access-to-plus-users-heating-up-ai-agent-wars-with-deepseek-and-claude/
-
-5. How big U.S. bank BNY manages armies of AI agents
+3. How big U.S. bank BNY manages armies of AI agents
 Link: https://venturebeat.com/ai/how-big-u-s-bank-bny-manages-armies-of-ai-agents/
+
+4. OctoTools: Stanford’s open-source framework optimizes LLM reasoning through modular tool orchestration
+Link: https://venturebeat.com/ai/octotools-stanfords-open-source-framework-optimizes-llm-reasoning-through-modular-tool-orchestration/
+
+5. AI-boosted autism and IDD care: CentralReach and MongoDB transform how care is delivered
+Link: https://venturebeat.com/data-infrastructure/ai-boosted-autism-and-idd-care-centralreach-and-mongodb-transform-how-care-is-delivered/
 
