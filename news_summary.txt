@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-26 18:24:49
+Daily News Summary - 2025-02-27 09:21:01
 ==================================================
 
-1. OpenAI expands Deep Research access to Plus users, heating up AI agent wars with DeepSeek and Claude
-Link: https://venturebeat.com/ai/openai-expands-deep-research-access-to-plus-users-heating-up-ai-agent-wars-with-deepseek-and-claude/
+1. Rebuilding Alexa: How Amazon is mixing models, agents and browser-use for smarter AI
+Link: https://venturebeat.com/ai/rebuilding-alexa-how-amazon-is-mixing-models-agents-and-browser-use-for-smarter-ai/
 
-2. Hume launches new text-to-speech model Octave that generates custom AI voices with adjustable emotions
-Link: https://venturebeat.com/ai/hume-launches-text-to-speech-model-octave/
+2. Hugging Face launches FastRTC to simplify real-time AI voice and video apps
+Link: https://venturebeat.com/ai/hugging-face-launches-fastrtc-to-simplify-real-time-ai-voice-and-video-apps/
 
-3. How big U.S. bank BNY manages armies of AI agents
-Link: https://venturebeat.com/ai/how-big-u-s-bank-bny-manages-armies-of-ai-agents/
+3. ElevenLabs' new speech-to-text model Scribe is here with highest accuracy rate so far (96.7% for English)
+Link: https://venturebeat.com/ai/elevenlabs-new-speech-to-text-model-scribe-is-here-with-highest-accuracy-rate-so-far-96-7-for-english/
 
-4. OctoTools: Stanford’s open-source framework optimizes LLM reasoning through modular tool orchestration
-Link: https://venturebeat.com/ai/octotools-stanfords-open-source-framework-optimizes-llm-reasoning-through-modular-tool-orchestration/
+4. Microsoft’s new Phi-4 AI models pack big performance in small packages
+Link: https://venturebeat.com/ai/microsofts-new-phi-4-ai-models-pack-big-performance-in-small-packages/
 
-5. AI-boosted autism and IDD care: CentralReach and MongoDB transform how care is delivered
-Link: https://venturebeat.com/data-infrastructure/ai-boosted-autism-and-idd-care-centralreach-and-mongodb-transform-how-care-is-delivered/
+5. Polycam’s new iPhone update lets you 3D scan rooms in seconds, stitch them together, edit with a team and automatically generate floorplan PDFs
+Link: https://venturebeat.com/virtual/polycams-new-iphone-update-lets-you-3d-scan-rooms-in-seconds-stitch-them-together-edit-with-a-team-and-automatically-generate-floorplan-pdfs/
 
