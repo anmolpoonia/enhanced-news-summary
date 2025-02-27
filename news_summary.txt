@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-27 09:21:01
+Daily News Summary - 2025-02-27 18:24:53
 ==================================================
 
-1. Rebuilding Alexa: How Amazon is mixing models, agents and browser-use for smarter AI
-Link: https://venturebeat.com/ai/rebuilding-alexa-how-amazon-is-mixing-models-agents-and-browser-use-for-smarter-ai/
-
-2. Hugging Face launches FastRTC to simplify real-time AI voice and video apps
-Link: https://venturebeat.com/ai/hugging-face-launches-fastrtc-to-simplify-real-time-ai-voice-and-video-apps/
-
-3. ElevenLabs' new speech-to-text model Scribe is here with highest accuracy rate so far (96.7% for English)
-Link: https://venturebeat.com/ai/elevenlabs-new-speech-to-text-model-scribe-is-here-with-highest-accuracy-rate-so-far-96-7-for-english/
-
-4. Microsoft’s new Phi-4 AI models pack big performance in small packages
+1. Microsoft's new Phi-4 AI models pack big performance in small packages
 Link: https://venturebeat.com/ai/microsofts-new-phi-4-ai-models-pack-big-performance-in-small-packages/
 
-5. Polycam’s new iPhone update lets you 3D scan rooms in seconds, stitch them together, edit with a team and automatically generate floorplan PDFs
-Link: https://venturebeat.com/virtual/polycams-new-iphone-update-lets-you-3d-scan-rooms-in-seconds-stitch-them-together-edit-with-a-team-and-automatically-generate-floorplan-pdfs/
+2. Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce
+Link: https://venturebeat.com/programming-development/qodos-open-code-embedding-model-sets-new-enterprise-standard-beating-openai-salesforce/
+
+3. You.com unveils AI research agent that processes 400+ sources at once
+Link: https://venturebeat.com/ai/you-com-unveils-ai-research-agent-that-processes-400-sources-at-once/
+
+4. MeMed BV Proven to Optimize Antibiotic Use, Outperform Standard Care, and Cut Costs in New Studies
+Link: https://venturebeat.com/business/memed-bv-proven-to-optimize-antibiotic-use-outperform-standard-care-and-cut-costs-in-new-studies/
+
+5. Rebuilding Alexa: How Amazon is mixing models, agents and browser-use for smarter AI
+Link: https://venturebeat.com/ai/rebuilding-alexa-how-amazon-is-mixing-models-agents-and-browser-use-for-smarter-ai/
 
