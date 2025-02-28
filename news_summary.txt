@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-27 18:24:53
+Daily News Summary - 2025-02-28 09:19:34
 ==================================================
 
-1. Microsoft's new Phi-4 AI models pack big performance in small packages
-Link: https://venturebeat.com/ai/microsofts-new-phi-4-ai-models-pack-big-performance-in-small-packages/
+1. Industry observers say GPT-4.5 is an "odd" model, question its price
+Link: https://venturebeat.com/ai/industry-observers-say-gpt-4-5-is-an-odd-model-question-its-price/
 
-2. Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce
-Link: https://venturebeat.com/programming-development/qodos-open-code-embedding-model-sets-new-enterprise-standard-beating-openai-salesforce/
-
-3. You.com unveils AI research agent that processes 400+ sources at once
+2. You.com unveils AI research agent that processes 400+ sources at once
 Link: https://venturebeat.com/ai/you-com-unveils-ai-research-agent-that-processes-400-sources-at-once/
 
-4. MeMed BV Proven to Optimize Antibiotic Use, Outperform Standard Care, and Cut Costs in New Studies
-Link: https://venturebeat.com/business/memed-bv-proven-to-optimize-antibiotic-use-outperform-standard-care-and-cut-costs-in-new-studies/
+3. OpenAI releases 'largest, most knowledgable' model GPT-4.5 with reduced hallucinations and high API price
+Link: https://venturebeat.com/ai/openai-releases-gpt-4-5/
 
-5. Rebuilding Alexa: How Amazon is mixing models, agents and browser-use for smarter AI
-Link: https://venturebeat.com/ai/rebuilding-alexa-how-amazon-is-mixing-models-agents-and-browser-use-for-smarter-ai/
+4. Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce
+Link: https://venturebeat.com/programming-development/qodos-open-code-embedding-model-sets-new-enterprise-standard-beating-openai-salesforce/
+
+5. MeMed BV Proven to Optimize Antibiotic Use, Outperform Standard Care, and Cut Costs in New Studies
+Link: https://venturebeat.com/business/memed-bv-proven-to-optimize-antibiotic-use-outperform-standard-care-and-cut-costs-in-new-studies/
 
