@@ -1,18 +1,18 @@
-Daily News Summary - 2025-02-28 09:19:34
+Daily News Summary - 2025-02-28 18:24:52
 ==================================================
 
-1. Industry observers say GPT-4.5 is an "odd" model, question its price
+1. Semantic understanding, not just vectors: How Intuit's data architecture powers agentic AI with measurable ROI
+Link: https://venturebeat.com/ai/semantic-understanding-not-just-vectors-how-intuits-data-architecture-powers-agentic-ai-with-measurable-roi/
+
+2. Industry observers say GPT-4.5 is an "odd" model, question its price
 Link: https://venturebeat.com/ai/industry-observers-say-gpt-4-5-is-an-odd-model-question-its-price/
 
-2. You.com unveils AI research agent that processes 400+ sources at once
+3. You.com unveils AI research agent that processes 400+ sources at once
 Link: https://venturebeat.com/ai/you-com-unveils-ai-research-agent-that-processes-400-sources-at-once/
 
-3. OpenAI releases 'largest, most knowledgable' model GPT-4.5 with reduced hallucinations and high API price
+4. OpenAI releases ‘largest, most knowledgable’ model GPT-4.5 with reduced hallucinations and high API price
 Link: https://venturebeat.com/ai/openai-releases-gpt-4-5/
 
-4. Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce
+5. Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce
 Link: https://venturebeat.com/programming-development/qodos-open-code-embedding-model-sets-new-enterprise-standard-beating-openai-salesforce/
-
-5. MeMed BV Proven to Optimize Antibiotic Use, Outperform Standard Care, and Cut Costs in New Studies
-Link: https://venturebeat.com/business/memed-bv-proven-to-optimize-antibiotic-use-outperform-standard-care-and-cut-costs-in-new-studies/
 
