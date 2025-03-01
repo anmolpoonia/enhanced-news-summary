@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
 new: 79 mentions
-data: 50 mentions
-model: 46 mentions
+data: 51 mentions
+model: 47 mentions
 says: 43 mentions
-openai: 37 mentions
+openai: 38 mentions
