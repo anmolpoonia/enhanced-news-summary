@@ -1,4 +1,4 @@
-Daily News Summary - 2025-03-03 09:21:07
+Daily News Summary - 2025-03-03 18:24:48
 ==================================================
 
 1. 2025 has already brought us the most performant AI ever: What can we do with these supercharged capabilities (and what's next)?
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/security/how-weak-cybersecurity-threatens-critical
 3. GPT-4.5 for enterprise: Do its accuracy and knowledge justify the cost?
 Link: https://venturebeat.com/ai/gpt-4-5-for-enterprise-do-its-accuracy-and-knowledge-justify-the-cost/
 
-4. Semantic understanding, not just vectors: How Intuit’s data architecture powers agentic AI with measurable ROI
-Link: https://venturebeat.com/ai/semantic-understanding-not-just-vectors-how-intuits-data-architecture-powers-agentic-ai-with-measurable-roi/
+4. PANDA Interactive Sues Genius Sports & Sportradar for Anti-Competitive Conduct in Sports Betting Market
+Link: https://venturebeat.com/business/panda-interactive-sues-genius-sports-sportradar-for-anti-competitive-conduct-in-sports-betting-market/
 
-5. Industry observers say GPT-4.5 is an “odd” model, question its price
-Link: https://venturebeat.com/ai/industry-observers-say-gpt-4-5-is-an-odd-model-question-its-price/
+5. Semantic understanding, not just vectors: How Intuit’s data architecture powers agentic AI with measurable ROI
+Link: https://venturebeat.com/ai/semantic-understanding-not-just-vectors-how-intuits-data-architecture-powers-agentic-ai-with-measurable-roi/
 
