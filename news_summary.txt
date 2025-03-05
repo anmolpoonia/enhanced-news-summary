@@ -1,4 +1,4 @@
-Daily News Summary - 2025-03-04 18:25:15
+Daily News Summary - 2025-03-05 09:20:11
 ==================================================
 
 1. Salesforce's AgentExchange launches with 200+ partners to automate your boring work tasks
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/auxia-raises-23-5-million-to-tackle-enterprise-
 3. Cohere's first vision model Aya Vision is here with broad, multilingual understanding and open weights — but there's a catch
 Link: https://venturebeat.com/ai/coheres-first-vision-model-aya-vision-is-here-with-broad-multilingual-understanding-and-open-weights-but-theres-a-catch/
 
-4. Top AI leaders are shaping VB Transform 2025 — here’s what’s next for enterprise AI
-Link: https://venturebeat.com/ai/top-ai-leaders-are-shaping-vb-transform-2025-heres-whats-next-for-enterprise-ai/
+4. Zeitview Secures $60M to Advance AI-Powered Inspections of Global Critical Infrastructure
+Link: https://venturebeat.com/business/zeitview-secures-60m-to-advance-ai-powered-inspections-of-global-critical-infrastructure/
 
-5. Fin Capital to Open Tokyo Office
-Link: https://venturebeat.com/business/fin-capital-to-open-tokyo-office/
+5. Top AI leaders are shaping VB Transform 2025 — here’s what’s next for enterprise AI
+Link: https://venturebeat.com/ai/top-ai-leaders-are-shaping-vb-transform-2025-heres-whats-next-for-enterprise-ai/
 
