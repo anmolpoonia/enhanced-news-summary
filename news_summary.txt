@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-06 09:20:05
+Daily News Summary - 2025-03-06 18:24:49
 ==================================================
 
-1. How the A-MEM framework supports powerful long-context memory so LLMs can take on more complicated tasks
-Link: https://venturebeat.com/ai/how-the-a-mem-framework-supports-powerful-long-context-memory-so-llms-can-take-on-more-complicated-tasks/
-
-2. SimilarWeb data: This obscure AI startup grew 8,658% while OpenAI crawled at 9%
-Link: https://venturebeat.com/ai/similarweb-data-this-obscure-ai-startup-grew-8658-while-openai-crawled-at-9/
-
-3. Enhancing AI agents with long-term memory: Insights into LangMem SDK, Memobase and the A-MEM Framework
-Link: https://venturebeat.com/ai/enhancing-ai-agents-with-long-term-memory-insights-into-langmem-sdk-memobase-and-the-a-mem-framework/
-
-4. Alibaba’s new open source model QwQ-32B matches DeepSeek-R1 with way smaller compute requirements
+1. Alibaba's new open source model QwQ-32B matches DeepSeek-R1 with way smaller compute requirements
 Link: https://venturebeat.com/ai/alibabas-new-open-source-model-qwq-32b-matches-deepseek-r1-with-way-smaller-compute-requirements/
 
-5. New open-source math model Light-R1-32B surpasses equivalent DeepSeek performance with only $1000 in training costs
+2. New open-source math model Light-R1-32B surpasses equivalent DeepSeek performance with only $1000 in training costs
 Link: https://venturebeat.com/ai/new-open-source-math-model-light-r1-32b-surpasses-equivalent-deepseek-performance-with-only-1000-in-training-costs/
+
+3. How the A-MEM framework supports powerful long-context memory so LLMs can take on more complicated tasks
+Link: https://venturebeat.com/ai/how-the-a-mem-framework-supports-powerful-long-context-memory-so-llms-can-take-on-more-complicated-tasks/
+
+4. A standard, open framework for building AI agents is coming from Cisco, LangChain and Galileo
+Link: https://venturebeat.com/ai/a-standard-open-framework-for-building-ai-agents-is-coming-from-cisco-langchain-and-galileo/
+
+5. Hugging Face co-founder Thomas Wolf just challenged Anthropic CEO’s vision for AI’s future — and the $130 billion industry is taking notice
+Link: https://venturebeat.com/ai/hugging-face-co-founder-thomas-wolf-just-challenged-anthropic-ceos-vision-for-ais-future-and-the-130-billion-industry-is-taking-notice/
 
