@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-05 18:25:51
+Daily News Summary - 2025-03-06 09:20:05
 ==================================================
 
-1. Salesforce launches Agentforce 2dx, letting AI run autonomously across enterprise systems
-Link: https://venturebeat.com/ai/salesforce-launches-agentforce-2dx-pushing-autonomous-ai-deep-into-enterprise-workflows/
+1. How the A-MEM framework supports powerful long-context memory so LLMs can take on more complicated tasks
+Link: https://venturebeat.com/ai/how-the-a-mem-framework-supports-powerful-long-context-memory-so-llms-can-take-on-more-complicated-tasks/
 
-2. Salesforce's AgentExchange launches with 200+ partners to automate your boring work tasks
-Link: https://venturebeat.com/ai/salesforces-agentexchange-launches-with-200-partners-to-automate-your-boring-work-tasks/
+2. SimilarWeb data: This obscure AI startup grew 8,658% while OpenAI crawled at 9%
+Link: https://venturebeat.com/ai/similarweb-data-this-obscure-ai-startup-grew-8658-while-openai-crawled-at-9/
 
-3. Auxia raises $23.5 million to tackle enterprise marketing's 'reacquisition treadmill'
-Link: https://venturebeat.com/ai/auxia-raises-23-5-million-to-tackle-enterprise-marketings-reacquisition-treadmill/
-
-4. Enhancing AI agents with long-term memory: Insights into LangMem SDK, Memobase and the A-MEM Framework
+3. Enhancing AI agents with long-term memory: Insights into LangMem SDK, Memobase and the A-MEM Framework
 Link: https://venturebeat.com/ai/enhancing-ai-agents-with-long-term-memory-insights-into-langmem-sdk-memobase-and-the-a-mem-framework/
 
-5. MedaSystems Secures Additional Seed Financing to Advance Its AI-Driven Workflow Platform for Expanded Access and Investigator-Initiated Studies
-Link: https://venturebeat.com/business/medasystems-secures-additional-seed-financing-to-advance-its-ai-driven-workflow-platform-for-expanded-access-and-investigator-initiated-studies/
+4. Alibaba’s new open source model QwQ-32B matches DeepSeek-R1 with way smaller compute requirements
+Link: https://venturebeat.com/ai/alibabas-new-open-source-model-qwq-32b-matches-deepseek-r1-with-way-smaller-compute-requirements/
+
+5. New open-source math model Light-R1-32B surpasses equivalent DeepSeek performance with only $1000 in training costs
+Link: https://venturebeat.com/ai/new-open-source-math-model-light-r1-32b-surpasses-equivalent-deepseek-performance-with-only-1000-in-training-costs/
 
