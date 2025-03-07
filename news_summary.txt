@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-06 18:24:49
+Daily News Summary - 2025-03-07 09:19:31
 ==================================================
 
-1. Alibaba's new open source model QwQ-32B matches DeepSeek-R1 with way smaller compute requirements
-Link: https://venturebeat.com/ai/alibabas-new-open-source-model-qwq-32b-matches-deepseek-r1-with-way-smaller-compute-requirements/
+1. Anthropic just launched a new platform that lets everyone in your company collaborate on AI — not just the tech team
+Link: https://venturebeat.com/ai/anthropic-just-launched-a-new-platform-that-lets-everyone-in-your-company-collaborate-on-ai-not-just-the-tech-team/
 
-2. New open-source math model Light-R1-32B surpasses equivalent DeepSeek performance with only $1000 in training costs
-Link: https://venturebeat.com/ai/new-open-source-math-model-light-r1-32b-surpasses-equivalent-deepseek-performance-with-only-1000-in-training-costs/
+2. Mistral releases new optical character recognition (OCR) API claiming top performance globally
+Link: https://venturebeat.com/ai/mistral-releases-new-optical-character-recognition-ocr-api-claiming-top-performance-globally/
 
-3. How the A-MEM framework supports powerful long-context memory so LLMs can take on more complicated tasks
-Link: https://venturebeat.com/ai/how-the-a-mem-framework-supports-powerful-long-context-memory-so-llms-can-take-on-more-complicated-tasks/
+3. Hugging Face co-founder Thomas Wolf just challenged Anthropic CEO's vision for AI's future — and the $130 billion industry is taking notice
+Link: https://venturebeat.com/ai/hugging-face-co-founder-thomas-wolf-just-challenged-anthropic-ceos-vision-for-ais-future-and-the-130-billion-industry-is-taking-notice/
 
 4. A standard, open framework for building AI agents is coming from Cisco, LangChain and Galileo
 Link: https://venturebeat.com/ai/a-standard-open-framework-for-building-ai-agents-is-coming-from-cisco-langchain-and-galileo/
 
-5. Hugging Face co-founder Thomas Wolf just challenged Anthropic CEO’s vision for AI’s future — and the $130 billion industry is taking notice
-Link: https://venturebeat.com/ai/hugging-face-co-founder-thomas-wolf-just-challenged-anthropic-ceos-vision-for-ais-future-and-the-130-billion-industry-is-taking-notice/
+5. Operational excellence with AI: How companies are boosting success with process intelligence everyone can access
+Link: https://venturebeat.com/ai/ai-powered-process-intelligence-for-operational-excellence/
 
