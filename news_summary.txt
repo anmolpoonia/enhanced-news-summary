@@ -1,4 +1,4 @@
-Daily News Summary - 2025-03-07 09:19:31
+Daily News Summary - 2025-03-07 18:24:32
 ==================================================
 
 1. Anthropic just launched a new platform that lets everyone in your company collaborate on AI — not just the tech team
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/mistral-releases-new-optical-character-recognit
 3. Hugging Face co-founder Thomas Wolf just challenged Anthropic CEO's vision for AI's future — and the $130 billion industry is taking notice
 Link: https://venturebeat.com/ai/hugging-face-co-founder-thomas-wolf-just-challenged-anthropic-ceos-vision-for-ais-future-and-the-130-billion-industry-is-taking-notice/
 
-4. A standard, open framework for building AI agents is coming from Cisco, LangChain and Galileo
-Link: https://venturebeat.com/ai/a-standard-open-framework-for-building-ai-agents-is-coming-from-cisco-langchain-and-galileo/
+4. How Yelp reviewed competing LLMs for correctness, relevance and tone to develop its user-friendly AI assistant
+Link: https://venturebeat.com/ai/how-yelp-reviewed-competing-llms-for-correctness-relevance-and-tone-to-develop-its-user-friendly-ai-assistant/
 
-5. Operational excellence with AI: How companies are boosting success with process intelligence everyone can access
-Link: https://venturebeat.com/ai/ai-powered-process-intelligence-for-operational-excellence/
+5. Mayo Clinic’s secret weapon against AI hallucinations: Reverse RAG in action
+Link: https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/
 
