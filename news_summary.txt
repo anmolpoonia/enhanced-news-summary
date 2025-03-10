@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-09 18:19:17
+Daily News Summary - 2025-03-10 09:17:41
 ==================================================
 
-1. Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action
-Link: https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/
+1. The great software rewiring: AI isn't just eating everything; it is everything
+Link: https://venturebeat.com/ai/the-great-software-rewiring-ai-isnt-just-eating-everything-it-is-everything/
 
-2. How Yelp reviewed competing LLMs for correctness, relevance and tone to develop its user-friendly AI assistant
-Link: https://venturebeat.com/ai/how-yelp-reviewed-competing-llms-for-correctness-relevance-and-tone-to-develop-its-user-friendly-ai-assistant/
+2. Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action
+Link: https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/
 
 3. Mistral releases new optical character recognition (OCR) API claiming top performance globally
 Link: https://venturebeat.com/ai/mistral-releases-new-optical-character-recognition-ocr-api-claiming-top-performance-globally/
 
-4. CIBC Innovation Banking Provides Growth Capital Financing to SpryPoint
-Link: https://venturebeat.com/business/cibc-innovation-banking-provides-growth-capital-financing-to-sprypoint/
+4. How Yelp reviewed competing LLMs for correctness, relevance and tone to develop its user-friendly AI assistant
+Link: https://venturebeat.com/ai/how-yelp-reviewed-competing-llms-for-correctness-relevance-and-tone-to-develop-its-user-friendly-ai-assistant/
 
-5. Anthropic just launched a new platform that lets everyone in your company collaborate on AI — not just the tech team
-Link: https://venturebeat.com/ai/anthropic-just-launched-a-new-platform-that-lets-everyone-in-your-company-collaborate-on-ai-not-just-the-tech-team/
+5. CIBC Innovation Banking Provides Growth Capital Financing to SpryPoint
+Link: https://venturebeat.com/business/cibc-innovation-banking-provides-growth-capital-financing-to-sprypoint/
 
