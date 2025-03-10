@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-10 09:17:41
+Daily News Summary - 2025-03-10 18:23:18
 ==================================================
 
-1. The great software rewiring: AI isn't just eating everything; it is everything
+1. What you need to know about Manus, the new AI agentic system from China hailed as a second 'DeepSeek moment'
+Link: https://venturebeat.com/ai/what-you-need-to-know-about-manus-the-new-ai-agentic-system-from-china-hailed-as-a-second-deepseek-moment/
+
+2. Chain-of-experts (CoE): A lower-cost LLM framework that increases efficiency and accuracy
+Link: https://venturebeat.com/ai/chain-of-experts-coe-a-lower-cost-llm-framework-that-increases-efficiency-and-accuracy/
+
+3. Inside Broadcom's data simplification strategy that enables 26 business units to use the same data analytics platform
+Link: https://venturebeat.com/data-infrastructure/inside-broadcoms-data-simplification-strategy-that-enables-26-business-units-to-use-the-same-data-analytics-platform/
+
+4. The Noramco Group Invests $25 Million in Halo Pharma’s Whippany Facility to Offer Sterile Injectable Manufacturing
+Link: https://venturebeat.com/business/the-noramco-group-invests-25-million-in-halo-pharmas-whippany-facility-to-offer-sterile-injectable-manufacturing/
+
+5. The great software rewiring: AI isn’t just eating everything; it is everything
 Link: https://venturebeat.com/ai/the-great-software-rewiring-ai-isnt-just-eating-everything-it-is-everything/
-
-2. Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action
-Link: https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/
-
-3. Mistral releases new optical character recognition (OCR) API claiming top performance globally
-Link: https://venturebeat.com/ai/mistral-releases-new-optical-character-recognition-ocr-api-claiming-top-performance-globally/
-
-4. How Yelp reviewed competing LLMs for correctness, relevance and tone to develop its user-friendly AI assistant
-Link: https://venturebeat.com/ai/how-yelp-reviewed-competing-llms-for-correctness-relevance-and-tone-to-develop-its-user-friendly-ai-assistant/
-
-5. CIBC Innovation Banking Provides Growth Capital Financing to SpryPoint
-Link: https://venturebeat.com/business/cibc-innovation-banking-provides-growth-capital-financing-to-sprypoint/
 
