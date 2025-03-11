@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-11 09:20:29
+Daily News Summary - 2025-03-11 18:25:47
 ==================================================
 
-1. What you need to know about Manus, the new AI agentic system from China hailed as a second 'DeepSeek moment'
-Link: https://venturebeat.com/ai/what-you-need-to-know-about-manus-the-new-ai-agentic-system-from-china-hailed-as-a-second-deepseek-moment/
+1. OpenAI unveils Responses API, open source Agents SDK, letting developers build their own Deep Research and Operator
+Link: https://venturebeat.com/programming-development/openai-unveils-responses-api-open-source-agents-sdk-letting-developers-build-their-own-deep-research-and-operator/
 
-2. GenLayer offers novel approach for AI agent transactions: getting multiple LLMs to vote on a suitable contract
-Link: https://venturebeat.com/ai/genlayer-offers-novel-approach-for-ai-agent-transactions-getting-multiple-llms-to-vote-on-a-suitable-contract/
+2. Anthropic's stealth enterprise coup: How Claude 3.7 is becoming the coding agent of choice
+Link: https://venturebeat.com/ai/anthropics-stealth-enterprise-coup-how-claude-3-7-is-becoming-the-coding-agent-of-choice/
 
-3. Major AI market share shift revealed: DALL-E plummets 80% as Black Forest Labs dominates 2025 data
-Link: https://venturebeat.com/ai/ai-market-share-2025-poe-report/
+3. Cerebras just announced 6 new AI datacenters that process 40M tokens per second — and it could be bad news for Nvidia
+Link: https://venturebeat.com/ai/cerebras-just-announced-6-new-ai-datacenters-that-process-40m-tokens-per-second-and-it-could-be-bad-news-for-nvidia/
 
-4. LiquidTrust Raises $4M to Eliminate Key Risks in the $14T SMB Payments Market, Launches Micro Escrow Pay
-Link: https://venturebeat.com/business/liquidtrust-raises-4m-to-eliminate-key-risks-in-the-14t-smb-payments-market-launches-micro-escrow-pay/
+4. Daversa Partners Earns Prestigious Recognition as a 2025 Best Place to Work
+Link: https://venturebeat.com/business/daversa-partners-earns-prestigious-recognition-as-a-2025-best-place-to-work/
 
-5. Chain-of-experts (CoE): A lower-cost LLM framework that increases efficiency and accuracy
-Link: https://venturebeat.com/ai/chain-of-experts-coe-a-lower-cost-llm-framework-that-increases-efficiency-and-accuracy/
+5. GRID Launches GRID Play: Unlocking Advanced In-Game Data Solutions for Competitive Games
+Link: https://venturebeat.com/business/grid-launches-grid-play-unlocking-advanced-in-game-data-solutions-for-competitive-games/
 
