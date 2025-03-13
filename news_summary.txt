@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-13 09:20:02
+Daily News Summary - 2025-03-13 18:25:40
 ==================================================
 
-1. Google unveils open source Gemma 3 model with 128k context window
-Link: https://venturebeat.com/ai/google-unveils-open-source-gemma-3-model-with-128k-context-window/
+1. Gemini 2.0 Flash Thinking now has memory and Google apps integration
+Link: https://venturebeat.com/ai/gemini-2-0-flash-thinking-now-has-memory-and-google-apps-integration/
 
-2. ServiceNow expands AI offerings with pre-built agents, targeting broader enterprise adoption
-Link: https://venturebeat.com/ai/servicenow-expands-ai-offerings-with-pre-built-agents-targeting-broader-enterprise-adoption/
+2. Cohere targets global enterprises with new highly multilingual Command A model requiring only 2 GPUs
+Link: https://venturebeat.com/ai/cohere-targets-global-enterprises-with-new-highly-multilingual-command-a-model-requiring-only-2-gpus/
 
-3. Nous Research just launched an API that gives developers access to AI models that OpenAI and Anthropic won't build
-Link: https://venturebeat.com/ai/nous-research-just-launched-an-api-that-gives-developers-access-to-ai-models-that-openai-and-anthropic-wont-build/
+3. Patronus AI’s Judge-Image wants to keep AI honest — and Etsy is already using it
+Link: https://venturebeat.com/ai/patronus-ais-judge-image-wants-to-keep-ai-honest-and-etsy-is-already-using-it/
 
-4. Google’s native multimodal AI image generation in Gemini 2.0 Flash impresses with fast edits, style transfers
+4. Anthropic researchers forced Claude to become deceptive — what they discovered could save us from rogue AI
+Link: https://venturebeat.com/ai/anthropic-researchers-forced-claude-to-become-deceptive-what-they-discovered-could-save-us-from-rogue-ai/
+
+5. Google’s native multimodal AI image generation in Gemini 2.0 Flash impresses with fast edits, style transfers
 Link: https://venturebeat.com/ai/googles-native-multimodal-ai-image-generation-in-gemini-2-0-flash-impresses-with-fast-edits-style-transfers/
-
-5. 5 best iPhone fax apps: Send documents from your mobile in 2025
-Link: https://venturebeat.com/business/5-best-iphone-fax-apps-send-documents-from-your-mobile-in-2025/
 
