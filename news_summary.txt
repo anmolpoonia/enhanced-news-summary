@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-13 18:25:40
+Daily News Summary - 2025-03-14 09:20:09
 ==================================================
 
-1. Gemini 2.0 Flash Thinking now has memory and Google apps integration
-Link: https://venturebeat.com/ai/gemini-2-0-flash-thinking-now-has-memory-and-google-apps-integration/
+1. Anthropic researchers forced Claude to become deceptive — what they discovered could save us from rogue AI
+Link: https://venturebeat.com/ai/anthropic-researchers-forced-claude-to-become-deceptive-what-they-discovered-could-save-us-from-rogue-ai/
 
-2. Cohere targets global enterprises with new highly multilingual Command A model requiring only 2 GPUs
-Link: https://venturebeat.com/ai/cohere-targets-global-enterprises-with-new-highly-multilingual-command-a-model-requiring-only-2-gpus/
+2. New technique helps LLMs rein in CoT lengths, optimizing reasoning without exploding compute costs
+Link: https://venturebeat.com/ai/new-technique-helps-llms-rein-in-cot-lengths-optimizing-reasoning-without-exploding-compute-costs/
 
 3. Patronus AI’s Judge-Image wants to keep AI honest — and Etsy is already using it
 Link: https://venturebeat.com/ai/patronus-ais-judge-image-wants-to-keep-ai-honest-and-etsy-is-already-using-it/
 
-4. Anthropic researchers forced Claude to become deceptive — what they discovered could save us from rogue AI
-Link: https://venturebeat.com/ai/anthropic-researchers-forced-claude-to-become-deceptive-what-they-discovered-could-save-us-from-rogue-ai/
+4. Gemini 2.0 Flash Thinking now has memory and Google apps integration
+Link: https://venturebeat.com/ai/gemini-2-0-flash-thinking-now-has-memory-and-google-apps-integration/
 
-5. Google’s native multimodal AI image generation in Gemini 2.0 Flash impresses with fast edits, style transfers
-Link: https://venturebeat.com/ai/googles-native-multimodal-ai-image-generation-in-gemini-2-0-flash-impresses-with-fast-edits-style-transfers/
+5. Cohere targets global enterprises with new highly multilingual Command A model requiring only 2 GPUs
+Link: https://venturebeat.com/ai/cohere-targets-global-enterprises-with-new-highly-multilingual-command-a-model-requiring-only-2-gpus/
 
