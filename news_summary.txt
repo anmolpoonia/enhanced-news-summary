@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-17 09:21:31
+Daily News Summary - 2025-03-17 18:25:09
 ==================================================
 
-1. Launching your first AI project with a grain of RICE: Weighing reach, impact, confidence and effort to create your roadmap
-Link: https://venturebeat.com/ai/launching-your-first-ai-project-with-a-grain-of-rice-weighing-reach-impact-confidence-and-effort-to-create-your-roadmap/
+1. Inside Zoom's AI evolution: From basic meeting tools to agentic productivity platform powered by LLMs and SLMs
+Link: https://venturebeat.com/ai/inside-zooms-ai-evolution-from-basic-meeting-tools-to-agentic-productivity-platform-powered-by-llms-and-slms/
 
-2. Inching towards AGI: How reasoning and deep research are expanding AI from statistical prediction to structured problem-solving
-Link: https://venturebeat.com/ai/inching-towards-agi-how-reasoning-and-deep-research-are-expanding-ai-from-statistical-prediction-to-structured-problem-solving/
+2. Visa's AI edge: How RAG-as-a-service and deep learning are strengthening security and speeding up data retrieval
+Link: https://venturebeat.com/ai/visas-ai-edge-how-rag-as-a-service-and-deep-learning-are-strengthening-security-and-speeding-up-data-retrieval/
 
-3. 51 seconds to breach: How CISOs are countering AI-driven, lightning-fast deepfake, vishing and social engineering attacks
-Link: https://venturebeat.com/security/51-seconds-to-breach-how-cisos-are-fighting-back-against-lightning-fast-attacks/
-
-4. OpenAI’s strategic gambit: The Agents SDK and why it changes everything for enterprise AI
+3. OpenAI's strategic gambit: The Agents SDK and why it changes everything for enterprise AI
 Link: https://venturebeat.com/ai/openais-strategic-gambit-the-agent-sdk-and-why-it-changes-everything-for-enterprise-ai/
 
-5. Moonvalley’s Marey is a state-of-the-art AI video model trained on FULLY LICENSED data
-Link: https://venturebeat.com/ai/moonvalleys-marey-is-a-state-of-the-art-ai-video-model-trained-on-fully-licensed-data/
+4. Inching towards AGI: How reasoning and deep research are expanding AI from statistical prediction to structured problem-solving
+Link: https://venturebeat.com/ai/inching-towards-agi-how-reasoning-and-deep-research-are-expanding-ai-from-statistical-prediction-to-structured-problem-solving/
+
+5. Launching your first AI project with a grain of RICE: Weighing reach, impact, confidence and effort to create your roadmap
+Link: https://venturebeat.com/ai/launching-your-first-ai-project-with-a-grain-of-rice-weighing-reach-impact-confidence-and-effort-to-create-your-roadmap/
 
