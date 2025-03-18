@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-18 09:20:50
+Daily News Summary - 2025-03-18 18:26:08
 ==================================================
 
-1. Mistral AI drops new open-source model that outperforms GPT-4o Mini with fraction of parameters
-Link: https://venturebeat.com/ai/mistral-ai-drops-new-open-source-model-that-outperforms-gpt-4o-mini-with-fraction-of-parameters/
+1. Halliday raises $20 million to build AI agents that operate safely on blockchain
+Link: https://venturebeat.com/ai/halliday-raises-20-million-to-build-ai-agents-that-operate-safely-on-blockchain/
 
-2. Baidu delivers new LLMs ERNIE 4.5 and ERNIE X1 undercutting DeepSeek, OpenAI on cost — but they're not open source (yet)
-Link: https://venturebeat.com/ai/baidu-delivers-new-llms-ernie-4-5-and-ernie-x1-undercutting-deepseek-openai-on-cost-but-theyre-not-open-source-yet/
+2. Orion Security emerges from stealth using LLMs to track your enterprise's data flow and stop it from leaking out
+Link: https://venturebeat.com/security/orion-security-emerges-from-stealth-using-llms-to-track-your-enterprises-data-flow-and-stop-it-from-leaking-out/
 
 3. Visa's AI edge: How RAG-as-a-service and deep learning are strengthening security and speeding up data retrieval
 Link: https://venturebeat.com/ai/visas-ai-edge-how-rag-as-a-service-and-deep-learning-are-strengthening-security-and-speeding-up-data-retrieval/
 
-4. Protembis Announces Formation of New Scientific Advisory Board Comprised of World-Renowned Structural Heart Experts
-Link: https://venturebeat.com/business/protembis-announces-formation-of-new-scientific-advisory-board-comprised-of-world-renowned-structural-heart-experts/
+4. Adobe’s new AI agents can make personal websites for your customers
+Link: https://venturebeat.com/ai/adobes-new-ai-agents-can-make-personal-websites-for-your-customers/
 
-5. Inside Zoom’s AI evolution: From basic meeting tools to agentic productivity platform powered by LLMs and SLMs
-Link: https://venturebeat.com/ai/inside-zooms-ai-evolution-from-basic-meeting-tools-to-agentic-productivity-platform-powered-by-llms-and-slms/
+5. Why smarter ERP data is the key to AI-powered growth
+Link: https://venturebeat.com/ai/why-smarter-erp-data-is-the-key-to-ai-powered-growth/
 
