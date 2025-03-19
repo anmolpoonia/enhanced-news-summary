@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-18 18:26:08
+Daily News Summary - 2025-03-19 09:20:39
 ==================================================
 
-1. Halliday raises $20 million to build AI agents that operate safely on blockchain
-Link: https://venturebeat.com/ai/halliday-raises-20-million-to-build-ai-agents-that-operate-safely-on-blockchain/
+1. Nvidia debuts Llama Nemotron open reasoning models in a bid to advance agentic AI
+Link: https://venturebeat.com/ai/nvidia-debuts-llama-nemotron-open-reasoning-models-in-a-bid-to-advance-agentic-ai/
 
-2. Orion Security emerges from stealth using LLMs to track your enterprise's data flow and stop it from leaking out
-Link: https://venturebeat.com/security/orion-security-emerges-from-stealth-using-llms-to-track-your-enterprises-data-flow-and-stop-it-from-leaking-out/
+2. Nvidia will supercharge humanoid robot development with Isaac GR00T N1 foundation model for human-like reasoning
+Link: https://venturebeat.com/games/nvidia-will-supercharge-humanoid-robot-development-with-isaac-gr00t-n1-foundation-model-for-humanoid-reasoning/
 
-3. Visa's AI edge: How RAG-as-a-service and deep learning are strengthening security and speeding up data retrieval
-Link: https://venturebeat.com/ai/visas-ai-edge-how-rag-as-a-service-and-deep-learning-are-strengthening-security-and-speeding-up-data-retrieval/
+3. GM and Nvidia collaborate on AI for self-driving cars and vehicle manufacturing
+Link: https://venturebeat.com/business/gm-and-nvidia-collaborate-on-ai-for-self-driving-cars-and-vehicle-manufacturing/
 
-4. Adobe’s new AI agents can make personal websites for your customers
-Link: https://venturebeat.com/ai/adobes-new-ai-agents-can-make-personal-websites-for-your-customers/
+4. Nvidia’s GTC 2025 keynote: 40x AI performance leap, open-source ‘Dynamo’, and a walking Star Wars-inspired ‘Blue’ robot
+Link: https://venturebeat.com/ai/nvidias-gtc-2025-keynote-40x-ai-performance-leap-open-source-dynamo-and-a-walking-star-wars-inspired-blue-robot/
 
-5. Why smarter ERP data is the key to AI-powered growth
-Link: https://venturebeat.com/ai/why-smarter-erp-data-is-the-key-to-ai-powered-growth/
+5. Successful AI adoption comes down to one thing: Smarter, right-size compute
+Link: https://venturebeat.com/ai/successful-ai-adoption-comes-down-to-one-thing-smarter-right-size-compute/
 
