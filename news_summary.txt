@@ -1,4 +1,4 @@
-Daily News Summary - 2025-03-21 18:25:12
+Daily News Summary - 2025-03-22 09:18:39
 ==================================================
 
 1. Anthropic just gave Claude a superpower: real-time web search. Here's why it changes everything
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-
 3. Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules
 Link: https://venturebeat.com/security/googles-32b-wiz-bet-ai-driven-cnapp-will-finally-eliminate-devsecops-bottlenecks/
 
-4. OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds
-Link: https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/
+4. Less is more: UC Berkeley and Google unlock LLM potential through simple sampling
+Link: https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/
 
-5. Cello and Lightspeed Announce the GTM10 Awards – Nominations Now Open to Find the Best Go-To-Market Operators in Software
-Link: https://venturebeat.com/business/cello-and-lightspeed-announce-the-gtm10-awards-nominations-now-open-to-find-the-best-go-to-market-operators-in-software/
+5. OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds
+Link: https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/
 
