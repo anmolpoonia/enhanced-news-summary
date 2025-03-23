@@ -1,17 +1,17 @@
-Daily News Summary - 2025-03-22 18:22:49
+Daily News Summary - 2025-03-23 09:17:39
 ==================================================
 
-1. Anthropic just gave Claude a superpower: real-time web search. Here's why it changes everything
-Link: https://venturebeat.com/ai/anthropic-just-gave-claude-a-superpower-real-time-web-search-heres-why-it-changes-everything/
+1. The open-source AI debate: Why selective transparency poses a serious risk
+Link: https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/
 
-2. Small models as paralegals: LexisNexis distills models to build AI assistant
-Link: https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/
-
-3. Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules
+2. Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules
 Link: https://venturebeat.com/security/googles-32b-wiz-bet-ai-driven-cnapp-will-finally-eliminate-devsecops-bottlenecks/
 
-4. Less is more: UC Berkeley and Google unlock LLM potential through simple sampling
+3. Less is more: UC Berkeley and Google unlock LLM potential through simple sampling
 Link: https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/
+
+4. Small models as paralegals: LexisNexis distills models to build AI assistant
+Link: https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/
 
 5. OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds
 Link: https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/
