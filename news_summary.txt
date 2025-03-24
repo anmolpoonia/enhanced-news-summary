@@ -1,11 +1,11 @@
-Daily News Summary - 2025-03-23 18:23:23
+Daily News Summary - 2025-03-24 09:21:29
 ==================================================
 
-1. The open-source AI debate: Why selective transparency poses a serious risk
-Link: https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/
+1. 'Gradually then suddenly': Is AI job displacement following this pattern?
+Link: https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/
 
-2. Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules
-Link: https://venturebeat.com/security/googles-32b-wiz-bet-ai-driven-cnapp-will-finally-eliminate-devsecops-bottlenecks/
+2. The open-source AI debate: Why selective transparency poses a serious risk
+Link: https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/
 
 3. Less is more: UC Berkeley and Google unlock LLM potential through simple sampling
 Link: https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/
