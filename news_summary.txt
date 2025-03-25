@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-24 18:26:24
+Daily News Summary - 2025-03-25 09:20:33
 ==================================================
 
-1. 'Gradually then suddenly': Is AI job displacement following this pattern?
-Link: https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/
+1. DeepSeek-V3 now runs at 20 tokens per second on Mac Studio, and that's a nightmare for OpenAI
+Link: https://venturebeat.com/ai/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio-and-thats-a-nightmare-for-openai/
 
-2. The open-source AI debate: Why selective transparency poses a serious risk
-Link: https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/
+2. Midjourney's surprise: new research on making LLMs write more creatively
+Link: https://venturebeat.com/ai/midjourneys-surprise-new-research-on-making-llms-write-more-creatively/
 
 3. Less is more: UC Berkeley and Google unlock LLM potential through simple sampling
 Link: https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/
 
-4. Small models as paralegals: LexisNexis distills models to build AI assistant
-Link: https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/
+4. From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls
+Link: https://venturebeat.com/security/ai-copilots-cut-false-positives-and-burnout-in-overworked-socs/
 
-5. OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds
-Link: https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/
+5. ‘Gradually then suddenly’: Is AI job displacement following this pattern?
+Link: https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/
 
