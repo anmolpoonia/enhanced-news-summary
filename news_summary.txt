@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-25 09:20:33
+Daily News Summary - 2025-03-25 18:25:44
 ==================================================
 
-1. DeepSeek-V3 now runs at 20 tokens per second on Mac Studio, and that's a nightmare for OpenAI
-Link: https://venturebeat.com/ai/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio-and-thats-a-nightmare-for-openai/
+1. Security teams can respond 80% faster to events with Cyberhaven's AI-powered data lineage tools
+Link: https://venturebeat.com/security/security-teams-can-respond-80-faster-to-events-with-cyberhavens-ai-powered-data-lineage-tools/
 
-2. Midjourney's surprise: new research on making LLMs write more creatively
-Link: https://venturebeat.com/ai/midjourneys-surprise-new-research-on-making-llms-write-more-creatively/
+2. Agentic AI is changing online meeting platforms: Moving from silent observer to active participant
+Link: https://venturebeat.com/ai/beyond-transcription-how-agentic-ai-is-set-to-change-enterprise-meetings/
 
-3. Less is more: UC Berkeley and Google unlock LLM potential through simple sampling
-Link: https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/
-
-4. From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls
+3. From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls
 Link: https://venturebeat.com/security/ai-copilots-cut-false-positives-and-burnout-in-overworked-socs/
 
-5. ‘Gradually then suddenly’: Is AI job displacement following this pattern?
-Link: https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/
+4. Powerful Medical Receives FDA Breakthrough Device Designation for PMcardio STEMI AI ECG Model
+Link: https://venturebeat.com/business/powerful-medical-receives-fda-breakthrough-device-designation-for-pmcardio-stemi-ai-ecg-model/
+
+5. Providing consistent, reliable customer experiences with CQRS at scale
+Link: https://venturebeat.com/data-infrastructure/providing-consistent-reliable-customer-experiences-with-cqrs-at-scale/
 
