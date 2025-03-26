@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-26 09:20:23
+Daily News Summary - 2025-03-26 18:25:50
 ==================================================
 
-1. Google releases 'most intelligent model to date,' Gemini 2.5 Pro
-Link: https://venturebeat.com/ai/google-releases-most-intelligent-model-to-date-gemini-2-5-pro/
+1. Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors
+Link: https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/
 
 2. 'Insane': OpenAI introduces GPT-4o native image generation and it's already wowing users
 Link: https://venturebeat.com/ai/insane-openai-introduces-gpt-4o-native-image-generation-and-its-already-wowing-users/
 
-3. From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls
-Link: https://venturebeat.com/security/ai-copilots-cut-false-positives-and-burnout-in-overworked-socs/
+3. DeepSeek-V3 now runs at 20 tokens per second on Mac Studio, and that's a nightmare for OpenAI
+Link: https://venturebeat.com/ai/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio-and-thats-a-nightmare-for-openai/
 
-4. Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors
-Link: https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/
+4. Trust Wallet Reaches 200 Million Downloads Milestone
+Link: https://venturebeat.com/business/trust-wallet-reaches-200-million-downloads-milestone/
 
-5. Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision
-Link: https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/
+5. Groq and PlayAI just made voice AI sound way more human — here’s how
+Link: https://venturebeat.com/ai/groq-and-playai-just-made-voice-ai-sound-way-more-human-heres-how/
 
