@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-25 18:25:44
+Daily News Summary - 2025-03-26 09:20:23
 ==================================================
 
-1. Security teams can respond 80% faster to events with Cyberhaven's AI-powered data lineage tools
-Link: https://venturebeat.com/security/security-teams-can-respond-80-faster-to-events-with-cyberhavens-ai-powered-data-lineage-tools/
+1. Google releases 'most intelligent model to date,' Gemini 2.5 Pro
+Link: https://venturebeat.com/ai/google-releases-most-intelligent-model-to-date-gemini-2-5-pro/
 
-2. Agentic AI is changing online meeting platforms: Moving from silent observer to active participant
-Link: https://venturebeat.com/ai/beyond-transcription-how-agentic-ai-is-set-to-change-enterprise-meetings/
+2. 'Insane': OpenAI introduces GPT-4o native image generation and it's already wowing users
+Link: https://venturebeat.com/ai/insane-openai-introduces-gpt-4o-native-image-generation-and-its-already-wowing-users/
 
 3. From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls
 Link: https://venturebeat.com/security/ai-copilots-cut-false-positives-and-burnout-in-overworked-socs/
 
-4. Powerful Medical Receives FDA Breakthrough Device Designation for PMcardio STEMI AI ECG Model
-Link: https://venturebeat.com/business/powerful-medical-receives-fda-breakthrough-device-designation-for-pmcardio-stemi-ai-ecg-model/
+4. Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors
+Link: https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/
 
-5. Providing consistent, reliable customer experiences with CQRS at scale
-Link: https://venturebeat.com/data-infrastructure/providing-consistent-reliable-customer-experiences-with-cqrs-at-scale/
+5. Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision
+Link: https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/
 
