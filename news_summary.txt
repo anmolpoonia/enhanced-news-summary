@@ -1,18 +1,18 @@
-Daily News Summary - 2025-03-27 18:25:48
+Daily News Summary - 2025-03-28 09:20:13
 ==================================================
 
-1. The open source Model Context Protocol was just updated — here's why it's a big deal
-Link: https://venturebeat.com/ai/the-open-source-model-context-protocol-was-just-updated-heres-why-its-a-big-deal/
+1. ChatGPT gets smarter: OpenAI adds internal data referencing
+Link: https://venturebeat.com/ai/chatgpt-gets-smarter-openai-adds-internal-data-referencing/
 
-2. 'Studio Ghibli' AI image trend overwhelms OpenAI's new GPT-4o feature, delaying free tier
-Link: https://venturebeat.com/ai/studio-ghibli-ai-image-trend-overwhelms-openais-new-gpt-4o-feature-delaying-free-tier/
+2. The TAO of data: How Databricks is optimizing  AI LLM fine-tuning without data labels
+Link: https://venturebeat.com/data-infrastructure/the-tao-of-data-how-databricks-is-optimizing-ai-llm-fine-tuning-without-data-labels/
 
-3. Groq and PlayAI just made voice AI sound way more human — here's how
-Link: https://venturebeat.com/ai/groq-and-playai-just-made-voice-ai-sound-way-more-human-heres-how/
-
-4. Anthropic scientists expose how AI actually ‘thinks’ — and discover it secretly plans ahead and sometimes lies
+3. Anthropic scientists expose how AI actually 'thinks' — and discover it secretly plans ahead and sometimes lies
 Link: https://venturebeat.com/business/anthropic-scientists-expose-how-ai-actually-thinks-and-discover-it-secretly-plans-ahead-and-sometimes-lies/
 
-5. Inaccessible and at risk: Most websites fall short despite rising regulations
+4. Inaccessible and at risk: Most websites fall short despite rising regulations
 Link: https://venturebeat.com/programming-development/inaccessible-and-at-risk-most-websites-fall-short-despite-rising-regulations/
+
+5. The watchful AI that never sleeps: Hakimo’s $10.5M bet on autonomous security
+Link: https://venturebeat.com/ai/the-watchful-ai-that-never-sleeps-hakimos-10-5m-bet-on-autonomous-security/
 
