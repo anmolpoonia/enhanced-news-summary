@@ -1,17 +1,17 @@
-Daily News Summary - 2025-03-29 18:22:54
+Daily News Summary - 2025-03-30 18:22:53
 ==================================================
 
-1. Hands on with Gemini 2.5 Pro: why it might be the most useful reasoning model yet
-Link: https://venturebeat.com/ai/beyond-benchmarks-gemini-2-5-pro-is-probably-the-best-reasoning-model-yet/
+1. Why businesses judge AI like humans — and what that means for adoption
+Link: https://venturebeat.com/ai/why-businesses-judge-ai-like-humans-and-what-that-means-for-adoption/
 
-2. New approach to agent reliability, AgentSpec, forces agents to follow rules
-Link: https://venturebeat.com/ai/new-approach-to-agent-reliability-agentspec-forces-agents-to-follow-rules/
+2. Google’s Gemini 2.5 Pro is the smartest model you’re not using – and 4 reasons it matters for enterprise AI
+Link: https://venturebeat.com/ai/googles-gemini-2-5-pro-is-the-smartest-model-youre-not-using-and-4-reasons-it-matters-for-enterprise-ai/
 
 3. Researchers warn of 'catastrophic overtraining' in Large Language Models
 Link: https://venturebeat.com/ai/researchers-warn-of-catastrophic-overtraining-in-large-language-models/
 
-4. Google’s Gemini 2.5 Pro is the smartest model you’re not using – and 4 reasons it matters for enterprise AI
-Link: https://venturebeat.com/ai/googles-gemini-2-5-pro-is-the-smartest-model-youre-not-using-and-4-reasons-it-matters-for-enterprise-ai/
+4. Beyond encryption: Why quantum computing might be more of a science boom than a cybersecurity bust
+Link: https://venturebeat.com/security/beyond-encryption-why-quantum-computing-might-be-more-of-a-science-boom-than-a-cybersecurity-bust/
 
 5. Credit where credit’s due: Inside Experian’s AI framework that’s changing financial access
 Link: https://venturebeat.com/ai/credit-where-credits-due-inside-experians-ai-framework-thats-changing-financial-access/
