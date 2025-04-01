@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-01 09:21:13
+Daily News Summary - 2025-04-01 18:25:27
 ==================================================
 
-1. Why businesses judge AI like humans — and what that means for adoption
-Link: https://venturebeat.com/ai/why-businesses-judge-ai-like-humans-and-what-that-means-for-adoption/
+1. Emergence AI's new system automatically creates AI agents rapidly in realtime based on the work at hand
+Link: https://venturebeat.com/ai/emergence-ais-new-system-automatically-creates-ai-agents-rapidly-in-realtime-based-on-the-work-at-hand/
 
-2. Beyond encryption: Why quantum computing might be more of a science boom than a cybersecurity bust
-Link: https://venturebeat.com/security/beyond-encryption-why-quantum-computing-might-be-more-of-a-science-boom-than-a-cybersecurity-bust/
+2. I asked an AI swarm to fill out a March Madness bracket — here's what happened
+Link: https://venturebeat.com/ai/i-asked-an-ai-swarm-to-fill-out-a-march-madness-bracket-heres-what-happened/
 
-3. Google’s Gemini 2.5 Pro is the smartest model you’re not using – and 4 reasons it matters for enterprise AI
-Link: https://venturebeat.com/ai/googles-gemini-2-5-pro-is-the-smartest-model-youre-not-using-and-4-reasons-it-matters-for-enterprise-ai/
-
-4. OpenAI to release open-source model as AI economics force strategic shift
-Link: https://venturebeat.com/ai/openai-to-release-open-source-model-as-ai-economics-force-strategic-shift/
-
-5. $40B into the furnace: As OpenAI adds a million users an hour, the race for enterprise AI dominance hits a new gear
+3. $40B into the furnace: As OpenAI adds a million users an hour, the race for enterprise AI dominance hits a new gear
 Link: https://venturebeat.com/ai/40b-into-the-furnace-as-openai-adds-a-million-users-an-hour-the-race-for-enterprise-ai-dominance-hits-a-new-gear/
+
+4. Dan Marr Joins Partnership, Amplifying Daversa’s Leadership Team
+Link: https://venturebeat.com/business/dan-marr-joins-partnership-amplifying-daversas-leadership-team/
+
+5. OpenAI to release open-source model as AI economics force strategic shift
+Link: https://venturebeat.com/ai/openai-to-release-open-source-model-as-ai-economics-force-strategic-shift/
 
