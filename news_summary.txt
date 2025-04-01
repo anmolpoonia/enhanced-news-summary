@@ -1,4 +1,4 @@
-Daily News Summary - 2025-03-31 18:26:21
+Daily News Summary - 2025-04-01 09:21:13
 ==================================================
 
 1. Why businesses judge AI like humans — and what that means for adoption
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/security/beyond-encryption-why-quantum-computing-m
 3. Google’s Gemini 2.5 Pro is the smartest model you’re not using – and 4 reasons it matters for enterprise AI
 Link: https://venturebeat.com/ai/googles-gemini-2-5-pro-is-the-smartest-model-youre-not-using-and-4-reasons-it-matters-for-enterprise-ai/
 
-4. A new, enterprise-specific AI speech model is here: Jargonic from aiOla claims to best rivals at your business’s lingo
-Link: https://venturebeat.com/ai/a-new-enterprise-specific-ai-speech-model-is-here-jargonic-from-aiola-claims-to-best-rivals-at-your-businesss-lingo/
+4. OpenAI to release open-source model as AI economics force strategic shift
+Link: https://venturebeat.com/ai/openai-to-release-open-source-model-as-ai-economics-force-strategic-shift/
 
-5. Credit where credit’s due: Inside Experian’s AI framework that’s changing financial access
-Link: https://venturebeat.com/ai/credit-where-credits-due-inside-experians-ai-framework-thats-changing-financial-access/
+5. $40B into the furnace: As OpenAI adds a million users an hour, the race for enterprise AI dominance hits a new gear
+Link: https://venturebeat.com/ai/40b-into-the-furnace-as-openai-adds-a-million-users-an-hour-the-race-for-enterprise-ai-dominance-hits-a-new-gear/
 
