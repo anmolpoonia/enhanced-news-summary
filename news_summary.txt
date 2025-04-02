@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-02 09:20:17
+Daily News Summary - 2025-04-02 18:26:42
 ==================================================
 
-1. Emergence AI's new system automatically creates AI agents rapidly in realtime based on the work at hand
-Link: https://venturebeat.com/ai/emergence-ais-new-system-automatically-creates-ai-agents-rapidly-in-realtime-based-on-the-work-at-hand/
+1. How Amex uses AI to increase efficiency: 40% fewer IT escalations, 85% travel assistance boost
+Link: https://venturebeat.com/ai/how-amex-uses-ai-to-increase-efficiency-40-fewer-it-escalations-85-travel-assistance-boost/
 
-2. I asked an AI swarm to fill out a March Madness bracket — here's what happened
-Link: https://venturebeat.com/ai/i-asked-an-ai-swarm-to-fill-out-a-march-madness-bracket-heres-what-happened/
+2. Anthropic flips the script on AI in education: Claude's Learning Mode makes students do the thinking
+Link: https://venturebeat.com/ai/anthropic-flips-the-script-on-ai-in-education-claude-learning-mode-makes-students-do-the-thinking/
 
-3. $40B into the furnace: As OpenAI adds a million users an hour, the race for enterprise AI dominance hits a new gear
-Link: https://venturebeat.com/ai/40b-into-the-furnace-as-openai-adds-a-million-users-an-hour-the-race-for-enterprise-ai-dominance-hits-a-new-gear/
+3. Uplimit raises stakes in corporate learning with suite of AI agents that can train 1,000 employees simultaneously
+Link: https://venturebeat.com/ai/uplimit-raises-stakes-in-corporate-learning-with-suite-of-ai-agents-that-can-train-1000-employees-simultaneously/
 
-4. Dan Marr Joins Partnership, Amplifying Daversa’s Leadership Team
-Link: https://venturebeat.com/business/dan-marr-joins-partnership-amplifying-daversas-leadership-team/
+4. Zencoder’s ‘Coffee Mode’ is the future of coding: Hit a button and let AI write your unit tests
+Link: https://venturebeat.com/ai/zencoders-coffee-mode-is-the-future-of-coding-hit-a-button-and-let-ai-write-your-unit-tests/
 
-5. OpenAI to release open-source model as AI economics force strategic shift
-Link: https://venturebeat.com/ai/openai-to-release-open-source-model-as-ai-economics-force-strategic-shift/
+5. Augment Code debuts AI agent with 70% win rate over GitHub Copilot and record-breaking SWE-bench score
+Link: https://venturebeat.com/ai/augment-code-debuts-ai-agent-with-70-win-rate-over-github-copilot-and-record-breaking-swe-bench-score/
 
