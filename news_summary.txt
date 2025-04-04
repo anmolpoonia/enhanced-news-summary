@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-03 18:25:31
+Daily News Summary - 2025-04-04 09:20:38
 ==================================================
 
-1. How Amex uses AI to increase efficiency: 40% fewer IT escalations, 85% travel assistance boost
-Link: https://venturebeat.com/ai/how-amex-uses-ai-to-increase-efficiency-40-fewer-it-escalations-85-travel-assistance-boost/
+1. Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data
+Link: https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/
 
-2. Anthropic flips the script on AI in education: Claude's Learning Mode makes students do the thinking
-Link: https://venturebeat.com/ai/anthropic-flips-the-script-on-ai-in-education-claude-learning-mode-makes-students-do-the-thinking/
+2. The tool integration problem that's holding back enterprise AI (and how CoTools solves it)
+Link: https://venturebeat.com/ai/the-tool-integration-problem-thats-holding-back-enterprise-ai-and-how-cotools-solves-it/
 
-3. Uplimit raises stakes in corporate learning with suite of AI agents that can train 1,000 employees simultaneously
-Link: https://venturebeat.com/ai/uplimit-raises-stakes-in-corporate-learning-with-suite-of-ai-agents-that-can-train-1000-employees-simultaneously/
+3. What you need to know about Amazon Nova Act: the new AI agent SDK challenging OpenAI, Microsoft, Salesforce
+Link: https://venturebeat.com/ai/what-you-need-to-know-about-amazon-nova-act-the-new-ai-agent-sdk-challenging-openai-microsoft-salesforce/
 
-4. SpinLaunch Announces $12M Strategic Investment from Kongsberg, Unveiling Revolutionary LEO Satcom Constellation
-Link: https://venturebeat.com/business/spinlaunch-announces-12m-strategic-investment-from-kongsberg-unveiling-revolutionary-leo-satcom-constellation/
+4. OpenAI just made ChatGPT Plus free for millions of college students — and it’s a brilliant competitive move against Anthropic
+Link: https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/
 
-5. Ocampo Capital LLC Announces Successful Close of Ocampo Capital Fund I LP, an Early-Stage Consumer Venture Fund
-Link: https://venturebeat.com/business/ocampo-capital-llc-announces-successful-close-of-ocampo-capital-fund-i-lp-an-early-stage-consumer-venture-fund/
+5. Don’t believe reasoning models’ Chains of Thought, says Anthropic
+Link: https://venturebeat.com/ai/dont-believe-reasoning-models-chains-of-thought-says-anthropic/
 
