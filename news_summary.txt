@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-04 18:25:25
+Daily News Summary - 2025-04-05 09:18:06
 ==================================================
 
 1. Open Deep Search arrives to challenge Perplexity and ChatGPT Search
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/enterprise-supply-chains-need-domain-specific-a
 3. OpenAI just made ChatGPT Plus free for millions of college students — and it's a brilliant competitive move against Anthropic
 Link: https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/
 
-4. Don’t believe reasoning models’ Chains of Thought, says Anthropic
-Link: https://venturebeat.com/ai/dont-believe-reasoning-models-chains-of-thought-says-anthropic/
+4. Genspark’s Super Agent ups the ante in the general AI agent race
+Link: https://venturebeat.com/ai/gensparks-super-agent-ups-the-ante-in-the-general-ai-agent-race/
 
-5. AI lie detector: How HallOumi’s open-source approach to hallucination could unlock enterprise AI adoption
-Link: https://venturebeat.com/ai/ai-lie-detector-how-halloumis-open-source-approach-to-hallucination-could-unlock-enterprise-ai-adoption/
+5. Cisco: Fine-tuned LLMs are now threat multipliers—22x more likely to go rogue
+Link: https://venturebeat.com/ai/cisco-warns-fine-tuning-turns-llms-into-threat-vectorsstructure/
 
