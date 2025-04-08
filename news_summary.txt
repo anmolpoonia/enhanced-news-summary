@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-05 18:23:04
+Daily News Summary - 2025-04-08 18:25:45
 ==================================================
 
-1. Open Deep Search arrives to challenge Perplexity and ChatGPT Search
-Link: https://venturebeat.com/ai/open-deep-search-arrives-to-challenge-perplexity-and-chatgpt-search/
+1. Stanford's AI Index: 5 critical insights reshaping enterprise tech strategy
+Link: https://venturebeat.com/ai/stanfords-ai-index-5-critical-insights-reshaping-enterprise-tech-strategy/
 
-2. Beyond RAG: How Articul8's supply chain models achieve 92% accuracy where general AI fails
-Link: https://venturebeat.com/ai/enterprise-supply-chains-need-domain-specific-ai-not-general-models-how-articul8-has-built-out-new-models-with-3x-performance-gains/
+2. Move over, Alexa: Amazon launches new realtime voice model Nova Sonic for third-party enterprise development
+Link: https://venturebeat.com/ai/move-over-alexa-amazon-launches-new-realtime-voice-model-nova-sonic-for-third-party-enterprise-development/
 
-3. OpenAI just made ChatGPT Plus free for millions of college students — and it's a brilliant competitive move against Anthropic
-Link: https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/
+3. Announcing the 2025 Product 50 Award winners!
+Link: https://venturebeat.com/programming-development/announcing-the-2025-product-50-award-winners/
 
-4. Genspark’s Super Agent ups the ante in the general AI agent race
-Link: https://venturebeat.com/ai/gensparks-super-agent-ups-the-ante-in-the-general-ai-agent-race/
+4. Nvidia’s new Llama-3.1 Nemotron Ultra outperforms DeepSeek R1 at half the size
+Link: https://venturebeat.com/ai/nvidias-new-llama-3-1-nemotron-ultra-outperforms-deepseek-r1-at-half-the-size/
 
-5. Cisco: Fine-tuned LLMs are now threat multipliers—22x more likely to go rogue
-Link: https://venturebeat.com/ai/cisco-warns-fine-tuning-turns-llms-into-threat-vectorsstructure/
+5. Knostic Selected as Finalist for RSAC™ 2025 Conference Innovation Sandbox Contest
+Link: https://venturebeat.com/business/knostic-selected-as-finalist-for-rsac-2025-conference-innovation-sandbox-contest/
 
