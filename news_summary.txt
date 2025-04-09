@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-09 09:21:09
+Daily News Summary - 2025-04-09 18:26:39
 ==================================================
 
-1. Nvidia's new Llama-3.1 Nemotron Ultra outperforms DeepSeek R1 at half the size
-Link: https://venturebeat.com/ai/nvidias-new-llama-3-1-nemotron-ultra-outperforms-deepseek-r1-at-half-the-size/
+1. Google Cloud Next '25: New AI chips and agent ecosystem challenge Microsoft and Amazon
+Link: https://venturebeat.com/ai/google-cloud-next-25-new-ai-chips-and-agent-ecosystem-challenge-microsoft-and-amazon/
 
-2. Wells Fargo’s AI assistant just crossed 245 million interactions – no human handoffs, no sensitive data exposed
-Link: https://venturebeat.com/ai/wells-fargos-ai-assistant-just-crossed-245-million-interactions-with-zero-humans-in-the-loop-and-zero-pii-to-the-llm/
+2. Google Cloud intros AI security agents, unified security platform to consolidate ops, triage, threat intel
+Link: https://venturebeat.com/security/google-cloud-intros-ai-security-agents-unified-security-platform-to-consolidate-ops-triage-threat-intel/
 
-3. The RAG reality check: New open-source framework lets enterprises scientifically measure AI performance
-Link: https://venturebeat.com/ai/the-rag-reality-check-new-open-source-framework-lets-enterprises-scientifically-measure-ai-performance/
+3. Google's new Agent Development Kit lets enterprises rapidly prototype and deploy AI agents without recoding
+Link: https://venturebeat.com/ai/googles-new-agent-development-kit-lets-enterprises-rapidly-prototype-and-deploy-ai-agents-without-recoding/
 
-4. DeepSeek unveils new technique for smarter, scalable AI reward models
-Link: https://venturebeat.com/ai/deepseek-unveils-new-technique-for-smarter-scalable-ai-reward-models/
+4. Google launches Gemini in Android Studio for Businesses, making it easier for devs to design work apps
+Link: https://venturebeat.com/programming-development/google-launches-gemini-in-android-studio-for-businesses-making-it-easier-for-devs-to-design-work-apps/
 
-5. New open source AI company Deep Cogito releases first models and they’re already topping the charts
-Link: https://venturebeat.com/ai/new-open-source-ai-company-deep-cogito-releases-first-models-and-theyre-already-topping-the-charts/
+5. Lerer Hippeau Closes $200M for Ninth Seed Fund
+Link: https://venturebeat.com/business/lerer-hippeau-closes-200m-for-ninth-seed-fund/
 
