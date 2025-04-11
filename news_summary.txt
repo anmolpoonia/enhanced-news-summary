@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-10 18:24:20
+Daily News Summary - 2025-04-11 09:20:47
 ==================================================
 
 1. Google introduces Firebase Studio, an end-to-end platform that builds custom apps in-browser, in minutes
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/anthropic-just-launched-a-200-version-of-claude
 3. Google launches Gemini in Android Studio for Businesses, making it easier for devs to design work apps
 Link: https://venturebeat.com/programming-development/google-launches-gemini-in-android-studio-for-businesses-making-it-easier-for-devs-to-design-work-apps/
 
-4. Why security stacks need to think like an attacker, and score every user in real time
-Link: https://venturebeat.com/security/from-risk-to-real-time-fraud-detection-moves-to-the-soc/
+4. DeepCoder delivers top coding performance in efficient 14B open model
+Link: https://venturebeat.com/ai/deepcoder-delivers-top-coding-performance-in-efficient-14b-open-model/
 
-5. 8flow wants to map your enterprise data and workflows for use in AI — and it’s raised $10M to help
-Link: https://venturebeat.com/automation/8flow-wants-to-map-your-enterprise-data-and-workflows-for-use-in-ai-and-its-raised-10m-to-help/
+5. What’s inside the LLM? Ai2 OLMoTrace will ‘trace’ the source
+Link: https://venturebeat.com/ai/whats-inside-the-llm-ai2-olmotrace-will-trace-the-source/
 
