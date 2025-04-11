@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-11 09:20:47
+Daily News Summary - 2025-04-11 18:26:07
 ==================================================
 
-1. Google introduces Firebase Studio, an end-to-end platform that builds custom apps in-browser, in minutes
-Link: https://venturebeat.com/ai/google-introduces-firebase-studio-an-end-to-end-platform-that-builds-custom-apps-in-browser-in-minutes/
-
-2. Anthropic just launched a $200 version of Claude AI — here's what you get for the premium price
-Link: https://venturebeat.com/ai/anthropic-just-launched-a-200-version-of-claude-ai-heres-what-you-get-for-the-premium-price/
-
-3. Google launches Gemini in Android Studio for Businesses, making it easier for devs to design work apps
-Link: https://venturebeat.com/programming-development/google-launches-gemini-in-android-studio-for-businesses-making-it-easier-for-devs-to-design-work-apps/
-
-4. DeepCoder delivers top coding performance in efficient 14B open model
+1. DeepCoder delivers top coding performance in efficient 14B open model
 Link: https://venturebeat.com/ai/deepcoder-delivers-top-coding-performance-in-efficient-14b-open-model/
 
-5. What’s inside the LLM? Ai2 OLMoTrace will ‘trace’ the source
+2. What's inside the LLM? Ai2 OLMoTrace will 'trace' the source
 Link: https://venturebeat.com/ai/whats-inside-the-llm-ai2-olmotrace-will-trace-the-source/
+
+3. ChatGPT's memory can now reference all past conversations, not just what you tell it to
+Link: https://venturebeat.com/ai/chatgpts-memory-can-now-reference-all-past-conversations-not-just-what-you-tell-it-to/
+
+4. ConductorAI Raises $15M to Accelerate Growth and Cut Through Government Red Tape
+Link: https://venturebeat.com/business/conductorai-raises-15m-to-accelerate-growth-and-cut-through-government-red-tape/
+
+5. CIBC Innovation Banking Led a Syndication and Acted as Lead Arranger for Teamworks
+Link: https://venturebeat.com/business/cibc-innovation-banking-led-a-syndication-and-acted-as-lead-arranger-for-teamworks/
 
