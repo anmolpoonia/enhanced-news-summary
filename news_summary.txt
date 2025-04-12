@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-11 18:26:07
+Daily News Summary - 2025-04-12 09:19:34
 ==================================================
 
 1. DeepCoder delivers top coding performance in efficient 14B open model
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/whats-inside-the-llm-ai2-olmotrace-will-trace-t
 3. ChatGPT's memory can now reference all past conversations, not just what you tell it to
 Link: https://venturebeat.com/ai/chatgpts-memory-can-now-reference-all-past-conversations-not-just-what-you-tell-it-to/
 
-4. ConductorAI Raises $15M to Accelerate Growth and Cut Through Government Red Tape
-Link: https://venturebeat.com/business/conductorai-raises-15m-to-accelerate-growth-and-cut-through-government-red-tape/
+4. Now it’s TikTok parent ByteDance’s turn for a reasoning AI: enter Seed-Thinking-v1.5!
+Link: https://venturebeat.com/ai/now-its-tiktok-parent-bytedances-turn-for-a-reasoning-ai-enter-seed-thinking-v1-5/
 
-5. CIBC Innovation Banking Led a Syndication and Acted as Lead Arranger for Teamworks
-Link: https://venturebeat.com/business/cibc-innovation-banking-led-a-syndication-and-acted-as-lead-arranger-for-teamworks/
+5. ConductorAI Raises $15M to Accelerate Growth and Cut Through Government Red Tape
+Link: https://venturebeat.com/business/conductorai-raises-15m-to-accelerate-growth-and-cut-through-government-red-tape/
 
