@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-14 09:22:06
+Daily News Summary - 2025-04-14 18:26:43
 ==================================================
 
 1. Beyond ARC-AGI: GAIA and the search for a real intelligence benchmark
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/bigger-isnt-always-better-examining-the-busines
 3. ChatGPT's memory can now reference all past conversations, not just what you tell it to
 Link: https://venturebeat.com/ai/chatgpts-memory-can-now-reference-all-past-conversations-not-just-what-you-tell-it-to/
 
-4. Now it’s TikTok parent ByteDance’s turn for a reasoning AI: enter Seed-Thinking-v1.5!
-Link: https://venturebeat.com/ai/now-its-tiktok-parent-bytedances-turn-for-a-reasoning-ai-enter-seed-thinking-v1-5/
+4. Acclaro & Unbabel Partner to Take Global AI Powered Translation Services to the Next Level
+Link: https://venturebeat.com/business/acclaro-unbabel-partner-to-take-global-ai-powered-translation-services-to-the-next-level/
 
-5. ConductorAI Raises $15M to Accelerate Growth and Cut Through Government Red Tape
-Link: https://venturebeat.com/business/conductorai-raises-15m-to-accelerate-growth-and-cut-through-government-red-tape/
+5. This AI already writes 20% of Salesforce’s code. Here’s why developers aren’t worried
+Link: https://venturebeat.com/ai/this-ai-already-writes-20-of-salesforces-code-heres-why-developers-arent-worried/
 
