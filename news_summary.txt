@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-14 18:26:43
+Daily News Summary - 2025-04-15 18:25:10
 ==================================================
 
-1. Beyond ARC-AGI: GAIA and the search for a real intelligence benchmark
-Link: https://venturebeat.com/ai/beyond-arc-agi-gaia-and-the-search-for-a-real-intelligence-benchmark/
+1. OpenAI's new GPT-4.1 models can process a million tokens and solve coding problems better than ever
+Link: https://venturebeat.com/security/openais-new-gpt-4-1-models-can-process-a-million-tokens-and-solve-coding-problems-better-than-ever/
 
-2. Bigger isn't always better: Examining the business case for multi-million token LLMs
-Link: https://venturebeat.com/ai/bigger-isnt-always-better-examining-the-business-case-for-multi-million-token-llms/
-
-3. ChatGPT's memory can now reference all past conversations, not just what you tell it to
-Link: https://venturebeat.com/ai/chatgpts-memory-can-now-reference-all-past-conversations-not-just-what-you-tell-it-to/
-
-4. Acclaro & Unbabel Partner to Take Global AI Powered Translation Services to the Next Level
-Link: https://venturebeat.com/business/acclaro-unbabel-partner-to-take-global-ai-powered-translation-services-to-the-next-level/
-
-5. This AI already writes 20% of Salesforce’s code. Here’s why developers aren’t worried
+2. This AI already writes 20% of Salesforce's code. Here's why developers aren't worried
 Link: https://venturebeat.com/ai/this-ai-already-writes-20-of-salesforces-code-heres-why-developers-arent-worried/
+
+3. Amex GBT puts AI at the center of SOC automation, threat modeling, incident response
+Link: https://venturebeat.com/security/amex-ciso-fights-threats-at-machine-speed-with-ai/
+
+4. Claude just gained superpowers: Anthropic’s AI can now search your entire Google Workspace without you
+Link: https://venturebeat.com/ai/claude-just-gained-superpowers-anthropics-ai-can-now-search-your-entire-google-workspace-without-you/
+
+5. New Data from Inception Cyber Exposes Blind Spot in Email Security: 1 in Every 50 Employees is Exposed to Advanced Email Threats Each Month
+Link: https://venturebeat.com/business/new-data-from-inception-cyber-exposes-blind-spot-in-email-security-1-in-every-50-employees-is-exposed-to-advanced-email-threats-each-month/
 
