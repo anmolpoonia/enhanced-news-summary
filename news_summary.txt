@@ -1,14 +1,14 @@
-Daily News Summary - 2025-04-16 18:27:07
+Daily News Summary - 2025-04-17 09:21:24
 ==================================================
 
-1. When AI reasoning goes wrong: Microsoft Research shows more tokens can mean more problems
+1. OpenAI launches o3 and o4-mini, AI models that 'think with images' and use tools autonomously
+Link: https://venturebeat.com/ai/openai-launches-o3-and-o4-mini-ai-models-that-think-with-images-and-use-tools-autonomously/
+
+2. Swapping LLMs isn’t plug-and-play: Inside the hidden cost of model migration
+Link: https://venturebeat.com/business/swapping-llms-isnt-plug-and-play-inside-the-hidden-cost-of-model-migration/
+
+3. When AI reasoning goes wrong: Microsoft Research shows more tokens can mean more problems
 Link: https://venturebeat.com/ai/when-ai-reasoning-goes-wrong-microsoft-research-shows-more-tokens-can-mean-more-problems/
-
-2. Sam Altman at TED 2025: Inside the most uncomfortable — and important — AI interview of the year
-Link: https://venturebeat.com/ai/sam-altman-at-ted-2025-inside-the-most-uncomfortable-and-important-ai-interview-of-the-year/
-
-3. Cohere launches Embed 4: New multimodal search model processes 200-page documents
-Link: https://venturebeat.com/ai/cohere-launches-embed-4-new-multimodal-search-model-processes-200-page-documents/
 
 4. Bauplan Launches With $7.5 Million in Seed to Bring AI & Data Infrastructure Into Software Engineering
 Link: https://venturebeat.com/business/bauplan-launches-with-7-5-million-in-seed-to-bring-ai-data-infrastructure-into-software-engineering/
