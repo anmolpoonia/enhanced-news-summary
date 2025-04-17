@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-17 09:21:24
+Daily News Summary - 2025-04-17 18:25:54
 ==================================================
 
 1. OpenAI launches o3 and o4-mini, AI models that 'think with images' and use tools autonomously
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/business/swapping-llms-isnt-plug-and-play-inside-t
 3. When AI reasoning goes wrong: Microsoft Research shows more tokens can mean more problems
 Link: https://venturebeat.com/ai/when-ai-reasoning-goes-wrong-microsoft-research-shows-more-tokens-can-mean-more-problems/
 
-4. Bauplan Launches With $7.5 Million in Seed to Bring AI & Data Infrastructure Into Software Engineering
-Link: https://venturebeat.com/business/bauplan-launches-with-7-5-million-in-seed-to-bring-ai-data-infrastructure-into-software-engineering/
+4. NVIDIA announcements, news and more, from GTC 2025
+Link: https://venturebeat.com/ai/nvidia-announcements-news-and-more-from-gtc-2025/
 
-5. Chapter Raises $75 Million Led by Stripes to Build the Future of Medicare and Retirement Guidance.
-Link: https://venturebeat.com/business/chapter-raises-75-million-led-by-stripes-to-build-the-future-of-medicare-and-retirement-guidance/
+5. How tokenization is reinventing data security in the age of AI
+Link: https://venturebeat.com/security/how-tokenization-is-reinventing-data-security-in-the-age-of-ai/
 
