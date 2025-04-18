@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-17 18:25:54
+Daily News Summary - 2025-04-18 09:20:04
 ==================================================
 
-1. OpenAI launches o3 and o4-mini, AI models that 'think with images' and use tools autonomously
-Link: https://venturebeat.com/ai/openai-launches-o3-and-o4-mini-ai-models-that-think-with-images-and-use-tools-autonomously/
+1. Windsurf: OpenAI's potential $3B bet to drive the 'vibe coding' movement
+Link: https://venturebeat.com/ai/windsurf-openais-potential-3b-bet-to-drive-the-vibe-coding-movement/
 
-2. Swapping LLMs isn’t plug-and-play: Inside the hidden cost of model migration
-Link: https://venturebeat.com/business/swapping-llms-isnt-plug-and-play-inside-the-hidden-cost-of-model-migration/
+2. New method lets DeepSeek and other models answer 'sensitive' questions
+Link: https://venturebeat.com/ai/new-method-lets-deepseek-and-other-models-answer-sensitive-questions/
 
-3. When AI reasoning goes wrong: Microsoft Research shows more tokens can mean more problems
-Link: https://venturebeat.com/ai/when-ai-reasoning-goes-wrong-microsoft-research-shows-more-tokens-can-mean-more-problems/
+3. BigQuery is 5x bigger than Snowflake and Databricks: What Google is doing to make it even better
+Link: https://venturebeat.com/ai/bigquery-is-5x-bigger-than-snowflake-and-databricks-what-google-is-doing-to-make-it-even-better/
 
-4. NVIDIA announcements, news and more, from GTC 2025
-Link: https://venturebeat.com/ai/nvidia-announcements-news-and-more-from-gtc-2025/
+4. Google’s Gemini 2.5 Flash introduces ‘thinking budgets’ that cut AI costs by 600% when turned down
+Link: https://venturebeat.com/ai/googles-gemini-2-5-flash-introduces-thinking-budgets-that-cut-ai-costs-by-600-when-turned-down/
 
-5. How tokenization is reinventing data security in the age of AI
-Link: https://venturebeat.com/security/how-tokenization-is-reinventing-data-security-in-the-age-of-ai/
+5. This AI startup just raised $7.5m to fix commercial insurance for America’s 24m underprotected small businesses
+Link: https://venturebeat.com/ai/this-ai-startup-just-raised-7-5m-to-fix-commercial-insurance-for-americas-24m-underprotected-small-businesses/
 
