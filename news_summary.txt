@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-18 09:20:04
+Daily News Summary - 2025-04-19 09:18:14
 ==================================================
 
-1. Windsurf: OpenAI's potential $3B bet to drive the 'vibe coding' movement
-Link: https://venturebeat.com/ai/windsurf-openais-potential-3b-bet-to-drive-the-vibe-coding-movement/
+1. From ‘catch up’ to ‘catch us’: How Google quietly took the lead in enterprise AI
+Link: https://venturebeat.com/ai/from-catch-up-to-catch-us-how-google-quietly-took-the-lead-in-enterprise-ai/
 
-2. New method lets DeepSeek and other models answer 'sensitive' questions
-Link: https://venturebeat.com/ai/new-method-lets-deepseek-and-other-models-answer-sensitive-questions/
+2. Identity as the new perimeter: National Oilwell Varco’s approach to stopping the 79% of attacks that are malware-free
+Link: https://venturebeat.com/security/nov-cio-fused-ai-and-zero-trust-to-slash-threats-by-35x/
 
-3. BigQuery is 5x bigger than Snowflake and Databricks: What Google is doing to make it even better
-Link: https://venturebeat.com/ai/bigquery-is-5x-bigger-than-snowflake-and-databricks-what-google-is-doing-to-make-it-even-better/
-
-4. Google’s Gemini 2.5 Flash introduces ‘thinking budgets’ that cut AI costs by 600% when turned down
+3. Google's Gemini 2.5 Flash introduces 'thinking budgets' that cut AI costs by 600% when turned down
 Link: https://venturebeat.com/ai/googles-gemini-2-5-flash-introduces-thinking-budgets-that-cut-ai-costs-by-600-when-turned-down/
 
-5. This AI startup just raised $7.5m to fix commercial insurance for America’s 24m underprotected small businesses
-Link: https://venturebeat.com/ai/this-ai-startup-just-raised-7-5m-to-fix-commercial-insurance-for-americas-24m-underprotected-small-businesses/
+4. Windsurf: OpenAI’s potential $3B bet to drive the ‘vibe coding’ movement
+Link: https://venturebeat.com/ai/windsurf-openais-potential-3b-bet-to-drive-the-vibe-coding-movement/
+
+5. New method lets DeepSeek and other models answer ‘sensitive’ questions
+Link: https://venturebeat.com/ai/new-method-lets-deepseek-and-other-models-answer-sensitive-questions/
 
