@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-19 18:23:28
+Daily News Summary - 2025-04-20 09:17:33
 ==================================================
 
 1. From ‘catch up’ to ‘catch us’: How Google quietly took the lead in enterprise AI
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/security/nov-cio-fused-ai-and-zero-trust-to-slash-
 3. Google's Gemini 2.5 Flash introduces 'thinking budgets' that cut AI costs by 600% when turned down
 Link: https://venturebeat.com/ai/googles-gemini-2-5-flash-introduces-thinking-budgets-that-cut-ai-costs-by-600-when-turned-down/
 
-4. Windsurf: OpenAI’s potential $3B bet to drive the ‘vibe coding’ movement
-Link: https://venturebeat.com/ai/windsurf-openais-potential-3b-bet-to-drive-the-vibe-coding-movement/
+4. The open source advantage: Faster bugs, better builds, wider buy-in
+Link: https://venturebeat.com/programming-development/the-open-source-advantage-faster-bugs-better-builds-wider-buy-in/
 
-5. New method lets DeepSeek and other models answer ‘sensitive’ questions
-Link: https://venturebeat.com/ai/new-method-lets-deepseek-and-other-models-answer-sensitive-questions/
+5. Windsurf: OpenAI’s potential $3B bet to drive the ‘vibe coding’ movement
+Link: https://venturebeat.com/ai/windsurf-openais-potential-3b-bet-to-drive-the-vibe-coding-movement/
 
