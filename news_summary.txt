@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-21 09:20:54
+Daily News Summary - 2025-04-21 18:25:47
 ==================================================
 
-1. 2027 AGI forecast maps a 24-month sprint to human-level AI
-Link: https://venturebeat.com/ai/2027-agi-forecast-maps-a-24-month-sprint-to-human-level-ai/
+1. Anthropic just analyzed 700,000 Claude conversations — and found its AI has a moral code of its own
+Link: https://venturebeat.com/ai/anthropic-just-analyzed-700000-claude-conversations-and-found-its-ai-has-a-moral-code-of-its-own/
 
-2. The open source advantage: Faster bugs, better builds, wider buy-in
-Link: https://venturebeat.com/programming-development/the-open-source-advantage-faster-bugs-better-builds-wider-buy-in/
+2. 2027 AGI forecast maps a 24-month sprint to human-level AI
+Link: https://venturebeat.com/ai/2027-agi-forecast-maps-a-24-month-sprint-to-human-level-ai/
 
 3. From ‘catch up’ to ‘catch us’: How Google quietly took the lead in enterprise AI
 Link: https://venturebeat.com/ai/from-catch-up-to-catch-us-how-google-quietly-took-the-lead-in-enterprise-ai/
 
-4. Identity as the new perimeter: NOV’s approach to stopping the 79% of attacks that are malware-free
-Link: https://venturebeat.com/security/nov-cio-fused-ai-and-zero-trust-to-slash-threats-by-35x/
+4. Lightning in a bottle: How a top-5 global beverage brand transforms business
+Link: https://venturebeat.com/data-infrastructure/lightning-in-a-bottle-how-a-top-5-global-beverage-brand-transforms-business/
 
-5. Windsurf: OpenAI’s potential $3B bet to drive the ‘vibe coding’ movement
-Link: https://venturebeat.com/ai/windsurf-openais-potential-3b-bet-to-drive-the-vibe-coding-movement/
+5. The open source advantage: Faster bugs, better builds, wider buy-in
+Link: https://venturebeat.com/programming-development/the-open-source-advantage-faster-bugs-better-builds-wider-buy-in/
 
