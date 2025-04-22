@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-22 09:20:55
+Daily News Summary - 2025-04-22 18:26:12
 ==================================================
 
 1. Anthropic just analyzed 700,000 Claude conversations — and found its AI has a moral code of its own
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/2027-agi-forecast-maps-a-24-month-sprint-to-hum
 3. From ‘catch up’ to ‘catch us’: How Google quietly took the lead in enterprise AI
 Link: https://venturebeat.com/ai/from-catch-up-to-catch-us-how-google-quietly-took-the-lead-in-enterprise-ai/
 
-4. Watch: Google DeepMind CEO and AI Nobel winner Demis Hassabis on CBS’ ’60 Minutes’
-Link: https://venturebeat.com/ai/watch-google-deepmind-ceo-and-ai-nobel-winner-demis-hassabis-on-cbs-60-minutes/
+4. A new, open source text-to-speech model called Dia has arrived to challenge ElevenLabs, OpenAI and more
+Link: https://venturebeat.com/ai/a-new-open-source-text-to-speech-model-called-dia-has-arrived-to-challenge-elevenlabs-openai-and-more/
 
-5. GridX Connects U.S. Biotech Investors with Latin America’s Untapped Innovation Potential
-Link: https://venturebeat.com/business/gridx-connects-u-s-biotech-investors-with-latin-americas-untapped-innovation-potential/
+5. Relyance AI builds ‘x-ray vision’ for company data: Cuts AI compliance time by 80% while solving trust crisis
+Link: https://venturebeat.com/ai/relyance-ai-builds-x-ray-vision-for-company-data-cuts-ai-compliance-time-by-80-while-solving-trust-crisis/
 
