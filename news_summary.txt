@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-23 09:21:16
+Daily News Summary - 2025-04-23 18:27:45
 ==================================================
 
-1. Anthropic just analyzed 700,000 Claude conversations — and found its AI has a moral code of its own
-Link: https://venturebeat.com/ai/anthropic-just-analyzed-700000-claude-conversations-and-found-its-ai-has-a-moral-code-of-its-own/
+1. Microsoft just launched powerful AI 'agents' that could completely transform your workday -- and challenge Google's workplace dominance
+Link: https://venturebeat.com/ai/microsoft-just-launched-powerful-ai-agents-that-could-completely-transform-your-workday-and-challenge-googles-workplace-dominance/
 
-2. 2027 AGI forecast maps a 24-month sprint to human-level AI
-Link: https://venturebeat.com/ai/2027-agi-forecast-maps-a-24-month-sprint-to-human-level-ai/
-
-3. From ‘catch up’ to ‘catch us’: How Google quietly took the lead in enterprise AI
-Link: https://venturebeat.com/ai/from-catch-up-to-catch-us-how-google-quietly-took-the-lead-in-enterprise-ai/
-
-4. $42.1 million poured into startup offering energy-efficient solutions for costly and unwieldy operational data and AI workloads
+2. $42.1 million poured into startup offering energy-efficient solutions for costly and unwieldy operational data and AI workloads
 Link: https://venturebeat.com/data-infrastructure/42-1-million-poured-into-startup-offering-energy-efficient-solutions-for-costly-and-unwieldy-operational-data-and-ai-workloads/
 
-5. More accurate coding: Researchers adapt Sequential Monte Carlo for AI-generated code
-Link: https://venturebeat.com/ai/more-accurate-coding-researchers-adapt-sequential-monte-carlo-for-ai-generated-code/
+3. Batch data processing is too slow for real-time AI: How open-source Apache Airflow 3.0 solves the challenge with event-driven data orchestration
+Link: https://venturebeat.com/data-infrastructure/open-source-airflow-3-0-set-to-accelerate-data-orchestration-for-enterprise-ai-inference/
+
+4. OpenAI makes ChatGPT’s image generation available as API
+Link: https://venturebeat.com/ai/openai-makes-chatgpts-image-generation-available-as-api/
+
+5. From friction to flow: Why Swissport scrapped its VPN maze for Cato’s SASE fabric
+Link: https://venturebeat.com/security/swissport-reinvents-global-ops-with-unified-sase-stack/
 
