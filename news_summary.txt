@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-23 18:27:45
+Daily News Summary - 2025-04-24 09:21:13
 ==================================================
 
 1. Microsoft just launched powerful AI 'agents' that could completely transform your workday -- and challenge Google's workplace dominance
 Link: https://venturebeat.com/ai/microsoft-just-launched-powerful-ai-agents-that-could-completely-transform-your-workday-and-challenge-googles-workplace-dominance/
 
-2. $42.1 million poured into startup offering energy-efficient solutions for costly and unwieldy operational data and AI workloads
-Link: https://venturebeat.com/data-infrastructure/42-1-million-poured-into-startup-offering-energy-efficient-solutions-for-costly-and-unwieldy-operational-data-and-ai-workloads/
-
-3. Batch data processing is too slow for real-time AI: How open-source Apache Airflow 3.0 solves the challenge with event-driven data orchestration
-Link: https://venturebeat.com/data-infrastructure/open-source-airflow-3-0-set-to-accelerate-data-orchestration-for-enterprise-ai-inference/
-
-4. OpenAI makes ChatGPT’s image generation available as API
+2. OpenAI makes ChatGPT's image generation available as API
 Link: https://venturebeat.com/ai/openai-makes-chatgpts-image-generation-available-as-api/
 
-5. From friction to flow: Why Swissport scrapped its VPN maze for Cato’s SASE fabric
-Link: https://venturebeat.com/security/swissport-reinvents-global-ops-with-unified-sase-stack/
+3. Amazon's SWE-PolyBench just exposed the dirty secret about your AI coding assistant
+Link: https://venturebeat.com/ai/amazon-swe-polybench-just-exposed-the-dirty-secret-about-your-ai-coding-assistant/
+
+4. Google adds more AI tools to its Workspace productivity apps
+Link: https://venturebeat.com/ai/google-adds-more-ai-tools-to-its-workspace-productivity-apps/
+
+5. Former DeepSeeker and collaborators release new method for training reliable AI agents: RAGEN
+Link: https://venturebeat.com/ai/former-deepseeker-and-collaborators-release-new-method-for-training-reliable-ai-agents-ragen/
 
