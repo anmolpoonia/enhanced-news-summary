@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-new: 152 mentions
+new: 154 mentions
 model: 103 mentions
 just: 94 mentions
 data: 94 mentions
-models: 70 mentions
+models: 71 mentions

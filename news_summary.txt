@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-24 18:25:59
+Daily News Summary - 2025-04-25 09:20:24
 ==================================================
 
-1. Microsoft just launched powerful AI 'agents' that could completely transform your workday -- and challenge Google's workplace dominance
-Link: https://venturebeat.com/ai/microsoft-just-launched-powerful-ai-agents-that-could-completely-transform-your-workday-and-challenge-googles-workplace-dominance/
+1. Google adds more AI tools to its Workspace productivity apps
+Link: https://venturebeat.com/ai/google-adds-more-ai-tools-to-its-workspace-productivity-apps/
 
-2. OpenAI makes ChatGPT's image generation available as API
-Link: https://venturebeat.com/ai/openai-makes-chatgpts-image-generation-available-as-api/
-
-3. Amazon's SWE-PolyBench just exposed the dirty secret about your AI coding assistant
-Link: https://venturebeat.com/ai/amazon-swe-polybench-just-exposed-the-dirty-secret-about-your-ai-coding-assistant/
-
-4. Ethically trained AI startup Pleias releases new small reasoning models optimized for RAG with built-in citations
+2. Ethically trained AI startup Pleias releases new small reasoning models optimized for RAG with built-in citations
 Link: https://venturebeat.com/ai/ethically-trained-ai-startup-pleias-releases-new-small-reasoning-models-optimized-for-rag-with-built-in-citations/
 
-5. Push Security Secures $30 Million Series B Funding Led by Redpoint Ventures to Fight the Rising Tide of Identity Attacks
-Link: https://venturebeat.com/business/push-security-secures-30-million-series-b-funding-led-by-redpoint-ventures-to-fight-the-rising-tide-of-identity-attacks/
+3. Former DeepSeeker and collaborators release new method for training reliable AI agents: RAGEN
+Link: https://venturebeat.com/ai/former-deepseeker-and-collaborators-release-new-method-for-training-reliable-ai-agents-ragen/
+
+4. Is that really your boss calling? Jericho Security raises $15M to stop deepfake fraud that’s cost businesses $200M in 2025 alone
+Link: https://venturebeat.com/ai/is-that-really-your-boss-calling-jericho-security-raises-15m-to-stop-deepfake-fraud-thats-cost-businesses-200m-in-2025-alone/
+
+5. Zencoder buys Machinet to challenge GitHub Copilot as AI coding assistant consolidation accelerates
+Link: https://venturebeat.com/ai/zencoder-buys-machinet-to-challenge-github-copilot-as-ai-coding-assistant-consolidation-accelerates/
 
