@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-28 10:51:50
+Daily News Summary - 2025-04-28 18:27:26
 ==================================================
 
-1. The new AI calculus: Google’s 80% cost edge vs. OpenAI’s ecosystem
-Link: https://venturebeat.com/ai/the-new-ai-calculus-googles-80-cost-edge-vs-openais-ecosystem/
+1. Does RAG make LLMs less safe?  Bloomberg research reveals hidden dangers
+Link: https://venturebeat.com/ai/does-rag-make-llms-less-safe-bloomberg-research-reveals-hidden-dangers/
 
 2. DeepSeek's success shows why motivation is key to AI innovation
 Link: https://venturebeat.com/ai/deepseeks-success-shows-why-motivation-is-key-to-ai-innovation/
 
-3. Zencoder buys Machinet to challenge GitHub Copilot as AI coding assistant consolidation accelerates
-Link: https://venturebeat.com/ai/zencoder-buys-machinet-to-challenge-github-copilot-as-ai-coding-assistant-consolidation-accelerates/
-
-4. Does RAG make LLMs less safe?  Bloomberg research reveals hidden dangers
-Link: https://venturebeat.com/ai/does-rag-make-llms-less-safe-bloomberg-research-reveals-hidden-dangers/
-
-5. Is your AI product actually working? How to develop the right metric system
+3. Is your AI product actually working? How to develop the right metric system
 Link: https://venturebeat.com/ai/is-your-ai-product-actually-working-how-to-develop-the-right-metric-system/
+
+4. Writer releases Palmyra X5, delivers near GPT-4.1 performance at 75% lower cost
+Link: https://venturebeat.com/ai/writer-releases-palmyra-x5-delivers-near-gpt-4-performance-at-75-lower-cost/
+
+5. Virsec Introduces OTTOGUARD.AI to Lock Down Vulnerabilities Autonomously Without Patching
+Link: https://venturebeat.com/business/virsec-introduces-ottoguard-ai-to-lock-down-vulnerabilities-autonomously-without-patching/
 
