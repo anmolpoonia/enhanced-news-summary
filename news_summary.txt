@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-27 18:23:47
+Daily News Summary - 2025-04-28 10:51:50
 ==================================================
 
 1. The new AI calculus: Google’s 80% cost edge vs. OpenAI’s ecosystem
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/deepseeks-success-shows-why-motivation-is-key-t
 3. Zencoder buys Machinet to challenge GitHub Copilot as AI coding assistant consolidation accelerates
 Link: https://venturebeat.com/ai/zencoder-buys-machinet-to-challenge-github-copilot-as-ai-coding-assistant-consolidation-accelerates/
 
-4. Liquid AI is revolutionizing LLMs to work on edge devices like smartphones with new ‘Hyena Edge’ model
-Link: https://venturebeat.com/ai/liquid-ai-is-revolutionizing-llms-to-work-on-edge-devices-like-smartphones-with-new-hyena-edge-model/
+4. Does RAG make LLMs less safe?  Bloomberg research reveals hidden dangers
+Link: https://venturebeat.com/ai/does-rag-make-llms-less-safe-bloomberg-research-reveals-hidden-dangers/
 
-5. Is that really your boss calling? Jericho Security raises $15M to stop deepfake fraud that’s cost businesses $200M in 2025 alone
-Link: https://venturebeat.com/ai/is-that-really-your-boss-calling-jericho-security-raises-15m-to-stop-deepfake-fraud-thats-cost-businesses-200m-in-2025-alone/
+5. Is your AI product actually working? How to develop the right metric system
+Link: https://venturebeat.com/ai/is-your-ai-product-actually-working-how-to-develop-the-right-metric-system/
 
