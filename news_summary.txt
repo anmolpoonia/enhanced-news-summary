@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-28 18:27:26
+Daily News Summary - 2025-04-29 09:21:30
 ==================================================
 
-1. Does RAG make LLMs less safe?  Bloomberg research reveals hidden dangers
-Link: https://venturebeat.com/ai/does-rag-make-llms-less-safe-bloomberg-research-reveals-hidden-dangers/
+1. Alibaba launches open source Qwen3 model that surpasses OpenAI o1 and DeepSeek R1
+Link: https://venturebeat.com/ai/alibaba-launches-open-source-qwen3-model-that-surpasses-openai-o1-and-deepseek-r1/
 
-2. DeepSeek's success shows why motivation is key to AI innovation
-Link: https://venturebeat.com/ai/deepseeks-success-shows-why-motivation-is-key-to-ai-innovation/
-
-3. Is your AI product actually working? How to develop the right metric system
-Link: https://venturebeat.com/ai/is-your-ai-product-actually-working-how-to-develop-the-right-metric-system/
-
-4. Writer releases Palmyra X5, delivers near GPT-4.1 performance at 75% lower cost
+2. Writer releases Palmyra X5, delivers near GPT-4.1 performance at 75% lower cost
 Link: https://venturebeat.com/ai/writer-releases-palmyra-x5-delivers-near-gpt-4-performance-at-75-lower-cost/
 
-5. Virsec Introduces OTTOGUARD.AI to Lock Down Vulnerabilities Autonomously Without Patching
-Link: https://venturebeat.com/business/virsec-introduces-ottoguard-ai-to-lock-down-vulnerabilities-autonomously-without-patching/
+3. 30 seconds vs. 3: The d1 reasoning framework that's slashing AI response times
+Link: https://venturebeat.com/ai/30-seconds-vs-3-the-d1-reasoning-framework-thats-slashing-ai-response-times/
+
+4. Ex-OpenAI CEO and power users sound alarm over AI sycophancy and flattery of users
+Link: https://venturebeat.com/ai/ex-openai-ceo-and-power-users-sound-alarm-over-ai-sycophancy-and-flattery-of-users/
+
+5. Beyond A2A and MCP: How LOKA’s Universal Agent Identity Layer changes the game
+Link: https://venturebeat.com/ai/beyond-a2a-and-mcp-how-lokas-universal-agent-identity-layer-changes-the-game/
 
