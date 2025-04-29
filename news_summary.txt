@@ -1,4 +1,4 @@
-Daily News Summary - 2025-04-29 09:21:30
+Daily News Summary - 2025-04-29 18:26:07
 ==================================================
 
 1. Alibaba launches open source Qwen3 model that surpasses OpenAI o1 and DeepSeek R1
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/writer-releases-palmyra-x5-delivers-near-gpt-4-
 3. 30 seconds vs. 3: The d1 reasoning framework that's slashing AI response times
 Link: https://venturebeat.com/ai/30-seconds-vs-3-the-d1-reasoning-framework-thats-slashing-ai-response-times/
 
-4. Ex-OpenAI CEO and power users sound alarm over AI sycophancy and flattery of users
-Link: https://venturebeat.com/ai/ex-openai-ceo-and-power-users-sound-alarm-over-ai-sycophancy-and-flattery-of-users/
+4. Meta’s first dedicated AI app is here with Llama 4 — but it’s more consumer than productivity or business oriented
+Link: https://venturebeat.com/ai/metas-first-dedicated-ai-app-is-here-with-llama-4-but-its-more-consumer-than-productivity-or-business-oriented/
 
-5. Beyond A2A and MCP: How LOKA’s Universal Agent Identity Layer changes the game
-Link: https://venturebeat.com/ai/beyond-a2a-and-mcp-how-lokas-universal-agent-identity-layer-changes-the-game/
+5. CIV Launches with $210M Fund to Back and Build Companies Reshaping Critical Industries
+Link: https://venturebeat.com/business/civ-launches-with-210m-fund-to-back-and-build-companies-reshaping-critical-industries/
 
