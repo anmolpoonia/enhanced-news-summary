@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-30 09:20:51
+Daily News Summary - 2025-04-30 18:26:40
 ==================================================
 
-1. Meta unleashes Llama API running 18x faster than OpenAI: Cerebras partnership delivers 2,600 tokens per second
-Link: https://venturebeat.com/ai/meta-unleashes-llama-api-running-18x-faster-than-openai-cerebras-partnership-delivers-2600-tokens-per-second/
-
-2. Meta's first dedicated AI app is here with Llama 4 — but it's more consumer than productivity or business oriented
-Link: https://venturebeat.com/ai/metas-first-dedicated-ai-app-is-here-with-llama-4-but-its-more-consumer-than-productivity-or-business-oriented/
-
-3. Is your AI product actually working? How to develop the right metric system
-Link: https://venturebeat.com/ai/is-your-ai-product-actually-working-how-to-develop-the-right-metric-system/
-
-4. Canopy Secures $70 Million Series C to Unclunk Accounting Firms with AI
-Link: https://venturebeat.com/business/canopy-secures-70-million-series-c-to-unclunk-accounting-firms-with-ai/
-
-5. No more window switching: Mastercard’s Agent Pay transforms how enterprises use AI search
+1. No more window switching: Mastercard's Agent Pay transforms how enterprises use AI search
 Link: https://venturebeat.com/ai/no-more-window-switching-mastercards-agent-pay-transforms-how-enterprises-use-ai-search/
+
+2. OpenAI rolls back ChatGPT's sycophancy and explains what went wrong
+Link: https://venturebeat.com/ai/openai-rolls-back-chatgpts-sycophancy-and-explains-what-went-wrong/
+
+3. Structify raises $4.1M seed to turn unstructured web data into enterprise-ready datasets
+Link: https://venturebeat.com/ai/structify-raises-4-1m-seed-to-turn-unstructured-web-data-into-enterprise-ready-datasets/
+
+4. Avoiding the security blame game with artificial intelligence
+Link: https://venturebeat.com/security/avoiding-the-security-blame-game-with-artificial-intelligence/
+
+5. Fidus Global Pioneers Next Wave of Warehouse Automation With Acquisition of Software Assets From Fulfilld
+Link: https://venturebeat.com/business/fidus-global-pioneers-next-wave-of-warehouse-automation-with-acquisition-of-software-assets-from-fulfilld/
 
