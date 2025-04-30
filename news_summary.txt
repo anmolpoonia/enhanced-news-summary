@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-29 18:26:07
+Daily News Summary - 2025-04-30 09:20:51
 ==================================================
 
-1. Alibaba launches open source Qwen3 model that surpasses OpenAI o1 and DeepSeek R1
-Link: https://venturebeat.com/ai/alibaba-launches-open-source-qwen3-model-that-surpasses-openai-o1-and-deepseek-r1/
+1. Meta unleashes Llama API running 18x faster than OpenAI: Cerebras partnership delivers 2,600 tokens per second
+Link: https://venturebeat.com/ai/meta-unleashes-llama-api-running-18x-faster-than-openai-cerebras-partnership-delivers-2600-tokens-per-second/
 
-2. Writer releases Palmyra X5, delivers near GPT-4.1 performance at 75% lower cost
-Link: https://venturebeat.com/ai/writer-releases-palmyra-x5-delivers-near-gpt-4-performance-at-75-lower-cost/
-
-3. 30 seconds vs. 3: The d1 reasoning framework that's slashing AI response times
-Link: https://venturebeat.com/ai/30-seconds-vs-3-the-d1-reasoning-framework-thats-slashing-ai-response-times/
-
-4. Meta’s first dedicated AI app is here with Llama 4 — but it’s more consumer than productivity or business oriented
+2. Meta's first dedicated AI app is here with Llama 4 — but it's more consumer than productivity or business oriented
 Link: https://venturebeat.com/ai/metas-first-dedicated-ai-app-is-here-with-llama-4-but-its-more-consumer-than-productivity-or-business-oriented/
 
-5. CIV Launches with $210M Fund to Back and Build Companies Reshaping Critical Industries
-Link: https://venturebeat.com/business/civ-launches-with-210m-fund-to-back-and-build-companies-reshaping-critical-industries/
+3. Is your AI product actually working? How to develop the right metric system
+Link: https://venturebeat.com/ai/is-your-ai-product-actually-working-how-to-develop-the-right-metric-system/
+
+4. Canopy Secures $70 Million Series C to Unclunk Accounting Firms with AI
+Link: https://venturebeat.com/business/canopy-secures-70-million-series-c-to-unclunk-accounting-firms-with-ai/
+
+5. No more window switching: Mastercard’s Agent Pay transforms how enterprises use AI search
+Link: https://venturebeat.com/ai/no-more-window-switching-mastercards-agent-pay-transforms-how-enterprises-use-ai-search/
 
