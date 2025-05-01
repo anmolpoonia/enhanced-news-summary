@@ -1,18 +1,18 @@
-Daily News Summary - 2025-04-30 18:26:40
+Daily News Summary - 2025-05-01 09:20:48
 ==================================================
 
-1. No more window switching: Mastercard's Agent Pay transforms how enterprises use AI search
-Link: https://venturebeat.com/ai/no-more-window-switching-mastercards-agent-pay-transforms-how-enterprises-use-ai-search/
+1. Breaking the 'intellectual bottleneck': How AI is computing the previously uncomputible in healthcare
+Link: https://venturebeat.com/ai/breaking-the-intellectual-bottleneck-how-ai-is-computing-the-previously-uncomputible-in-healthcare/
 
-2. OpenAI rolls back ChatGPT's sycophancy and explains what went wrong
-Link: https://venturebeat.com/ai/openai-rolls-back-chatgpts-sycophancy-and-explains-what-went-wrong/
+2. Qwen swings for a double with 2.5-Omni-3B model that runs on consumer PCs, laptops
+Link: https://venturebeat.com/ai/qwen-swings-for-a-double-with-2-5-omni-3b-model-that-runs-on-consumer-pcs-laptops/
 
-3. Structify raises $4.1M seed to turn unstructured web data into enterprise-ready datasets
-Link: https://venturebeat.com/ai/structify-raises-4-1m-seed-to-turn-unstructured-web-data-into-enterprise-ready-datasets/
+3. UiPath's new orchestrator guides AI agents to follow your enterprise's rules
+Link: https://venturebeat.com/ai/uipaths-new-orchestrator-guides-ai-agents-to-follow-your-enterprises-rules/
 
-4. Avoiding the security blame game with artificial intelligence
+4. The ‘era of experience’ will unleash self-learning AI agents across the web—here’s how to prepare
+Link: https://venturebeat.com/ai/the-era-of-experience-will-unleash-self-learning-ai-agents-across-the-web-heres-how-to-prepare/
+
+5. Avoiding the security blame game with artificial intelligence
 Link: https://venturebeat.com/security/avoiding-the-security-blame-game-with-artificial-intelligence/
-
-5. Fidus Global Pioneers Next Wave of Warehouse Automation With Acquisition of Software Assets From Fulfilld
-Link: https://venturebeat.com/business/fidus-global-pioneers-next-wave-of-warehouse-automation-with-acquisition-of-software-assets-from-fulfilld/
 
