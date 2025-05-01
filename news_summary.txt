@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-01 09:20:48
+Daily News Summary - 2025-05-01 18:26:47
 ==================================================
 
-1. Breaking the 'intellectual bottleneck': How AI is computing the previously uncomputible in healthcare
-Link: https://venturebeat.com/ai/breaking-the-intellectual-bottleneck-how-ai-is-computing-the-previously-uncomputible-in-healthcare/
-
-2. Qwen swings for a double with 2.5-Omni-3B model that runs on consumer PCs, laptops
-Link: https://venturebeat.com/ai/qwen-swings-for-a-double-with-2-5-omni-3b-model-that-runs-on-consumer-pcs-laptops/
-
-3. UiPath's new orchestrator guides AI agents to follow your enterprise's rules
-Link: https://venturebeat.com/ai/uipaths-new-orchestrator-guides-ai-agents-to-follow-your-enterprises-rules/
-
-4. The ‘era of experience’ will unleash self-learning AI agents across the web—here’s how to prepare
+1. The 'era of experience' will unleash self-learning AI agents across the web—here's how to prepare
 Link: https://venturebeat.com/ai/the-era-of-experience-will-unleash-self-learning-ai-agents-across-the-web-heres-how-to-prepare/
 
-5. Avoiding the security blame game with artificial intelligence
-Link: https://venturebeat.com/security/avoiding-the-security-blame-game-with-artificial-intelligence/
+2. Salesforce takes aim at 'jagged intelligence' in push for more reliable AI
+Link: https://venturebeat.com/ai/salesforce-tackles-jagged-intelligence-problem-with-new-ai-benchmarks-and-models/
+
+3. Microsoft launches Phi-4-Reasoning-Plus, a small, powerful, open weights reasoning model!
+Link: https://venturebeat.com/ai/microsoft-launches-phi-4-reasoning-plus-a-small-powerful-open-weights-reasoning-model/
+
+4. Curql Fund II Nears Close at $309 Million with 83 Credit Union Investors
+Link: https://venturebeat.com/business/curql-fund-ii-nears-close-at-309-million-with-83-credit-union-investors/
+
+5. Rare Earth Metals Refining Company Phoenix Tailings Closes on Additional $33M in Funding From Strategic Investors, Bringing the Round up to $76M to Support Rare Earth Metal Independence
+Link: https://venturebeat.com/business/rare-earth-metals-refining-company-phoenix-tailings-closes-on-additional-33m-in-funding-from-strategic-investors-bringing-the-round-up-to-76m-to-support-rare-earth-metal-independence/
 
