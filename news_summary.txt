@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-01 18:26:47
+Daily News Summary - 2025-05-02 09:20:33
 ==================================================
 
 1. The 'era of experience' will unleash self-learning AI agents across the web—here's how to prepare
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/salesforce-tackles-jagged-intelligence-problem-
 3. Microsoft launches Phi-4-Reasoning-Plus, a small, powerful, open weights reasoning model!
 Link: https://venturebeat.com/ai/microsoft-launches-phi-4-reasoning-plus-a-small-powerful-open-weights-reasoning-model/
 
-4. Curql Fund II Nears Close at $309 Million with 83 Credit Union Investors
-Link: https://venturebeat.com/business/curql-fund-ii-nears-close-at-309-million-with-83-credit-union-investors/
+4. Hidden costs in AI deployment: Why Claude models may be 20-30% more expensive than GPT in enterprise settings
+Link: https://venturebeat.com/ai/hidden-costs-in-ai-deployment-why-claude-models-may-be-20-30-more-expensive-than-gpt-in-enterprise-settings/
 
-5. Rare Earth Metals Refining Company Phoenix Tailings Closes on Additional $33M in Funding From Strategic Investors, Bringing the Round up to $76M to Support Rare Earth Metal Independence
-Link: https://venturebeat.com/business/rare-earth-metals-refining-company-phoenix-tailings-closes-on-additional-33m-in-funding-from-strategic-investors-bringing-the-round-up-to-76m-to-support-rare-earth-metal-independence/
+5. Curql Fund II Nears Close at $309 Million with 83 Credit Union Investors
+Link: https://venturebeat.com/business/curql-fund-ii-nears-close-at-309-million-with-83-credit-union-investors/
 
