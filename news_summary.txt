@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-02 18:26:10
+Daily News Summary - 2025-05-03 09:18:41
 ==================================================
 
 1. Hidden costs in AI deployment: Why Claude models may be 20-30% more expensive than GPT in enterprise settings
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/astronomer-93m-raise-underscores-a-new-reality-
 3. UiPath's new orchestrator guides AI agents to follow your enterprise's rules
 Link: https://venturebeat.com/ai/uipaths-new-orchestrator-guides-ai-agents-to-follow-your-enterprises-rules/
 
-4. OpenAI overrode concerns of expert testers to release sycophantic GPT-4o
-Link: https://venturebeat.com/ai/openai-overrode-concerns-of-expert-testers-to-release-sycophantic-gpt-4o/
+4. RSAC 2025: Why the AI agent era means more demand for CISOS
+Link: https://venturebeat.com/security/rsac-2025-why-the-ai-agent-era-means-more-demand-for-cisos/
 
-5. Why agentic AI is the next wave of innovation
-Link: https://venturebeat.com/ai/why-agentic-ai-is-the-next-wave-of-innovation/
+5. OpenAI overrode concerns of expert testers to release sycophantic GPT-4o
+Link: https://venturebeat.com/ai/openai-overrode-concerns-of-expert-testers-to-release-sycophantic-gpt-4o/
 
