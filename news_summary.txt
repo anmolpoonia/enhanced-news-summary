@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-03 18:24:33
+Daily News Summary - 2025-05-04 09:18:55
 ==================================================
 
-1. Hidden costs in AI deployment: Why Claude models may be 20-30% more expensive than GPT in enterprise settings
-Link: https://venturebeat.com/ai/hidden-costs-in-ai-deployment-why-claude-models-may-be-20-30-more-expensive-than-gpt-in-enterprise-settings/
+1. Not everything needs an LLM: A framework for evaluating when AI makes sense
+Link: https://venturebeat.com/ai/not-everything-needs-an-llm-a-framework-for-evaluating-when-ai-makes-sense/
 
-2. Astronomer’s $93M raise underscores a new reality: Orchestration is king in AI infrastructure
-Link: https://venturebeat.com/ai/astronomer-93m-raise-underscores-a-new-reality-orchestration-is-king-in-ai-infrastructure/
-
-3. UiPath's new orchestrator guides AI agents to follow your enterprise's rules
-Link: https://venturebeat.com/ai/uipaths-new-orchestrator-guides-ai-agents-to-follow-your-enterprises-rules/
-
-4. RSAC 2025: Why the AI agent era means more demand for CISOS
+2. RSAC 2025: Why the AI agent era means more demand for CISOS
 Link: https://venturebeat.com/security/rsac-2025-why-the-ai-agent-era-means-more-demand-for-cisos/
 
-5. OpenAI overrode concerns of expert testers to release sycophantic GPT-4o
+3. OpenAI overrode concerns of expert testers to release sycophantic GPT-4o
 Link: https://venturebeat.com/ai/openai-overrode-concerns-of-expert-testers-to-release-sycophantic-gpt-4o/
+
+4. Why agentic AI is the next wave of innovation
+Link: https://venturebeat.com/ai/why-agentic-ai-is-the-next-wave-of-innovation/
+
+5. Hidden costs in AI deployment: Why Claude models may be 20-30% more expensive than GPT in enterprise settings
+Link: https://venturebeat.com/ai/hidden-costs-in-ai-deployment-why-claude-models-may-be-20-30-more-expensive-than-gpt-in-enterprise-settings/
 
