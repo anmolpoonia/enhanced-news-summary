@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-05 09:21:36
+Daily News Summary - 2025-05-05 18:23:00
 ==================================================
 
 1. Not everything needs an LLM: A framework for evaluating when AI makes sense
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/security/rsac-2025-why-the-ai-agent-era-means-more
 3. OpenAI overrode concerns of expert testers to release sycophantic GPT-4o
 Link: https://venturebeat.com/ai/openai-overrode-concerns-of-expert-testers-to-release-sycophantic-gpt-4o/
 
-4. The great cognitive migration: How AI is reshaping human purpose, work and meaning
-Link: https://venturebeat.com/ai/the-great-cognitive-migration-ai-will-win-at-intelligence-but-only-we-can-make-it-matter/
+4. Visa launches ‘Intelligent Commerce’ platform, letting AI agents swipe your card—safely, it says
+Link: https://venturebeat.com/ai/visa-launches-intelligent-commerce-platform-letting-ai-agents-swipe-your-card-safely-it-says/
 
-5. Why agentic AI is the next wave of innovation
-Link: https://venturebeat.com/ai/why-agentic-ai-is-the-next-wave-of-innovation/
+5. The great cognitive migration: How AI is reshaping human purpose, work and meaning
+Link: https://venturebeat.com/ai/the-great-cognitive-migration-ai-will-win-at-intelligence-but-only-we-can-make-it-matter/
 
