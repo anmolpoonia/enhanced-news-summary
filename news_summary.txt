@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-05 18:23:00
+Daily News Summary - 2025-05-06 09:21:19
 ==================================================
 
-1. Not everything needs an LLM: A framework for evaluating when AI makes sense
-Link: https://venturebeat.com/ai/not-everything-needs-an-llm-a-framework-for-evaluating-when-ai-makes-sense/
-
-2. RSAC 2025: Why the AI agent era means more demand for CISOS
-Link: https://venturebeat.com/security/rsac-2025-why-the-ai-agent-era-means-more-demand-for-cisos/
-
-3. OpenAI overrode concerns of expert testers to release sycophantic GPT-4o
-Link: https://venturebeat.com/ai/openai-overrode-concerns-of-expert-testers-to-release-sycophantic-gpt-4o/
-
-4. Visa launches ‘Intelligent Commerce’ platform, letting AI agents swipe your card—safely, it says
+1. Visa launches ‘Intelligent Commerce’ platform, letting AI agents swipe your card—safely, it says
 Link: https://venturebeat.com/ai/visa-launches-intelligent-commerce-platform-letting-ai-agents-swipe-your-card-safely-it-says/
 
-5. The great cognitive migration: How AI is reshaping human purpose, work and meaning
+2. Not everything needs an LLM: A framework for evaluating when AI makes sense
+Link: https://venturebeat.com/ai/not-everything-needs-an-llm-a-framework-for-evaluating-when-ai-makes-sense/
+
+3. The great cognitive migration: How AI is reshaping human purpose, work and meaning
 Link: https://venturebeat.com/ai/the-great-cognitive-migration-ai-will-win-at-intelligence-but-only-we-can-make-it-matter/
+
+4. IBM thinks that over a billion new applications will be built with gen AI : Here’s how they’re going to help that happen with agentic AI
+Link: https://venturebeat.com/ai/agents-are-key-to-enterprise-ai-success-heres-ibms-plan-on-how-to-make-it-happen/
+
+5. Meta, Cisco put open-source LLMs at the core of next-gen SOC workflows
+Link: https://venturebeat.com/ai/rsac-2025-cisco-and-meta-put-open-source-ai-at-the-heart-of-enterprise-threat-defense/
 
