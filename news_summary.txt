@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-06 18:27:15
+Daily News Summary - 2025-05-07 09:21:42
 ==================================================
 
-1. Report: OpenAI is buying AI-powered developer platform Windsurf — what happens to its support for rival LLMs?
+1. Meet the new king of AI coding: Google's Gemini 2.5 Pro I/O Edition dethrones Claude 3.7 Sonnet
+Link: https://venturebeat.com/ai/meet-the-new-king-of-ai-coding-googles-gemini-2-5-pro-i-o-edition-dethrones-claude-3-7-sonnet/
+
+2. Lightricks just made AI video generation 30x faster — and you won't need a $10,000 GPU
+Link: https://venturebeat.com/ai/lightricks-just-made-ai-video-generation-30x-faster-and-you-wont-need-a-10000-gpu/
+
+3. Report: OpenAI is buying AI-powered developer platform Windsurf — what happens to its support for rival LLMs?
 Link: https://venturebeat.com/ai/report-openai-is-buying-ai-powered-developer-platform-windsurf-what-happens-to-its-support-for-rival-llms/
 
-2. Korl launches platform orchestrating AI agents from OpenAI, Gemini and Anthropic to hyper-customize customer messaging
-Link: https://venturebeat.com/ai/how-openai-gemini-and-anthropic-help-korl-prepare-customer-materials-in-minutes/
+4. AWS report: Generative AI overtakes security in global tech budgets for 2025
+Link: https://venturebeat.com/ai/aws-report-generative-ai-overtakes-security-in-global-tech-budgets-for-2025/
 
-3. IBM thinks that over a billion new applications will be built with gen AI : Here's how they're going to help that happen with agentic AI
-Link: https://venturebeat.com/ai/agents-are-key-to-enterprise-ai-success-heres-ibms-plan-on-how-to-make-it-happen/
-
-4. Statsig Secures $100M Series C Funding to Transform Product Development, Valuing Startup at $1.1 Billion
+5. Statsig Secures $100M Series C Funding to Transform Product Development, Valuing Startup at $1.1 Billion
 Link: https://venturebeat.com/business/statsig-secures-100m-series-c-funding-to-transform-product-development-valuing-startup-at-1-1-billion/
-
-5. Lightricks just made AI video generation 30x faster — and you won’t need a $10,000 GPU
-Link: https://venturebeat.com/ai/lightricks-just-made-ai-video-generation-30x-faster-and-you-wont-need-a-10000-gpu/
 
