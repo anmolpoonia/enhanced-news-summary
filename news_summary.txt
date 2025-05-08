@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-07 18:27:30
+Daily News Summary - 2025-05-08 09:21:04
 ==================================================
 
 1. AWS report: Generative AI overtakes security in global tech budgets for 2025
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/servicenow-lets-users-see-more-of-their-ai/
 3. Mistral comes out swinging for enterprise AI customers with new Le Chat Enterprise, Medium 3 model
 Link: https://venturebeat.com/ai/mistral-comes-out-swinging-for-enterprise-ai-customers-with-new-le-chat-enterprise-medium-3-model/
 
-4. Mark Cuban Doubles Down, Kind Designs Closes Seed 1 Round Led by Overlay Capital at $30M Valuation
-Link: https://venturebeat.com/business/mark-cuban-doubles-down-kind-designs-closes-seed-1-round-led-by-overlay-capital-at-30m-valuation/
+4. Crowd Power Ventures Launching $20 Million Fund to Build Marketing Ecosystem for Creators
+Link: https://venturebeat.com/business/crowd-power-ventures-launching-20-million-fund-to-build-marketing-ecosystem-for-creators/
 
-5. Business leaders are losing trust in their data — agentic analytics promises a fix
-Link: https://venturebeat.com/ai/business-leaders-are-losing-trust-in-their-data-agentic-analytics-promises-a-fix/
+5. Anthropic launches Claude web search API, betting on the future of post-Google information access
+Link: https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access/
 
