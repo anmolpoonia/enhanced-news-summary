@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-08 09:21:04
+Daily News Summary - 2025-05-08 18:27:20
 ==================================================
 
-1. AWS report: Generative AI overtakes security in global tech budgets for 2025
+1. Anthropic launches Claude web search API, betting on the future of post-Google information access
+Link: https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access/
+
+2. OpenAI names Instacart leader Fidji Simo as new CEO of Applications
+Link: https://venturebeat.com/ai/openai-names-instacart-leader-fidji-simo-as-new-ceo-of-applications/
+
+3. AWS report: Generative AI overtakes security in global tech budgets for 2025
 Link: https://venturebeat.com/ai/aws-report-generative-ai-overtakes-security-in-global-tech-budgets-for-2025/
 
-2. ServiceNow lets users see more of their AI
-Link: https://venturebeat.com/ai/servicenow-lets-users-see-more-of-their-ai/
+4. The future of managed hosting: Smarter, Faster, AI-powered
+Link: https://venturebeat.com/automation/the-future-of-managed-hosting-smarter-faster-ai-powered/
 
-3. Mistral comes out swinging for enterprise AI customers with new Le Chat Enterprise, Medium 3 model
-Link: https://venturebeat.com/ai/mistral-comes-out-swinging-for-enterprise-ai-customers-with-new-le-chat-enterprise-medium-3-model/
-
-4. Crowd Power Ventures Launching $20 Million Fund to Build Marketing Ecosystem for Creators
-Link: https://venturebeat.com/business/crowd-power-ventures-launching-20-million-fund-to-build-marketing-ecosystem-for-creators/
-
-5. Anthropic launches Claude web search API, betting on the future of post-Google information access
-Link: https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access/
+5. Yamaha Music Innovations Fund to Begin Investing in Startup Companies in Silicon Valley
+Link: https://venturebeat.com/business/yamaha-music-innovations-fund-to-begin-investing-in-startup-companies-in-silicon-valley/
 
