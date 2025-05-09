@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-08 18:27:20
+Daily News Summary - 2025-05-09 09:20:46
 ==================================================
 
-1. Anthropic launches Claude web search API, betting on the future of post-Google information access
-Link: https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access/
+1. Alibaba’s ‘ZeroSearch’ lets AI learn to google itself — slashing training costs by 88 percent
+Link: https://venturebeat.com/ai/alibabas-zerosearch-lets-ai-learn-to-google-itself-slashing-training-costs-by-88-percent/
 
-2. OpenAI names Instacart leader Fidji Simo as new CEO of Applications
-Link: https://venturebeat.com/ai/openai-names-instacart-leader-fidji-simo-as-new-ceo-of-applications/
+2. The walled garden cracks: Nadella bets Microsoft’s Copilots—and Azure’s next act—on A2A/MCP interoperability
+Link: https://venturebeat.com/ai/the-walled-garden-cracks-nadella-bets-microsofts-copilots-and-azures-next-act-on-a2a-mcp-interoperability/
 
-3. AWS report: Generative AI overtakes security in global tech budgets for 2025
-Link: https://venturebeat.com/ai/aws-report-generative-ai-overtakes-security-in-global-tech-budgets-for-2025/
+3. 5 strategies that separate AI leaders from the 92% still stuck in pilot mode
+Link: https://venturebeat.com/ai/5-strategies-that-separate-ai-leaders-from-the-92-still-stuck-in-pilot-mode/
 
-4. The future of managed hosting: Smarter, Faster, AI-powered
-Link: https://venturebeat.com/automation/the-future-of-managed-hosting-smarter-faster-ai-powered/
+4. OpenAI, Microsoft tell Senate ‘no one country can win AI’
+Link: https://venturebeat.com/ai/openai-microsoft-tell-senate-no-one-country-can-win-ai/
 
-5. Yamaha Music Innovations Fund to Begin Investing in Startup Companies in Silicon Valley
-Link: https://venturebeat.com/business/yamaha-music-innovations-fund-to-begin-investing-in-startup-companies-in-silicon-valley/
+5. You can now fine-tune your enterprise’s own version of OpenAI’s o4-mini reasoning model with reinforcement learning
+Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-enterprises-own-version-of-openais-o4-mini-reasoning-model-with-reinforcement-learning/
 
