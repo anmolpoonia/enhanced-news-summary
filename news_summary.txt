@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-09 18:26:56
+Daily News Summary - 2025-05-10 09:19:00
 ==================================================
 
 1. How The Ottawa Hospital uses AI ambient voice capture to reduce physician burnout by 70%, achieve 97% patient satisfaction
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/zencoder-launches-zen-agents-ushering-in-a-new-
 3. OpenAI, Microsoft tell Senate 'no one country can win AI'
 Link: https://venturebeat.com/ai/openai-microsoft-tell-senate-no-one-country-can-win-ai/
 
-4. OpenAI’s $3B Windsurf move: the real reason behind its enterprise AI code push
-Link: https://venturebeat.com/ai/openais-3b-windsurf-move-the-real-reason-behind-its-enterprise-ai-agent-code-push/
+4. Fine-tuning vs. in-context learning: New research guides better LLM customization for real-world tasks
+Link: https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks/
 
-5. You can now fine-tune your enterprise’s own version of OpenAI’s o4-mini reasoning model with reinforcement learning
-Link: https://venturebeat.com/ai/you-can-now-fine-tune-your-enterprises-own-version-of-openais-o4-mini-reasoning-model-with-reinforcement-learning/
+5. What your tools miss at 2:13 AM: How gen AI attack chains exploit telemetry lag – Part 1
+Link: https://venturebeat.com/security/what-your-tools-miss-at-213-am-how-gen-ai-attack-chains-exploit-telemetry-lag-part-1/
 
