@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-10 18:23:48
+Daily News Summary - 2025-05-11 09:19:06
 ==================================================
 
 1. How The Ottawa Hospital uses AI ambient voice capture to reduce physician burnout by 70%, achieve 97% patient satisfaction
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/zencoder-launches-zen-agents-ushering-in-a-new-
 3. OpenAI, Microsoft tell Senate 'no one country can win AI'
 Link: https://venturebeat.com/ai/openai-microsoft-tell-senate-no-one-country-can-win-ai/
 
-4. Fine-tuning vs. in-context learning: New research guides better LLM customization for real-world tasks
-Link: https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks/
+4. MCP and the innovation paradox: Why open standards will save AI from itself
+Link: https://venturebeat.com/ai/mcp-and-the-innovation-paradox-why-open-standards-will-save-ai-from-itself/
 
-5. What your tools miss at 2:13 AM: How gen AI attack chains exploit telemetry lag – Part 1
-Link: https://venturebeat.com/security/what-your-tools-miss-at-213-am-how-gen-ai-attack-chains-exploit-telemetry-lag-part-1/
+5. Fine-tuning vs. in-context learning: New research guides better LLM customization for real-world tasks
+Link: https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks/
 
