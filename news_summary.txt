@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-12 09:22:21
+Daily News Summary - 2025-05-12 18:27:17
 ==================================================
 
-1. How The Ottawa Hospital uses AI ambient voice capture to reduce physician burnout by 70%, achieve 97% patient satisfaction
-Link: https://venturebeat.com/ai/how-the-ottawa-hospital-uses-ai-ambient-voice-capture-to-reduce-physician-burnout-by-70-achieve-97-patient-satisfaction/
+1. MCP and the innovation paradox: Why open standards will save AI from itself
+Link: https://venturebeat.com/ai/mcp-and-the-innovation-paradox-why-open-standards-will-save-ai-from-itself/
 
-2. Zencoder launches Zen Agents, ushering in a new era of team-based AI for software development
-Link: https://venturebeat.com/ai/zencoder-launches-zen-agents-ushering-in-a-new-era-of-team-based-ai-for-software-development/
-
-3. OpenAI, Microsoft tell Senate 'no one country can win AI'
-Link: https://venturebeat.com/ai/openai-microsoft-tell-senate-no-one-country-can-win-ai/
-
-4. From silicon to sentience: The legacy guiding AI’s next frontier and human cognitive migration
+2. From silicon to sentience: The legacy guiding AI's next frontier and human cognitive migration
 Link: https://venturebeat.com/ai/from-silicon-to-sentience-the-legacy-guiding-ais-next-frontier-and-human-cognitive-migration/
 
-5. MCP and the innovation paradox: Why open standards will save AI from itself
-Link: https://venturebeat.com/ai/mcp-and-the-innovation-paradox-why-open-standards-will-save-ai-from-itself/
+3. What your tools miss at 2:13 AM: How gen AI attack chains exploit telemetry lag - Part 1
+Link: https://venturebeat.com/security/what-your-tools-miss-at-213-am-how-gen-ai-attack-chains-exploit-telemetry-lag-part-1/
+
+4. New fully open source vision encoder OpenVision arrives to improve on OpenAI’s Clip, Google’s SigLIP
+Link: https://venturebeat.com/ai/new-fully-open-source-vision-encoder-openvision-arrives-to-improve-on-openais-clip-googles-siglip/
+
+5. Siemens Introduces AI Agents for Industrial Automation
+Link: https://venturebeat.com/business/siemens-introduces-ai-agents-for-industrial-automation/
 
