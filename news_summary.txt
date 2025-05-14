@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-14 09:21:16
+Daily News Summary - 2025-05-14 18:25:34
 ==================================================
 
-1. The interoperability breakthrough: How MCP is becoming enterprise AI's universal language
-Link: https://venturebeat.com/ai/the-interoperability-breakthrough-how-mcp-is-becoming-enterprise-ais-universal-language/
+1. Meet AlphaEvolve, the Google AI that writes its own code—and just saved millions in computing costs
+Link: https://venturebeat.com/ai/meet-alphaevolve-the-google-ai-that-writes-its-own-code-and-just-saved-millions-in-computing-costs/
 
-2. Guardian agents: New approach could reduce AI hallucinations to below 1%
-Link: https://venturebeat.com/ai/beyond-detection-why-automatically-correcting-hallucinations-could-transform-enterprise-ai-adoption/
+2. Patronus AI debuts Percival to help enterprises monitor failing AI agents at scale
+Link: https://venturebeat.com/ai/patronus-ai-debuts-percival-to-help-enterprises-monitor-failing-ai-agents-at-scale/
 
-3. SimilarWeb's new AI usage report reveals 5 surprising findings, including explosive growth in coding tools
-Link: https://venturebeat.com/ai/similarwebs-new-ai-usage-report-reveals-5-surprising-findings-including-explosive-growth-in-coding-tools/
+3. AI power rankings upended: OpenAI, Google rise as Anthropic falls, Poe report finds
+Link: https://venturebeat.com/ai/ai-power-rankings-upended-openai-google-rise-as-anthropic-falls-poe-report-finds/
 
-4. Notion bets big on integrated LLMs, adds GPT-4.1 and Claude 3.7 to platform
-Link: https://venturebeat.com/ai/notion-bets-big-on-integrated-llms-adds-gpt-4-1-and-claude-3-7-to-platform/
+4. BioCentury to Host Grand Rounds in Chicago: Where Translational Science Meets Investors and Dealmakers
+Link: https://venturebeat.com/business/biocentury-to-host-grand-rounds-in-chicago-where-translational-science-meets-investors-and-dealmakers/
 
-5. What your tools miss at 2:13 AM: How gen AI attack chains exploit telemetry lag – Part 2
-Link: https://venturebeat.com/ai/what-your-tools-miss-at-213-am-how-gen-ai-attack-chains-exploit-telemetry-lag-part-2/
+5. Granola Launches AI Workspace for Teams and Raises $43M Series B
+Link: https://venturebeat.com/business/granola-launches-ai-workspace-for-teams-and-raises-43m-series-b/
 
