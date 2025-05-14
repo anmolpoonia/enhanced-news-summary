@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-13 18:28:02
+Daily News Summary - 2025-05-14 09:21:16
 ==================================================
 
 1. The interoperability breakthrough: How MCP is becoming enterprise AI's universal language
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/beyond-detection-why-automatically-correcting-h
 3. SimilarWeb's new AI usage report reveals 5 surprising findings, including explosive growth in coding tools
 Link: https://venturebeat.com/ai/similarwebs-new-ai-usage-report-reveals-5-surprising-findings-including-explosive-growth-in-coding-tools/
 
-4. Greentech Wins 2025 Innovation in Air & Gas Filtration Award at FiltXPO™
-Link: https://venturebeat.com/business/greentech-wins-2025-innovation-in-air-gas-filtration-award-at-filtxpo/
+4. Notion bets big on integrated LLMs, adds GPT-4.1 and Claude 3.7 to platform
+Link: https://venturebeat.com/ai/notion-bets-big-on-integrated-llms-adds-gpt-4-1-and-claude-3-7-to-platform/
 
-5. Sakana introduces new AI architecture, ‘Continuous Thought Machines’ to make models reason with less guidance — like human brains
-Link: https://venturebeat.com/ai/sakana-introduces-new-ai-architecture-continuous-thought-machines-to-make-models-reason-with-less-guidance-like-human-brains/
+5. What your tools miss at 2:13 AM: How gen AI attack chains exploit telemetry lag – Part 2
+Link: https://venturebeat.com/ai/what-your-tools-miss-at-213-am-how-gen-ai-attack-chains-exploit-telemetry-lag-part-2/
 
