@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-14 18:25:34
+Daily News Summary - 2025-05-15 09:21:24
 ==================================================
 
 1. Meet AlphaEvolve, the Google AI that writes its own code—and just saved millions in computing costs
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/patronus-ai-debuts-percival-to-help-enterprises
 3. AI power rankings upended: OpenAI, Google rise as Anthropic falls, Poe report finds
 Link: https://venturebeat.com/ai/ai-power-rankings-upended-openai-google-rise-as-anthropic-falls-poe-report-finds/
 
-4. BioCentury to Host Grand Rounds in Chicago: Where Translational Science Meets Investors and Dealmakers
-Link: https://venturebeat.com/business/biocentury-to-host-grand-rounds-in-chicago-where-translational-science-meets-investors-and-dealmakers/
+4. OpenAI brings GPT-4.1 and 4.1 mini to ChatGPT — what enterprises should know
+Link: https://venturebeat.com/ai/openai-brings-gpt-4-1-and-4-1-mini-to-chatgpt-what-enterprises-should-know/
 
-5. Granola Launches AI Workspace for Teams and Raises $43M Series B
-Link: https://venturebeat.com/business/granola-launches-ai-workspace-for-teams-and-raises-43m-series-b/
+5. Beyond sycophancy: DarkBench exposes six hidden ‘dark patterns’ lurking in today’s top LLMs
+Link: https://venturebeat.com/ai/darkness-rising-the-hidden-dangers-of-ai-sycophancy-and-dark-patterns/
 
