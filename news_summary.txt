@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-15 09:21:24
+Daily News Summary - 2025-05-15 18:27:17
 ==================================================
 
-1. Meet AlphaEvolve, the Google AI that writes its own code—and just saved millions in computing costs
-Link: https://venturebeat.com/ai/meet-alphaevolve-the-google-ai-that-writes-its-own-code-and-just-saved-millions-in-computing-costs/
+1. You.com’s ARI Enterprise crushes OpenAI in head-to-head tests, aims at deep research market
+Link: https://venturebeat.com/ai/you-coms-ari-enterprise-crushes-openai-in-head-to-head-tests-aims-at-deep-research-market/
 
-2. Patronus AI debuts Percival to help enterprises monitor failing AI agents at scale
-Link: https://venturebeat.com/ai/patronus-ai-debuts-percival-to-help-enterprises-monitor-failing-ai-agents-at-scale/
-
-3. AI power rankings upended: OpenAI, Google rise as Anthropic falls, Poe report finds
-Link: https://venturebeat.com/ai/ai-power-rankings-upended-openai-google-rise-as-anthropic-falls-poe-report-finds/
-
-4. OpenAI brings GPT-4.1 and 4.1 mini to ChatGPT — what enterprises should know
+2. OpenAI brings GPT-4.1 and 4.1 mini to ChatGPT — what enterprises should know
 Link: https://venturebeat.com/ai/openai-brings-gpt-4-1-and-4-1-mini-to-chatgpt-what-enterprises-should-know/
 
-5. Beyond sycophancy: DarkBench exposes six hidden ‘dark patterns’ lurking in today’s top LLMs
-Link: https://venturebeat.com/ai/darkness-rising-the-hidden-dangers-of-ai-sycophancy-and-dark-patterns/
+3. Meet AlphaEvolve, the Google AI that writes its own code—and just saved millions in computing costs
+Link: https://venturebeat.com/ai/meet-alphaevolve-the-google-ai-that-writes-its-own-code-and-just-saved-millions-in-computing-costs/
+
+4. Arm is rebranding its system-on-a-chip product designs to showcase power savings for AI workloads, targeting a surprising sector
+Link: https://venturebeat.com/ai/arm-is-rebranding-its-system-on-a-chip-product-designs-to-showcase-power-savings-for-ai-workloads-targeting-a-surprising-sector/
+
+5. Redica Systems Closes Financing to Advance Predictive Quality and Regulatory Intelligence in Life Sciences
+Link: https://venturebeat.com/business/redica-systems-closes-financing-to-advance-predictive-quality-and-regulatory-intelligence-in-life-sciences/
 
