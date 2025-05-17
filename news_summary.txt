@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-16 18:26:47
+Daily News Summary - 2025-05-17 09:19:06
 ==================================================
 
 1. OpenAI launches research preview of Codex AI software engineering agent for developers — with parallel tasking
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/software-engineering-native-ai-models-have-arri
 3. Elon Musk's xAI tries to explain Grok's South African race relations freakout the other day
 Link: https://venturebeat.com/ai/elon-musks-xai-tries-to-explain-groks-south-african-race-relations-freakout-the-other-day/
 
-4. CIBC Innovation Banking Serves as Lead Arranger of a Syndicated Debt Facility for Rentsync
-Link: https://venturebeat.com/business/cibc-innovation-banking-serves-as-lead-arranger-of-a-syndicated-debt-facility-for-rentsync/
+4. Google’s AlphaEvolve: The AI agent that reclaimed 0.7% of Google’s compute – and how to copy it
+Link: https://venturebeat.com/ai/googles-alphaevolve-the-ai-agent-that-reclaimed-0-7-of-googles-compute-and-how-to-copy-it/
 
-5. Reduce model integration costs while scaling AI: LangChain’s open ecosystem delivers where closed vendors can’t
-Link: https://venturebeat.com/ai/reduce-model-integration-costs-while-scaling-ai-langchains-open-ecosystem-delivers-where-closed-vendors-cant/
+5. Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense
+Link: https://venturebeat.com/security/slash-mttp-block-exploits-ring-deployment-now-essential/
 
