@@ -3,4 +3,4 @@ new: 197 mentions
 model: 116 mentions
 just: 100 mentions
 data: 96 mentions
-openai: 90 mentions
+openai: 91 mentions
