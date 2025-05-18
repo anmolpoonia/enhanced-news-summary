@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-17 18:24:47
+Daily News Summary - 2025-05-18 09:18:59
 ==================================================
 
-1. OpenAI launches research preview of Codex AI software engineering agent for developers — with parallel tasking
-Link: https://venturebeat.com/programming-development/openai-launches-research-preview-of-codex-ai-software-engineering-agent-for-developers-with-parallel-tasking/
+1. Adopting agentic AI? Build AI fluency, redesign workflows, don't neglect supervision
+Link: https://venturebeat.com/ai/adopting-agentic-ai-build-ai-fluency-redesign-workflows-dont-neglect-supervision/
 
-2. Software engineering-native AI models have arrived: What Windsurf's SWE-1 means for technical decision-makers
-Link: https://venturebeat.com/ai/software-engineering-native-ai-models-have-arrived-what-windsurfs-swe-1-means-for-technical-decision-makers/
+2. Google’s AlphaEvolve: The AI agent that reclaimed 0.7% of Google’s compute – and how to copy it
+Link: https://venturebeat.com/ai/googles-alphaevolve-the-ai-agent-that-reclaimed-0-7-of-googles-compute-and-how-to-copy-it/
 
 3. Elon Musk's xAI tries to explain Grok's South African race relations freakout the other day
 Link: https://venturebeat.com/ai/elon-musks-xai-tries-to-explain-groks-south-african-race-relations-freakout-the-other-day/
 
-4. Google’s AlphaEvolve: The AI agent that reclaimed 0.7% of Google’s compute – and how to copy it
-Link: https://venturebeat.com/ai/googles-alphaevolve-the-ai-agent-that-reclaimed-0-7-of-googles-compute-and-how-to-copy-it/
-
-5. Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense
+4. Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense
 Link: https://venturebeat.com/security/slash-mttp-block-exploits-ring-deployment-now-essential/
+
+5. OpenAI launches research preview of Codex AI software engineering agent for developers — with parallel tasking
+Link: https://venturebeat.com/programming-development/openai-launches-research-preview-of-codex-ai-software-engineering-agent-for-developers-with-parallel-tasking/
 
