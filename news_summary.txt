@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-19 09:22:16
+Daily News Summary - 2025-05-19 18:28:40
 ==================================================
 
-1. From dot-com to dot-AI: How we can learn from the last tech transformation (and avoid making the same mistakes)
-Link: https://venturebeat.com/ai/from-dot-com-to-dot-ai-how-we-can-learn-from-the-last-tech-transformation-and-avoid-making-the-same-mistakes/
+1. Microsoft announces over 50 AI tools to build the ‘agentic web’ at Build 2025
+Link: https://venturebeat.com/ai/microsoft-announces-over-50-ai-tools-to-build-the-agentic-web-at-build-2025/
 
-2. Adopting agentic AI? Build AI fluency, redesign workflows, don't neglect supervision
-Link: https://venturebeat.com/ai/adopting-agentic-ai-build-ai-fluency-redesign-workflows-dont-neglect-supervision/
+2. GitHub Copilot evolves into autonomous agent with asynchronous code testing
+Link: https://venturebeat.com/ai/github-copilot-evolves-into-autonomous-agent-with-asynchronous-code-testing/
 
-3. Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense
-Link: https://venturebeat.com/security/slash-mttp-block-exploits-ring-deployment-now-essential/
+3. Why Microsoft Fabric has already been adopted by 70% of the Fortune 500 — and what’s next
+Link: https://venturebeat.com/ai/70-of-the-fortune-500-already-use-microsoft-fabric-and-its-now-getting-even-more-features-including-cosmosdb-support/
 
-4. Google’s AlphaEvolve: The AI agent that reclaimed 0.7% of Google’s compute – and how to copy it
-Link: https://venturebeat.com/ai/googles-alphaevolve-the-ai-agent-that-reclaimed-0-7-of-googles-compute-and-how-to-copy-it/
+4. Is your AI app pissing off users or going off-script? Raindrop emerges with AI-native observability platform to monitor performance
+Link: https://venturebeat.com/ai/is-your-ai-app-pissing-off-users-or-going-off-script-raindrop-emerges-with-ai-native-observability-platform-to-monitor-performance/
 
-5. OpenAI launches research preview of Codex AI software engineering agent for developers — with parallel tasking
-Link: https://venturebeat.com/programming-development/openai-launches-research-preview-of-codex-ai-software-engineering-agent-for-developers-with-parallel-tasking/
+5. Microsoft just taught its AI agents to talk to each other—and it could transform how we work
+Link: https://venturebeat.com/ai/microsoft-just-taught-its-ai-agents-to-talk-to-each-other-and-it-could-transform-how-we-work/
 
