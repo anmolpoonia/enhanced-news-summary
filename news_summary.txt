@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-20 09:21:44
+Daily News Summary - 2025-05-20 18:28:23
 ==================================================
 
 1. Microsoft announces over 50 AI tools to build the ‘agentic web’ at Build 2025
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/github-copilot-evolves-into-autonomous-agent-wi
 3. Why Microsoft Fabric has already been adopted by 70% of the Fortune 500 — and what’s next
 Link: https://venturebeat.com/ai/70-of-the-fortune-500-already-use-microsoft-fabric-and-its-now-getting-even-more-features-including-cosmosdb-support/
 
-4. Is your AI app pissing off users or going off-script? Raindrop emerges with AI-native observability platform to monitor performance
-Link: https://venturebeat.com/ai/is-your-ai-app-pissing-off-users-or-going-off-script-raindrop-emerges-with-ai-native-observability-platform-to-monitor-performance/
+4. Google just leapfrogged every competitor with mind-blowing AI that can think deeper, shop smarter, and create videos with dialogue
+Link: https://venturebeat.com/ai/google-just-leapfrogged-every-competitor-with-mind-blowing-ai-that-can-think-deeper-shop-smarter-and-create-videos-with-dialogue/
 
-5. Microsoft just taught its AI agents to talk to each other—and it could transform how we work
-Link: https://venturebeat.com/ai/microsoft-just-taught-its-ai-agents-to-talk-to-each-other-and-it-could-transform-how-we-work/
+5. Google’s Jules aims to out-code Codex in battle for the AI developer stack
+Link: https://venturebeat.com/ai/googles-jules-aims-to-out-code-codex-in-battle-for-the-ai-developer-stack/
 
