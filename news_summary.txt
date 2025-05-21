@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-21 09:22:14
+Daily News Summary - 2025-05-21 18:28:44
 ==================================================
 
-1. Google just leapfrogged every competitor with mind-blowing AI that can think deeper, shop smarter, and create videos with dialogue
-Link: https://venturebeat.com/ai/google-just-leapfrogged-every-competitor-with-mind-blowing-ai-that-can-think-deeper-shop-smarter-and-create-videos-with-dialogue/
+1. Mistral AI launches Devstral, powerful new open source SWE agent model that runs on laptops
+Link: https://venturebeat.com/ai/mistral-ai-launches-devstral-powerful-new-open-source-swe-agent-model-that-runs-on-laptops/
 
-2. Inside Google’s AI leap: Gemini 2.5 thinks deeper, speaks smarter and codes faster
+2. OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features
+Link: https://venturebeat.com/programming-development/openai-updates-its-new-responses-api-rapidly-with-mcp-support-gpt-4o-native-image-gen-and-more-enterprise-features/
+
+3. Inside Google’s AI leap: Gemini 2.5 thinks deeper, speaks smarter and codes faster
 Link: https://venturebeat.com/ai/inside-google-ai-leap-gemini-2-5-thinks-deeper-speaks-smarter-codes-faster/
 
-3. Google’s Jules aims to out-code Codex in battle for the AI developer stack
-Link: https://venturebeat.com/ai/googles-jules-aims-to-out-code-codex-in-battle-for-the-ai-developer-stack/
+4. The case for a new operating system purpose-built for AI
+Link: https://venturebeat.com/ai/the-case-for-a-new-operating-system-purpose-built-for-ai/
 
-4. Google finally launches NotebookLM mobile app at I/O: hands-on, first impressions
+5. Google finally launches NotebookLM mobile app at I/O: hands-on, first impressions
 Link: https://venturebeat.com/ai/google-finally-launches-notebooklm-mobile-app-at-i-o-hands-on-first-impressions/
-
-5. Meibel Raises $7 Million to Power the Runtime Platform for Confident AI
-Link: https://venturebeat.com/business/meibel-raises-7-million-to-power-the-runtime-platform-for-confident-ai/
 
