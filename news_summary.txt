@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-20 18:28:23
+Daily News Summary - 2025-05-21 09:22:14
 ==================================================
 
-1. Microsoft announces over 50 AI tools to build the ‘agentic web’ at Build 2025
-Link: https://venturebeat.com/ai/microsoft-announces-over-50-ai-tools-to-build-the-agentic-web-at-build-2025/
-
-2. GitHub Copilot evolves into autonomous agent with asynchronous code testing
-Link: https://venturebeat.com/ai/github-copilot-evolves-into-autonomous-agent-with-asynchronous-code-testing/
-
-3. Why Microsoft Fabric has already been adopted by 70% of the Fortune 500 — and what’s next
-Link: https://venturebeat.com/ai/70-of-the-fortune-500-already-use-microsoft-fabric-and-its-now-getting-even-more-features-including-cosmosdb-support/
-
-4. Google just leapfrogged every competitor with mind-blowing AI that can think deeper, shop smarter, and create videos with dialogue
+1. Google just leapfrogged every competitor with mind-blowing AI that can think deeper, shop smarter, and create videos with dialogue
 Link: https://venturebeat.com/ai/google-just-leapfrogged-every-competitor-with-mind-blowing-ai-that-can-think-deeper-shop-smarter-and-create-videos-with-dialogue/
 
-5. Google’s Jules aims to out-code Codex in battle for the AI developer stack
+2. Inside Google’s AI leap: Gemini 2.5 thinks deeper, speaks smarter and codes faster
+Link: https://venturebeat.com/ai/inside-google-ai-leap-gemini-2-5-thinks-deeper-speaks-smarter-codes-faster/
+
+3. Google’s Jules aims to out-code Codex in battle for the AI developer stack
 Link: https://venturebeat.com/ai/googles-jules-aims-to-out-code-codex-in-battle-for-the-ai-developer-stack/
+
+4. Google finally launches NotebookLM mobile app at I/O: hands-on, first impressions
+Link: https://venturebeat.com/ai/google-finally-launches-notebooklm-mobile-app-at-i-o-hands-on-first-impressions/
+
+5. Meibel Raises $7 Million to Power the Runtime Platform for Confident AI
+Link: https://venturebeat.com/business/meibel-raises-7-million-to-power-the-runtime-platform-for-confident-ai/
 
