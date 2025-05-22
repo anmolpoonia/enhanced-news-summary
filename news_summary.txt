@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-22 09:21:20
+Daily News Summary - 2025-05-22 18:27:34
 ==================================================
 
-1. At Google I/O, Sergey Brin makes surprise appearance — and declares Google will build the first AGI
+1. Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI
+Link: https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/
+
+2. At Google I/O, Sergey Brin makes surprise appearance — and declares Google will build the first AGI
 Link: https://venturebeat.com/ai/at-google-i-o-sergey-brin-makes-surprise-appearance-and-declares-google-will-build-the-first-agi/
 
-2. OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features
+3. OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features
 Link: https://venturebeat.com/programming-development/openai-updates-its-new-responses-api-rapidly-with-mcp-support-gpt-4o-native-image-gen-and-more-enterprise-features/
 
-3. Mistral AI launches Devstral, powerful new open source SWE agent model that runs on laptops
-Link: https://venturebeat.com/ai/mistral-ai-launches-devstral-powerful-new-open-source-swe-agent-model-that-runs-on-laptops/
+4. Time Magazine appears to accidentally publish embargoed story confirming new Anthropic model
+Link: https://venturebeat.com/ai/time-magazine-appears-to-accidentally-publish-embargoed-story-confirming-anthropic-claude-4-opus/
 
-4. The case for a new operating system purpose-built for AI
-Link: https://venturebeat.com/ai/the-case-for-a-new-operating-system-purpose-built-for-ai/
-
-5. Google finally launches NotebookLM mobile app at I/O: hands-on, first impressions
-Link: https://venturebeat.com/ai/google-finally-launches-notebooklm-mobile-app-at-i-o-hands-on-first-impressions/
+5. 800.com Adds GA4 Integration to Connect Call Tracking with Website Conversions
+Link: https://venturebeat.com/business/800-com-adds-ga4-integration-to-connect-call-tracking-with-website-conversions/
 
