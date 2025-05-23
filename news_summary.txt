@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-23 09:21:11
+Daily News Summary - 2025-05-23 18:25:57
 ==================================================
 
-1. Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI
-Link: https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/
-
-2. At Google I/O, Sergey Brin makes surprise appearance — and declares Google will build the first AGI
-Link: https://venturebeat.com/ai/at-google-i-o-sergey-brin-makes-surprise-appearance-and-declares-google-will-build-the-first-agi/
-
-3. OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features
-Link: https://venturebeat.com/programming-development/openai-updates-its-new-responses-api-rapidly-with-mcp-support-gpt-4o-native-image-gen-and-more-enterprise-features/
-
-4. After GPT-4o backlash, researchers benchmark models on moral endorsement—Find sycophancy persists across the board
+1. After GPT-4o backlash, researchers benchmark models on moral endorsement—Find sycophancy persists across the board
 Link: https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/
 
-5. Anthropic faces backlash to Claude 4 Opus behavior that contacts authorities, press if it thinks you’re doing something ‘egregiously immoral’
+2. Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI
+Link: https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/
+
+3. Anthropic faces backlash to Claude 4 Opus behavior that contacts authorities, press if it thinks you're doing something 'egregiously immoral'
 Link: https://venturebeat.com/ai/anthropic-faces-backlash-to-claude-4-opus-behavior-that-contacts-authorities-press-if-it-thinks-youre-doing-something-immoral/
+
+4. Why enterprise RAG systems fail: Google study introduces ‘sufficient context’ solution
+Link: https://venturebeat.com/ai/why-enterprise-rag-systems-fail-google-study-introduces-sufficient-context-solution/
+
+5. Time Magazine appears to accidentally publish embargoed story confirming new Anthropic model
+Link: https://venturebeat.com/ai/time-magazine-appears-to-accidentally-publish-embargoed-story-confirming-anthropic-claude-4-opus/
 
