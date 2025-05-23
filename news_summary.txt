@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-22 18:27:34
+Daily News Summary - 2025-05-23 09:21:11
 ==================================================
 
 1. Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/at-google-i-o-sergey-brin-makes-surprise-appear
 3. OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features
 Link: https://venturebeat.com/programming-development/openai-updates-its-new-responses-api-rapidly-with-mcp-support-gpt-4o-native-image-gen-and-more-enterprise-features/
 
-4. Time Magazine appears to accidentally publish embargoed story confirming new Anthropic model
-Link: https://venturebeat.com/ai/time-magazine-appears-to-accidentally-publish-embargoed-story-confirming-anthropic-claude-4-opus/
+4. After GPT-4o backlash, researchers benchmark models on moral endorsement—Find sycophancy persists across the board
+Link: https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/
 
-5. 800.com Adds GA4 Integration to Connect Call Tracking with Website Conversions
-Link: https://venturebeat.com/business/800-com-adds-ga4-integration-to-connect-call-tracking-with-website-conversions/
+5. Anthropic faces backlash to Claude 4 Opus behavior that contacts authorities, press if it thinks you’re doing something ‘egregiously immoral’
+Link: https://venturebeat.com/ai/anthropic-faces-backlash-to-claude-4-opus-behavior-that-contacts-authorities-press-if-it-thinks-youre-doing-something-immoral/
 
