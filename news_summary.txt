@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-23 18:25:57
+Daily News Summary - 2025-05-24 09:18:49
 ==================================================
 
-1. After GPT-4o backlash, researchers benchmark models on moral endorsement—Find sycophancy persists across the board
-Link: https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/
+1. Why enterprise RAG systems fail: Google study introduces 'sufficient context' solution
+Link: https://venturebeat.com/ai/why-enterprise-rag-systems-fail-google-study-introduces-sufficient-context-solution/
 
-2. Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI
-Link: https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/
+2. The 3 biggest bombshells from this week’s AI extravaganza
+Link: https://venturebeat.com/ai/the-3-biggest-bombshells-from-this-weeks-ai-extravaganza/
 
 3. Anthropic faces backlash to Claude 4 Opus behavior that contacts authorities, press if it thinks you're doing something 'egregiously immoral'
 Link: https://venturebeat.com/ai/anthropic-faces-backlash-to-claude-4-opus-behavior-that-contacts-authorities-press-if-it-thinks-youre-doing-something-immoral/
 
-4. Why enterprise RAG systems fail: Google study introduces ‘sufficient context’ solution
-Link: https://venturebeat.com/ai/why-enterprise-rag-systems-fail-google-study-introduces-sufficient-context-solution/
+4. OpenAI updates Operator to o3, making its $200 monthly ChatGPT Pro subscription more enticing
+Link: https://venturebeat.com/ai/openai-updates-operator-to-o3-making-its-200-monthly-chatgpt-subscription-more-enticing/
 
-5. Time Magazine appears to accidentally publish embargoed story confirming new Anthropic model
-Link: https://venturebeat.com/ai/time-magazine-appears-to-accidentally-publish-embargoed-story-confirming-anthropic-claude-4-opus/
+5. The battle to AI-enable the web: NLweb and what enterprises need to know
+Link: https://venturebeat.com/ai/the-battle-to-ai-enable-the-web-nlweb-and-what-enterprises-need-to-know/
 
