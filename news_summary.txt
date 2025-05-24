@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-24 09:18:49
+Daily News Summary - 2025-05-24 18:24:24
 ==================================================
 
 1. Why enterprise RAG systems fail: Google study introduces 'sufficient context' solution
