@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-25 09:18:41
+Daily News Summary - 2025-05-25 18:24:32
 ==================================================
 
 1. Beyond single-model AI: How architectural design drives reliable multi-agent orchestration
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/openai-updates-operator-to-o3-making-its-200-mo
 3. The 3 biggest bombshells from this week’s AI extravaganza
 Link: https://venturebeat.com/ai/the-3-biggest-bombshells-from-this-weeks-ai-extravaganza/
 
-4. The battle to AI-enable the web: NLweb and what enterprises need to know
-Link: https://venturebeat.com/ai/the-battle-to-ai-enable-the-web-nlweb-and-what-enterprises-need-to-know/
+4. Google’s ‘world-model’ bet: building the AI operating layer before Microsoft captures the UI
+Link: https://venturebeat.com/ai/googles-world-model-bet-building-the-ai-operating-layer-before-microsoft-captures-the-ui/
 
-5. Why enterprise RAG systems fail: Google study introduces ‘sufficient context’ solution
-Link: https://venturebeat.com/ai/why-enterprise-rag-systems-fail-google-study-introduces-sufficient-context-solution/
+5. The battle to AI-enable the web: NLweb and what enterprises need to know
+Link: https://venturebeat.com/ai/the-battle-to-ai-enable-the-web-nlweb-and-what-enterprises-need-to-know/
 
