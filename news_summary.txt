@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-27 09:21:09
+Daily News Summary - 2025-05-27 18:26:36
 ==================================================
 
 1. From disruption to reinvention: How knowledge workers can thrive after AI
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/beyond-single-model-ai-how-architectural-design
 3. Google’s 'world-model' bet: building the AI operating layer before Microsoft captures the UI
 Link: https://venturebeat.com/ai/googles-world-model-bet-building-the-ai-operating-layer-before-microsoft-captures-the-ui/
 
-4. OpenAI updates Operator to o3, making its $200 monthly ChatGPT Pro subscription more enticing
-Link: https://venturebeat.com/ai/openai-updates-operator-to-o3-making-its-200-monthly-chatgpt-subscription-more-enticing/
+4. What Salesforce’s $8B acquisition of Informatica means for enterprise data and AI
+Link: https://venturebeat.com/data-infrastructure/what-salesforces-8b-acquisition-of-informatica-means-for-enterprise-data-and-ai/
 
-5. The battle to AI-enable the web: NLweb and what enterprises need to know
-Link: https://venturebeat.com/ai/the-battle-to-ai-enable-the-web-nlweb-and-what-enterprises-need-to-know/
+5. Cello and Lightspeed Announce the Winners of the GTM10 Awards – Honoring the World’s Best GTM Leader in Software
+Link: https://venturebeat.com/business/cello-and-lightspeed-announce-the-winners-of-the-gtm10-awards-honoring-the-worlds-best-gtm-leader-in-software/
 
