@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-27 18:26:36
+Daily News Summary - 2025-05-28 09:21:32
 ==================================================
 
-1. From disruption to reinvention: How knowledge workers can thrive after AI
-Link: https://venturebeat.com/ai/from-disruption-to-reinvention-how-knowledge-workers-can-thrive-after-ai/
+1. Everyone's looking to get in on vibe coding — and Google is no different with Stitch, its follow-up to Jules
+Link: https://venturebeat.com/ai/everyones-looking-to-get-in-on-vibe-coding-and-google-is-no-different-with-stitch-its-follow-up-to-jules/
 
-2. Beyond single-model AI: How architectural design drives reliable multi-agent orchestration
-Link: https://venturebeat.com/ai/beyond-single-model-ai-how-architectural-design-drives-reliable-multi-agent-orchestration/
+2. Anthropic debuts Claude conversational voice mode on mobile that searches your Google Docs, Drive, Calendar
+Link: https://venturebeat.com/ai/anthropic-debuts-conversational-voice-mode-for-claude-mobile-apps/
 
-3. Google’s 'world-model' bet: building the AI operating layer before Microsoft captures the UI
-Link: https://venturebeat.com/ai/googles-world-model-bet-building-the-ai-operating-layer-before-microsoft-captures-the-ui/
+3. Security leaders lose visibility as consultants deploy shadow AI copilots to stay employed
+Link: https://venturebeat.com/security/shadow-ai-is-consultings-survival-strategy-in-the-genai-era/
 
-4. What Salesforce’s $8B acquisition of Informatica means for enterprise data and AI
-Link: https://venturebeat.com/data-infrastructure/what-salesforces-8b-acquisition-of-informatica-means-for-enterprise-data-and-ai/
+4. Spott’s AI-native recruiting platform scores $3.2M to end hiring software chaos
+Link: https://venturebeat.com/ai/spotts-ai-native-recruiting-platform-scores-3-2m-to-end-hiring-software-chaos/
 
-5. Cello and Lightspeed Announce the Winners of the GTM10 Awards – Honoring the World’s Best GTM Leader in Software
-Link: https://venturebeat.com/business/cello-and-lightspeed-announce-the-winners-of-the-gtm10-awards-honoring-the-worlds-best-gtm-leader-in-software/
+5. Mistral launches API for building AI agents that run Python, generate images, perform RAG and more
+Link: https://venturebeat.com/ai/mistral-launches-api-for-building-ai-agents-that-run-python-generate-images-perform-rag-and-more/
 
