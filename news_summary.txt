@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-28 09:21:32
+Daily News Summary - 2025-05-28 18:26:32
 ==================================================
 
 1. Everyone's looking to get in on vibe coding — and Google is no different with Stitch, its follow-up to Jules
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/anthropic-debuts-conversational-voice-mode-for-
 3. Security leaders lose visibility as consultants deploy shadow AI copilots to stay employed
 Link: https://venturebeat.com/security/shadow-ai-is-consultings-survival-strategy-in-the-genai-era/
 
-4. Spott’s AI-native recruiting platform scores $3.2M to end hiring software chaos
-Link: https://venturebeat.com/ai/spotts-ai-native-recruiting-platform-scores-3-2m-to-end-hiring-software-chaos/
+4. Chalk Raises $50M Series A to Power AI Inference
+Link: https://venturebeat.com/business/chalk-raises-50m-series-a-to-power-ai-inference/
 
-5. Mistral launches API for building AI agents that run Python, generate images, perform RAG and more
-Link: https://venturebeat.com/ai/mistral-launches-api-for-building-ai-agents-that-run-python-generate-images-perform-rag-and-more/
+5. Spott’s AI-native recruiting platform scores $3.2M to end hiring software chaos
+Link: https://venturebeat.com/ai/spotts-ai-native-recruiting-platform-scores-3-2m-to-end-hiring-software-chaos/
 
