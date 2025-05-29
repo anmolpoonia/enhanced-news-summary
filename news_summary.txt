@@ -1,18 +1,18 @@
-Daily News Summary - 2025-05-29 09:21:36
+Daily News Summary - 2025-05-29 18:27:07
 ==================================================
 
-1. Everyone's looking to get in on vibe coding — and Google is no different with Stitch, its follow-up to Jules
-Link: https://venturebeat.com/ai/everyones-looking-to-get-in-on-vibe-coding-and-google-is-no-different-with-stitch-its-follow-up-to-jules/
+1. DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro
+Link: https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/
 
-2. Anthropic debuts Claude conversational voice mode on mobile that searches your Google Docs, Drive, Calendar
-Link: https://venturebeat.com/ai/anthropic-debuts-conversational-voice-mode-for-claude-mobile-apps/
+2. How Snowflake's open-source text-to-SQL and Arctic inference models solve enterprise AI's two biggest deployment headaches
+Link: https://venturebeat.com/ai/how-snowflakes-open-source-text-to-sql-and-arctic-inference-models-solve-enterprise-ais-two-biggest-deployment-headaches/
 
-3. Security leaders lose visibility as consultants deploy shadow AI copilots to stay employed
-Link: https://venturebeat.com/security/shadow-ai-is-consultings-survival-strategy-in-the-genai-era/
-
-4. DanaBot takedown shows how agentic AI cut months of SOC analysis to weeks
+3. DanaBot takedown shows how agentic AI cut months of SOC analysis to weeks
 Link: https://venturebeat.com/security/agentic-ai-defeated-danabot-exposing-key-lessons-for-soc-teams/
 
-5. s3: The new RAG framework that trains search agents with minimal data
+4. s3: The new RAG framework that trains search agents with minimal data
 Link: https://venturebeat.com/ai/s3-the-new-rag-framework-that-trains-search-agents-with-minimal-data/
+
+5. Mistral launches new code embedding model that outperforms OpenAI and Cohere in real-world retrieval tasks
+Link: https://venturebeat.com/ai/mistral-launches-new-code-embedding-model-that-outperforms-openai-and-cohere-in-real-world-retrieval-tasks/
 
