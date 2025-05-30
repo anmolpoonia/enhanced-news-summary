@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-29 18:27:07
+Daily News Summary - 2025-05-30 09:21:08
 ==================================================
 
 1. DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/how-snowflakes-open-source-text-to-sql-and-arct
 3. DanaBot takedown shows how agentic AI cut months of SOC analysis to weeks
 Link: https://venturebeat.com/security/agentic-ai-defeated-danabot-exposing-key-lessons-for-soc-teams/
 
-4. s3: The new RAG framework that trains search agents with minimal data
-Link: https://venturebeat.com/ai/s3-the-new-rag-framework-that-trains-search-agents-with-minimal-data/
+4. FLUX.1 Kontext enables in-context image generation for enterprise AI pipelines
+Link: https://venturebeat.com/ai/flux-1-kontext-enables-in-context-image-generation-for-enterprise-ai-pipelines/
 
-5. Mistral launches new code embedding model that outperforms OpenAI and Cohere in real-world retrieval tasks
-Link: https://venturebeat.com/ai/mistral-launches-new-code-embedding-model-that-outperforms-openai-and-cohere-in-real-world-retrieval-tasks/
+5. Vitable Health Becomes Nationwide Virtual Primary Care Partner for Apaly, Expanding Advanced Primary Care Access for Enterprise Employees
+Link: https://venturebeat.com/business/vitable-health-becomes-nationwide-virtual-primary-care-partner-for-apaly-expanding-advanced-primary-care-access-for-enterprise-employees/
 
