@@ -1,4 +1,4 @@
-Daily News Summary - 2025-05-30 18:27:00
+Daily News Summary - 2025-05-31 09:19:47
 ==================================================
 
 1. s3: The new RAG framework that trains search agents with minimal data
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/flux-1-kontext-enables-in-context-image-generat
 3. Emotive voice AI startup Hume launches new EVI 3 model with rapid custom voice creation
 Link: https://venturebeat.com/ai/emotive-voice-ai-startup-hume-launches-new-evi-3-model-with-rapid-custom-voice-creation/
 
-4. Vitable Health Becomes Nationwide Virtual Primary Care Partner for Apaly, Expanding Advanced Primary Care Access for Enterprise Employees
-Link: https://venturebeat.com/business/vitable-health-becomes-nationwide-virtual-primary-care-partner-for-apaly-expanding-advanced-primary-care-access-for-enterprise-employees/
+4. QwenLong-L1 solves long-context reasoning challenge that stumps current LLMs
+Link: https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-challenge-that-stumps-current-llms/
 
-5. DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro
-Link: https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/
+5. ElevenLabs debuts Conversational AI 2.0 voice assistants that understand when to pause, speak, and take turns talking
+Link: https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/
 
