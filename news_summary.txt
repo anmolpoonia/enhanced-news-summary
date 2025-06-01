@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-01 09:19:37
+Daily News Summary - 2025-06-01 18:25:13
 ==================================================
 
 1. The future of engineering belongs to those who build with AI, not without it
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-chall
 3. ElevenLabs debuts Conversational AI 2.0 voice assistants that understand when to pause, speak, and take turns talking
 Link: https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/
 
-4. Which LLM should you use? Token Monster automatically combines multiple models and tools for you
-Link: https://venturebeat.com/ai/which-llm-should-you-use-token-monster-automatically-combines-multiple-models-and-tools-for-you/
+4. When your LLM calls the cops: Claude 4’s whistle-blow and the new agentic AI risk stack
+Link: https://venturebeat.com/ai/when-your-llm-calls-the-cops-claude-4s-whistle-blow-and-the-new-agentic-ai-risk-stack/
 
-5. FLUX.1 Kontext enables in-context image generation for enterprise AI pipelines
-Link: https://venturebeat.com/ai/flux-1-kontext-enables-in-context-image-generation-for-enterprise-ai-pipelines/
+5. Which LLM should you use? Token Monster automatically combines multiple models and tools for you
+Link: https://venturebeat.com/ai/which-llm-should-you-use-token-monster-automatically-combines-multiple-models-and-tools-for-you/
 
