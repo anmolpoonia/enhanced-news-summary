@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-02 09:22:23
+Daily News Summary - 2025-06-02 18:27:56
 ==================================================
 
 1. The future of engineering belongs to those who build with AI, not without it
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/model-context-protocol-a-promising-ai-integrati
 3. QwenLong-L1 solves long-context reasoning challenge that stumps current LLMs
 Link: https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-challenge-that-stumps-current-llms/
 
-4. When your LLM calls the cops: Claude 4’s whistle-blow and the new agentic AI risk stack
-Link: https://venturebeat.com/ai/when-your-llm-calls-the-cops-claude-4s-whistle-blow-and-the-new-agentic-ai-risk-stack/
+4. Clairity Becomes the First FDA-Authorized AI Platform for Breast Cancer Prediction – Historic Milestone for Women’s Health
+Link: https://venturebeat.com/business/clairity-becomes-the-first-fda-authorized-ai-platform-for-breast-cancer-prediction-historic-milestone-for-womens-health/
 
-5. ElevenLabs debuts Conversational AI 2.0 voice assistants that understand when to pause, speak, and take turns talking
-Link: https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/
+5. Uniphore Introduces Marketing Agents, Providing AI-Powered Automation to Marketers
+Link: https://venturebeat.com/business/uniphore-introduces-marketing-agents-providing-ai-powered-automation-to-marketers/
 
