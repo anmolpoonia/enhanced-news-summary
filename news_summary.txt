@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-03 09:22:07
+Daily News Summary - 2025-06-03 18:28:45
 ==================================================
 
-1. Enterprise alert: PostgreSQL just became the database you can't ignore for AI applications
-Link: https://venturebeat.com/data-infrastructure/enterprise-alert-postgresql-just-became-the-database-you-cant-ignore-for-ai-applications/
-
-2. Google quietly launches AI Edge Gallery, letting Android phones run AI without the cloud
-Link: https://venturebeat.com/ai/google-quietly-launches-ai-edge-gallery-letting-android-phones-run-ai-without-the-cloud/
-
-3. How S&P is using deep web scraping, ensemble learning and Snowflake architecture to collect 5X more data on SMEs
-Link: https://venturebeat.com/data-infrastructure/how-sp-is-using-deep-web-scraping-ensemble-learning-and-snowflake-architecture-to-collect-5x-more-data-on-smes/
-
-4. OpenAI’s Sora is now available for FREE to all users through Microsoft Bing Video Creator on mobile
+1. OpenAI's Sora is now available for FREE to all users through Microsoft Bing Video Creator on mobile
 Link: https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/
 
-5. Clairity Becomes the First FDA-Authorized AI Platform for Breast Cancer Prediction – Historic Milestone for Women’s Health
-Link: https://venturebeat.com/business/clairity-becomes-the-first-fda-authorized-ai-platform-for-breast-cancer-prediction-historic-milestone-for-womens-health/
+2. CockroachDB's distributed vector indexing tackles the looming AI data explosion enterprises aren't ready for
+Link: https://venturebeat.com/data-infrastructure/cockroachdbs-distributed-vector-indexing-tackles-the-looming-ai-data-explosion-enterprises-arent-ready-for/
+
+3. Inside Intuit's GenOS update: Why prompt optimization and intelligent data cognition are critical to enterprise agentic AI success
+Link: https://venturebeat.com/ai/inside-intuits-genos-update-why-prompt-optimization-and-intelligent-data-cognition-are-critical-to-enterprise-agentic-ai-success/
+
+4. Snowflake’s Openflow tackles AI’s toughest engineering challenge: Data ingestion at scale
+Link: https://venturebeat.com/data-infrastructure/snowflakes-openflow-tackles-ais-toughest-engineering-challenge-data-ingestion-at-scale/
+
+5. AI’s big interoperability moment: Why A2A and MCP are key for agent collaboration
+Link: https://venturebeat.com/ai/ais-big-interoperability-moment-why-a2a-and-mcp-are-key-for-agent-collaboration/
 
