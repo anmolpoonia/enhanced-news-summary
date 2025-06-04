@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-03 18:28:45
+Daily News Summary - 2025-06-04 09:21:33
 ==================================================
 
-1. OpenAI's Sora is now available for FREE to all users through Microsoft Bing Video Creator on mobile
-Link: https://venturebeat.com/ai/openais-sora-is-now-available-for-free-to-all-users-through-microsoft-bing-video-creator-on-mobile/
+1. Your AI models are failing in production—Here's how to fix model selection
+Link: https://venturebeat.com/ai/your-ai-models-are-failing-in-production-heres-how-to-fix-model-selection/
 
-2. CockroachDB's distributed vector indexing tackles the looming AI data explosion enterprises aren't ready for
-Link: https://venturebeat.com/data-infrastructure/cockroachdbs-distributed-vector-indexing-tackles-the-looming-ai-data-explosion-enterprises-arent-ready-for/
+2. Phonely’s new AI agents hit 99% accuracy—and customers can’t tell they’re not human
+Link: https://venturebeat.com/ai/phonelys-new-ai-agents-hit-99-accuracy-and-customers-cant-tell-theyre-not-human/
 
-3. Inside Intuit's GenOS update: Why prompt optimization and intelligent data cognition are critical to enterprise agentic AI success
-Link: https://venturebeat.com/ai/inside-intuits-genos-update-why-prompt-optimization-and-intelligent-data-cognition-are-critical-to-enterprise-agentic-ai-success/
-
-4. Snowflake’s Openflow tackles AI’s toughest engineering challenge: Data ingestion at scale
+3. Snowflake’s Openflow tackles AI’s toughest engineering challenge: Data ingestion at scale
 Link: https://venturebeat.com/data-infrastructure/snowflakes-openflow-tackles-ais-toughest-engineering-challenge-data-ingestion-at-scale/
 
-5. AI’s big interoperability moment: Why A2A and MCP are key for agent collaboration
+4. AI’s big interoperability moment: Why A2A and MCP are key for agent collaboration
 Link: https://venturebeat.com/ai/ais-big-interoperability-moment-why-a2a-and-mcp-are-key-for-agent-collaboration/
+
+5. Lithos Carbon Appoints Rob Hranac as Chief Operating Officer to Scale Enhanced Rock Weathering Operations
+Link: https://venturebeat.com/business/lithos-carbon-appoints-rob-hranac-as-chief-operating-officer-to-scale-enhanced-rock-weathering-operations/
 
