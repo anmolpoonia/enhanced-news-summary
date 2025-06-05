@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-04 18:28:05
+Daily News Summary - 2025-06-05 09:26:00
 ==================================================
 
 1. OpenAI hits 3M business users and launches workplace tools to take on Microsoft
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/mistral-ais-new-coding-assistant-takes-direct-a
 3. Inside Intuit's GenOS update: Why prompt optimization and intelligent data cognition are critical to enterprise agentic AI success
 Link: https://venturebeat.com/ai/inside-intuits-genos-update-why-prompt-optimization-and-intelligent-data-cognition-are-critical-to-enterprise-agentic-ai-success/
 
-4. Kenny Denton Joins Daversa’s Leadership Bench as Newest Partner
-Link: https://venturebeat.com/business/kenny-denton-joins-daversas-leadership-bench-as-newest-partner/
+4. Stop guessing why your LLMs break: Anthropic’s new tool shows you exactly what goes wrong
+Link: https://venturebeat.com/ai/stop-guessing-why-your-llms-break-anthropics-new-tool-shows-you-exactly-what-goes-wrong/
 
-5. Your AI models are failing in production—Here’s how to fix model selection
-Link: https://venturebeat.com/ai/your-ai-models-are-failing-in-production-heres-how-to-fix-model-selection/
+5. Kenny Denton Joins Daversa’s Leadership Bench as Newest Partner
+Link: https://venturebeat.com/business/kenny-denton-joins-daversas-leadership-bench-as-newest-partner/
 
