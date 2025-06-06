@@ -1,17 +1,17 @@
-Daily News Summary - 2025-06-06 09:21:36
+Daily News Summary - 2025-06-06 18:27:44
 ==================================================
 
-1. OpenAI hits 3M business users and launches workplace tools to take on Microsoft
-Link: https://venturebeat.com/ai/openai-hits-3m-business-users-and-launches-workplace-tools-to-take-on-microsoft/
-
-2. Mistral AI’s new coding assistant takes direct aim at GitHub Copilot
-Link: https://venturebeat.com/ai/mistral-ais-new-coding-assistant-takes-direct-aim-at-github-copilot/
-
-3. Inside Intuit's GenOS update: Why prompt optimization and intelligent data cognition are critical to enterprise agentic AI success
-Link: https://venturebeat.com/ai/inside-intuits-genos-update-why-prompt-optimization-and-intelligent-data-cognition-are-critical-to-enterprise-agentic-ai-success/
-
-4. Google claims Gemini 2.5 Pro preview beats DeepSeek R1 and Grok 3 Beta in coding performance
+1. Google claims Gemini 2.5 Pro preview beats DeepSeek R1 and Grok 3 Beta in coding performance
 Link: https://venturebeat.com/ai/google-claims-gemini-2-5-pro-preview-beats-deepseek-r1-and-grok-3-beta-in-coding-performance/
+
+2. How much information do LLMs really memorize? Now we know, thanks to Meta, Google, Nvidia and Cornell
+Link: https://venturebeat.com/ai/how-much-information-do-llms-really-memorize-now-we-know-thanks-to-meta-google-nvidia-and-cornell/
+
+3. Voice AI that actually converts: New TTS model boosts sales 15% for major brands
+Link: https://venturebeat.com/ai/voice-ai-that-actually-converts-new-tts-model-boosts-sales-15-for-major-brands/
+
+4. Sam Altman calls for ‘AI privilege’ as OpenAI clarifies court order to retain temporary and deleted ChatGPT sessions
+Link: https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions/
 
 5. MeMed BV Surpasses 100,000 Patient Tests, Underscoring Adoption of Rapid Host-Response Diagnostics
 Link: https://venturebeat.com/business/memed-bv-surpasses-100000-patient-tests-underscoring-adoption-of-rapid-host-response-diagnostics/
