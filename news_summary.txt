@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-05 09:26:00
+Daily News Summary - 2025-06-06 09:21:36
 ==================================================
 
 1. OpenAI hits 3M business users and launches workplace tools to take on Microsoft
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/mistral-ais-new-coding-assistant-takes-direct-a
 3. Inside Intuit's GenOS update: Why prompt optimization and intelligent data cognition are critical to enterprise agentic AI success
 Link: https://venturebeat.com/ai/inside-intuits-genos-update-why-prompt-optimization-and-intelligent-data-cognition-are-critical-to-enterprise-agentic-ai-success/
 
-4. Stop guessing why your LLMs break: Anthropic’s new tool shows you exactly what goes wrong
-Link: https://venturebeat.com/ai/stop-guessing-why-your-llms-break-anthropics-new-tool-shows-you-exactly-what-goes-wrong/
+4. Google claims Gemini 2.5 Pro preview beats DeepSeek R1 and Grok 3 Beta in coding performance
+Link: https://venturebeat.com/ai/google-claims-gemini-2-5-pro-preview-beats-deepseek-r1-and-grok-3-beta-in-coding-performance/
 
-5. Kenny Denton Joins Daversa’s Leadership Bench as Newest Partner
-Link: https://venturebeat.com/business/kenny-denton-joins-daversas-leadership-bench-as-newest-partner/
+5. MeMed BV Surpasses 100,000 Patient Tests, Underscoring Adoption of Rapid Host-Response Diagnostics
+Link: https://venturebeat.com/business/memed-bv-surpasses-100000-patient-tests-underscoring-adoption-of-rapid-host-response-diagnostics/
 
