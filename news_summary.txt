@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-07 18:25:12
+Daily News Summary - 2025-06-08 09:19:09
 ==================================================
 
-1. Voice AI that actually converts: New TTS model boosts sales 15% for major brands
-Link: https://venturebeat.com/ai/voice-ai-that-actually-converts-new-tts-model-boosts-sales-15-for-major-brands/
+1. Agent-based computing is outgrowing the web as we know it
+Link: https://venturebeat.com/ai/agent-based-computing-is-outgrowing-the-web-as-we-know-it/
 
-2. Sam Altman calls for 'AI privilege' as OpenAI clarifies court order to retain temporary and deleted ChatGPT sessions
-Link: https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions/
+2. Voice AI that actually converts: New TTS model boosts sales 15% for major brands
+Link: https://venturebeat.com/ai/voice-ai-that-actually-converts-new-tts-model-boosts-sales-15-for-major-brands/
 
 3. Securing AI at scale: Databricks and Noma close the inference vulnerability gap
 Link: https://venturebeat.com/security/databricks-noma-tackle-cisos-ai-inference-nightmare/
 
-4. Google claims Gemini 2.5 Pro preview beats DeepSeek R1 and Grok 3 Beta in coding performance
-Link: https://venturebeat.com/ai/google-claims-gemini-2-5-pro-preview-beats-deepseek-r1-and-grok-3-beta-in-coding-performance/
+4. Sam Altman calls for ‘AI privilege’ as OpenAI clarifies court order to retain temporary and deleted ChatGPT sessions
+Link: https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions/
 
-5. MeMed BV Surpasses 100,000 Patient Tests, Underscoring Adoption of Rapid Host-Response Diagnostics
-Link: https://venturebeat.com/business/memed-bv-surpasses-100000-patient-tests-underscoring-adoption-of-rapid-host-response-diagnostics/
+5. Google claims Gemini 2.5 Pro preview beats DeepSeek R1 and Grok 3 Beta in coding performance
+Link: https://venturebeat.com/ai/google-claims-gemini-2-5-pro-preview-beats-deepseek-r1-and-grok-3-beta-in-coding-performance/
 
