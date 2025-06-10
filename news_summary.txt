@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-10 09:21:57
+Daily News Summary - 2025-06-10 18:28:03
 ==================================================
 
 1. Agent-based computing is outgrowing the web as we know it
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/like-humans-ai-is-forcing-institutions-to-rethi
 3. Voice AI that actually converts: New TTS model boosts sales 15% for major brands
 Link: https://venturebeat.com/ai/voice-ai-that-actually-converts-new-tts-model-boosts-sales-15-for-major-brands/
 
-4. Apple makes major AI advance with image generation technology rivaling DALL-E and Midjourney
-Link: https://venturebeat.com/ai/apple-makes-major-ai-advance-with-image-generation-technology-rivaling-dall-e-and-midjourney/
+4. OpenAI announces 80% price drop for o3, it’s most powerful reasoning model
+Link: https://venturebeat.com/ai/openai-announces-80-price-drop-for-o3-its-most-powerful-reasoning-model/
 
-5. Sam Altman calls for ‘AI privilege’ as OpenAI clarifies court order to retain temporary and deleted ChatGPT sessions
-Link: https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions/
+5. Beyond the keyword: How AI is forging the future of enterprise search
+Link: https://venturebeat.com/ai/beyond-the-keyword-how-ai-is-forging-the-future-of-enterprise-search/
 
