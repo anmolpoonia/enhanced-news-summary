@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-11 09:21:41
+Daily News Summary - 2025-06-11 18:28:53
 ==================================================
 
-1. OpenAI launches o3-pro AI model, offering increased reliability and tool use for enterprises — while sacrificing speed
-Link: https://venturebeat.com/ai/openai-launches-o3-pro-ai-model-offering-increased-reliability-and-tool-use-for-enterprises-while-sacrificing-speed/
+1. Asset sprawl, siloed data and CloudQuery's search for unified cloud governance
+Link: https://venturebeat.com/data-infrastructure/asset-sprawl-siloed-data-and-cloudquerys-search-for-unified-cloud-governance/
 
-2. OpenAI announces 80% price drop for o3, it's most powerful reasoning model
-Link: https://venturebeat.com/ai/openai-announces-80-price-drop-for-o3-its-most-powerful-reasoning-model/
+2. Why most enterprise AI agents never reach production and how Databricks plans to fix it
+Link: https://venturebeat.com/ai/why-most-enterprise-ai-agents-never-reach-production-and-how-databricks-plans-to-fix-it/
 
-3. Mistral's first reasoning model, Magistral, launches with large and small Apache 2.0 version
-Link: https://venturebeat.com/ai/mistrals-first-reasoning-model-magistral-launches-with-large-and-small-apache-2-0-version/
+3. Outset raises $17M to replace human interviewers with AI agents for enterprise research
+Link: https://venturebeat.com/ai/outset-raises-17m-to-replace-human-interviewers-with-ai-agents-for-enterprise-research/
 
-4. AlphaSense launches its own Deep Research for the web AND your enterprise files — here’s why it matters
-Link: https://venturebeat.com/ai/alphasense-launches-its-own-deep-research-for-the-web-and-your-enterprise-files-heres-why-it-matters/
+4. Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure
+Link: https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/
 
-5. The five security principles driving open source security apps at scale
-Link: https://venturebeat.com/security/top-five-security-principles-driving-open-source-cyber-apps-at-scale/
+5. Databricks open-sources declarative ETL framework powering 90% faster pipeline builds
+Link: https://venturebeat.com/data-infrastructure/databricks-open-sources-declarative-etl-framework-powering-90-faster-pipeline-builds/
 
