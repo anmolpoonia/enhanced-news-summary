@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-13 09:21:46
+Daily News Summary - 2025-06-13 18:28:00
 ==================================================
 
-1. Google DeepMind just changed hurricane forecasting forever with new AI model
-Link: https://venturebeat.com/ai/google-deepmind-just-changed-hurricane-forecasting-forever-with-new-ai-model/
+1. Red team AI now to build safer, smarter models tomorrow
+Link: https://venturebeat.com/security/red-team-ai-now-to-build-safer-smarter-models-tomorrow/
 
-2. Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure
-Link: https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/
+2. Senator's RISE Act would require AI developers to list training data, evaluation methods in exchange for 'safe harbor' from lawsuits
+Link: https://venturebeat.com/ai/senators-rise-act-would-require-ai-developers-to-list-training-data-evaluation-methods-in-exchange-for-safe-harbor-from-lawsuits/
 
-3. Databricks open-sources declarative ETL framework powering 90% faster pipeline builds
-Link: https://venturebeat.com/data-infrastructure/databricks-open-sources-declarative-etl-framework-powering-90-faster-pipeline-builds/
-
-4. Meta’s new world model lets robots manipulate objects in environments they’ve never encountered before
+3. Meta's new world model lets robots manipulate objects in environments they've never encountered before
 Link: https://venturebeat.com/ai/metas-new-world-model-lets-robots-manipulate-objects-in-environments-theyve-never-encountered-before/
 
-5. Cloud collapse: Replit and LlamaIndex knocked offline by Google Cloud identity outage
+4. Cloud collapse: Replit and LlamaIndex knocked offline by Google Cloud identity outage
 Link: https://venturebeat.com/ai/cloud-collapse-replit-llamaindex-knocked-offline-by-google-cloud-identity-outage/
+
+5. Volantis Unveils Photonic Compute Platform for the AI Era; Raises $9M in Seed Round With Alex Wang, Trevor Blackwell, and Others
+Link: https://venturebeat.com/business/volantis-unveils-photonic-compute-platform-for-the-ai-era-raises-9m-in-seed-round-with-alex-wang-trevor-blackwell-and-others/
 
