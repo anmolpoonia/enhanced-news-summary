@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-12 18:27:27
+Daily News Summary - 2025-06-13 09:21:46
 ==================================================
 
-1. Asset sprawl, siloed data and CloudQuery's search for unified cloud governance
-Link: https://venturebeat.com/data-infrastructure/asset-sprawl-siloed-data-and-cloudquerys-search-for-unified-cloud-governance/
-
-2. Why most enterprise AI agents never reach production and how Databricks plans to fix it
-Link: https://venturebeat.com/ai/why-most-enterprise-ai-agents-never-reach-production-and-how-databricks-plans-to-fix-it/
-
-3. Outset raises $17M to replace human interviewers with AI agents for enterprise research
-Link: https://venturebeat.com/ai/outset-raises-17m-to-replace-human-interviewers-with-ai-agents-for-enterprise-research/
-
-4. Volantis Unveils Photonic Compute Platform for the AI Era; Raises $9M in Seed Round With Alex Wang, Trevor Blackwell, and Others
-Link: https://venturebeat.com/business/volantis-unveils-photonic-compute-platform-for-the-ai-era-raises-9m-in-seed-round-with-alex-wang-trevor-blackwell-and-others/
-
-5. Google DeepMind just changed hurricane forecasting forever with new AI model
+1. Google DeepMind just changed hurricane forecasting forever with new AI model
 Link: https://venturebeat.com/ai/google-deepmind-just-changed-hurricane-forecasting-forever-with-new-ai-model/
+
+2. Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure
+Link: https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/
+
+3. Databricks open-sources declarative ETL framework powering 90% faster pipeline builds
+Link: https://venturebeat.com/data-infrastructure/databricks-open-sources-declarative-etl-framework-powering-90-faster-pipeline-builds/
+
+4. Meta’s new world model lets robots manipulate objects in environments they’ve never encountered before
+Link: https://venturebeat.com/ai/metas-new-world-model-lets-robots-manipulate-objects-in-environments-theyve-never-encountered-before/
+
+5. Cloud collapse: Replit and LlamaIndex knocked offline by Google Cloud identity outage
+Link: https://venturebeat.com/ai/cloud-collapse-replit-llamaindex-knocked-offline-by-google-cloud-identity-outage/
 
