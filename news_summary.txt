@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-14 18:24:49
+Daily News Summary - 2025-06-15 09:20:04
 ==================================================
 
 1. Beyond GPT architecture: Why Google's Diffusion approach could reshape LLM deployment
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/do-reasoning-models-really-think-or-not-apple-r
 3. The case for embedding audit trails in AI systems before scaling
 Link: https://venturebeat.com/ai/the-case-for-embedding-audit-trails-in-ai-systems-before-scaling/
 
-4. Just add humans: Oxford medical study underscores the missing link in chatbot testing
-Link: https://venturebeat.com/ai/just-add-humans-oxford-medical-study-underscores-the-missing-link-in-chatbot-testing/
+4. Rethinking AI: DeepSeek’s playbook shakes up the high-spend, high-compute paradigm
+Link: https://venturebeat.com/ai/rethinking-ai-deepseeks-playbook-shakes-up-the-high-spend-high-compute-paradigm/
 
-5. Senator’s RISE Act would require AI developers to list training data, evaluation methods in exchange for ‘safe harbor’ from lawsuits
-Link: https://venturebeat.com/ai/senators-rise-act-would-require-ai-developers-to-list-training-data-evaluation-methods-in-exchange-for-safe-harbor-from-lawsuits/
+5. Just add humans: Oxford medical study underscores the missing link in chatbot testing
+Link: https://venturebeat.com/ai/just-add-humans-oxford-medical-study-underscores-the-missing-link-in-chatbot-testing/
 
