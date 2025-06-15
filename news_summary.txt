@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-15 09:20:04
+Daily News Summary - 2025-06-15 18:25:20
 ==================================================
 
-1. Beyond GPT architecture: Why Google's Diffusion approach could reshape LLM deployment
-Link: https://venturebeat.com/ai/beyond-gpt-architecture-why-googles-diffusion-approach-could-reshape-llm-deployment/
-
-2. Do reasoning models really “think” or not? Apple research sparks lively debate, response
-Link: https://venturebeat.com/ai/do-reasoning-models-really-think-or-not-apple-research-sparks-lively-debate-response/
-
-3. The case for embedding audit trails in AI systems before scaling
-Link: https://venturebeat.com/ai/the-case-for-embedding-audit-trails-in-ai-systems-before-scaling/
-
-4. Rethinking AI: DeepSeek’s playbook shakes up the high-spend, high-compute paradigm
+1. Rethinking AI: DeepSeek's playbook shakes up the high-spend, high-compute paradigm
 Link: https://venturebeat.com/ai/rethinking-ai-deepseeks-playbook-shakes-up-the-high-spend-high-compute-paradigm/
 
-5. Just add humans: Oxford medical study underscores the missing link in chatbot testing
+2. Beyond GPT architecture: Why Google's Diffusion approach could reshape LLM deployment
+Link: https://venturebeat.com/ai/beyond-gpt-architecture-why-googles-diffusion-approach-could-reshape-llm-deployment/
+
+3. Do reasoning AI models really 'think' or not? Apple research sparks lively debate, response
+Link: https://venturebeat.com/ai/do-reasoning-models-really-think-or-not-apple-research-sparks-lively-debate-response/
+
+4. Just add humans: Oxford medical study underscores the missing link in chatbot testing
 Link: https://venturebeat.com/ai/just-add-humans-oxford-medical-study-underscores-the-missing-link-in-chatbot-testing/
+
+5. The case for embedding audit trails in AI systems before scaling
+Link: https://venturebeat.com/ai/the-case-for-embedding-audit-trails-in-ai-systems-before-scaling/
 
