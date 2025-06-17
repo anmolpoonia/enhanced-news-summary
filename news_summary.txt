@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-17 09:23:09
+Daily News Summary - 2025-06-17 18:29:19
 ==================================================
 
 1. Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/inside-linkedins-ai-overhaul-job-search-powered
 3. MiniMax-M1 is a new open source model with 1 MILLION TOKEN context and new, hyper efficient reinforcement learning
 Link: https://venturebeat.com/ai/minimax-m1-is-a-new-open-source-model-with-1-million-token-context-and-new-hyper-efficient-reinforcement-learning/
 
-4. Onebrief Reaches $1.1 Billion Valuation with $20 Million Series C Extension Led by Battery Ventures, Nearly Doubling in 3 Months
-Link: https://venturebeat.com/business/onebrief-reaches-1-1-billion-valuation-with-20-million-series-c-extension-led-by-battery-ventures-nearly-doubling-in-3-months/
+4. At INBOUND 2025, AI and human creativity take the stage together
+Link: https://venturebeat.com/ai/at-inbound-2025-ai-and-human-creativity-take-the-stage-together/
 
-5. Groq just made Hugging Face way faster — and it’s coming for AWS and Google
-Link: https://venturebeat.com/ai/groq-just-made-hugging-face-way-faster-and-its-coming-for-aws-and-google/
+5. Celltrio Secures $15 Million Financial Investment to Accelerate Global Expansion in Cell Culturing and Cell & Gene Therapy Automation
+Link: https://venturebeat.com/business/celltrio-secures-15-million-financial-investment-to-accelerate-global-expansion-in-cell-culturing-and-cell-gene-therapy-automation/
 
