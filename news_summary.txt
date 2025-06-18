@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-18 09:22:13
+Daily News Summary - 2025-06-18 18:29:02
 ==================================================
 
 1. OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/the-interpretable-ai-playbook-what-anthropics-r
 3. Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes
 Link: https://venturebeat.com/data-infrastructure/cutting-cloud-waste-at-scale-akamai-saves-70-using-ai-agents-orchestrated-by-kubernetes/
 
-4. Google launches production-ready Gemini 2.5 AI models to challenge OpenAI’s enterprise dominance
-Link: https://venturebeat.com/ai/google-launches-production-ready-gemini-2-5-ai-models-to-challenge-openais-enterprise-dominance/
+4. Agentic AI and the future state of enterprise security and observability
+Link: https://venturebeat.com/ai/agentic-ai-and-the-future-state-of-enterprise-security-and-observability/
 
-5. At INBOUND 2025, AI and human creativity take the stage together
-Link: https://venturebeat.com/ai/at-inbound-2025-ai-and-human-creativity-take-the-stage-together/
+5. Invideo Launches v4.0 With ‘AI Twins:’ Letting Anyone Clone Themselves and Their Products to Create Studio-Quality Videos at Scale
+Link: https://venturebeat.com/business/invideo-launches-v4-0-with-ai-twins-letting-anyone-clone-themselves-and-their-products-to-create-studio-quality-videos-at-scale/
 
