@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-17 18:29:19
+Daily News Summary - 2025-06-18 09:22:13
 ==================================================
 
-1. Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes
+1. OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion
+Link: https://venturebeat.com/ai/openai-moves-forward-with-gpt-4-5-deprecation-in-api-triggering-developer-anguish-and-confusion/
+
+2. The Interpretable AI playbook: What Anthropic's research means for your enterprise LLM strategy
+Link: https://venturebeat.com/ai/the-interpretable-ai-playbook-what-anthropics-research-means-for-your-enterprise-llm-strategy/
+
+3. Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes
 Link: https://venturebeat.com/data-infrastructure/cutting-cloud-waste-at-scale-akamai-saves-70-using-ai-agents-orchestrated-by-kubernetes/
 
-2. Inside LinkedIn’s AI overhaul: Job search powered by LLM distillation
-Link: https://venturebeat.com/ai/inside-linkedins-ai-overhaul-job-search-powered-by-llm-distillation/
+4. Google launches production-ready Gemini 2.5 AI models to challenge OpenAI’s enterprise dominance
+Link: https://venturebeat.com/ai/google-launches-production-ready-gemini-2-5-ai-models-to-challenge-openais-enterprise-dominance/
 
-3. MiniMax-M1 is a new open source model with 1 MILLION TOKEN context and new, hyper efficient reinforcement learning
-Link: https://venturebeat.com/ai/minimax-m1-is-a-new-open-source-model-with-1-million-token-context-and-new-hyper-efficient-reinforcement-learning/
-
-4. At INBOUND 2025, AI and human creativity take the stage together
+5. At INBOUND 2025, AI and human creativity take the stage together
 Link: https://venturebeat.com/ai/at-inbound-2025-ai-and-human-creativity-take-the-stage-together/
-
-5. Celltrio Secures $15 Million Financial Investment to Accelerate Global Expansion in Cell Culturing and Cell & Gene Therapy Automation
-Link: https://venturebeat.com/business/celltrio-secures-15-million-financial-investment-to-accelerate-global-expansion-in-cell-culturing-and-cell-gene-therapy-automation/
 
