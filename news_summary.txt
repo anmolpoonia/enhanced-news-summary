@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-20 09:21:21
+Daily News Summary - 2025-06-20 18:27:29
 ==================================================
 
-1. OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
-Link: https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/
+1. Announcing our 2025 VB Transform Innovation Showcase finalists
+Link: https://venturebeat.com/ai/announcing-our-2025-vb-transform-innovation-showcase-finalists/
 
-2. 'Surpassing all my expectations': Midjourney releases first AI video model amid Disney, Universal lawsuit
-Link: https://venturebeat.com/business/surpassing-all-my-expectations-midjourney-releases-first-ai-video-model-amid-disney-universal-lawsuit/
+2. Google's Gemini transparency cut leaves enterprise developers 'debugging blind'
+Link: https://venturebeat.com/ai/googles-gemini-transparency-cut-leaves-enterprise-developers-debugging-blind/
 
-3. From prompt chaos to clarity: How to build a robust AI orchestration layer
-Link: https://venturebeat.com/ai/from-prompt-chaos-to-clarity-how-to-build-a-robust-ai-orchestration-layer/
-
-4. GenLayer launches a new method to incentivize people to market your brand using AI and blockchain
+3. GenLayer launches a new method to incentivize people to market your brand using AI and blockchain
 Link: https://venturebeat.com/ai/genlayer-launches-a-new-method-to-incentivize-people-to-market-your-brand-using-ai-and-blockchain/
 
-5. Announcing our 2025 VB Transform Innovation Showcase finalists
-Link: https://venturebeat.com/ai/announcing-our-2025-vb-transform-innovation-showcase-finalists/
+4. NetXD Unveils End-to-End TradFi-DeFi Infrastructure Platform
+Link: https://venturebeat.com/business/netxd-unveils-end-to-end-tradfi-defi-infrastructure-platform/
+
+5. OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
+Link: https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/
 
