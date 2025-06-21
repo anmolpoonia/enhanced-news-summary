@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-20 18:27:29
+Daily News Summary - 2025-06-21 09:19:17
 ==================================================
 
-1. Announcing our 2025 VB Transform Innovation Showcase finalists
-Link: https://venturebeat.com/ai/announcing-our-2025-vb-transform-innovation-showcase-finalists/
+1. Anthropic study: Leading AI models show up to 96% blackmail rate against executives
+Link: https://venturebeat.com/ai/anthropic-study-leading-ai-models-show-up-to-96-blackmail-rate-against-executives/
 
 2. Google's Gemini transparency cut leaves enterprise developers 'debugging blind'
 Link: https://venturebeat.com/ai/googles-gemini-transparency-cut-leaves-enterprise-developers-debugging-blind/
 
-3. GenLayer launches a new method to incentivize people to market your brand using AI and blockchain
-Link: https://venturebeat.com/ai/genlayer-launches-a-new-method-to-incentivize-people-to-market-your-brand-using-ai-and-blockchain/
-
-4. NetXD Unveils End-to-End TradFi-DeFi Infrastructure Platform
-Link: https://venturebeat.com/business/netxd-unveils-end-to-end-tradfi-defi-infrastructure-platform/
-
-5. OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
+3. OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy
 Link: https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/
+
+4. Hospital cyber attacks cost $600K/hour. Here’s how AI is changing the math
+Link: https://venturebeat.com/security/hospital-cyber-attacks-cost-600k-hour-heres-how-ai-is-changing-the-math/
+
+5. Mistral just updated its open source Small model from 3.1 to 3.2: here’s why
+Link: https://venturebeat.com/ai/mistral-just-updated-its-open-source-small-model-from-3-1-to-3-2-heres-why/
 
