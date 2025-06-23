@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-22 18:25:44
+Daily News Summary - 2025-06-23 09:24:09
 ==================================================
 
 1. Cloud quantum computing: A trillion-dollar opportunity with dangerous hidden risks
 Link: https://venturebeat.com/security/cloud-quantum-computing-a-trillion-dollar-opportunity-with-dangerous-hidden-risks/
 
-2. Hospital cyber attacks cost $600K/hour. Here's how AI is changing the math
+2. From fear to fluency: Why empathy is the missing ingredient in AI rollouts
+Link: https://venturebeat.com/ai/from-fear-to-fluency-why-empathy-is-the-missing-ingredient-in-ai-rollouts/
+
+3. Hospital cyber attacks cost $600K/hour. Here's how AI is changing the math
 Link: https://venturebeat.com/security/hospital-cyber-attacks-cost-600k-hour-heres-how-ai-is-changing-the-math/
 
-3. Mistral just updated its open source Small model from 3.1 to 3.2: here's why
+4. Brighter Signals Emerges from Stealth
+Link: https://venturebeat.com/business/brighter-signals-emerges-from-stealth/
+
+5. Mistral just updated its open source Small model from 3.1 to 3.2: here’s why
 Link: https://venturebeat.com/ai/mistral-just-updated-its-open-source-small-model-from-3-1-to-3-2-heres-why/
-
-4. Anthropic study: Leading AI models show up to 96% blackmail rate against executives
-Link: https://venturebeat.com/ai/anthropic-study-leading-ai-models-show-up-to-96-blackmail-rate-against-executives/
-
-5. NetXD Unveils End-to-End TradFi-DeFi Infrastructure Platform
-Link: https://venturebeat.com/business/netxd-unveils-end-to-end-tradfi-defi-infrastructure-platform/
 
