@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-23 18:28:31
+Daily News Summary - 2025-06-24 09:22:54
 ==================================================
 
 1. Why we’re focusing VB Transform on the agentic revolution – and what’s at stake for enterprise AI leaders
 Link: https://venturebeat.com/ai/why-were-focusing-vb-transform-on-the-agentic-revolution-and-whats-at-stake-for-enterprise-ai-leaders/
 
-2. Musk's attempts to politicize his Grok AI are bad for users and enterprises — here's why
+2. Salesforce launches Agentforce 3 with AI agent observability and MCP support
+Link: https://venturebeat.com/ai/salesforce-launches-agentforce-3-with-ai-agent-observability-and-mcp-support/
+
+3. Musk's attempts to politicize his Grok AI are bad for users and enterprises — here's why
 Link: https://venturebeat.com/ai/musks-attempts-to-politicize-his-grok-ai-are-bad-for-users-and-enterprises-heres-why/
 
-3. Hospital cyber attacks cost $600K/hour. Here's how AI is changing the math
-Link: https://venturebeat.com/security/hospital-cyber-attacks-cost-600k-hour-heres-how-ai-is-changing-the-math/
+4. Beyond static AI: MIT’s new framework lets models teach themselves
+Link: https://venturebeat.com/ai/beyond-static-ai-mits-new-framework-lets-models-teach-themselves/
 
-4. Why subscription leaders are shifting to indirect growth with multi-service bundlers
+5. Why subscription leaders are shifting to indirect growth with multi-service bundlers
 Link: https://venturebeat.com/automation/why-subscription-leaders-are-shifting-to-indirect-growth-with-multi-service-bundlers/
-
-5. Brighter Signals Emerges from Stealth
-Link: https://venturebeat.com/business/brighter-signals-emerges-from-stealth/
 
