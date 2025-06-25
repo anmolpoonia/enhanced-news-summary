@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-25 09:23:50
+Daily News Summary - 2025-06-25 18:29:07
 ==================================================
 
 1. 'Sandbox first’: Andrew Ng’s blueprint for accelerating enterprise AI innovation
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/programming-development/windsurf-ceo-varun-mohan-t
 3. Stanford's ChatEHR allows clinicians to query patient medical records using natural language, without compromising patient data
 Link: https://venturebeat.com/ai/stanfords-chatehr-allows-clinicians-to-query-patient-medical-records-using-natural-language-without-compromising-patient-data/
 
-4. What’s inside Genspark? A new vibe working approach that ditches rigid workflows for autonomous agents
-Link: https://venturebeat.com/ai/whats-inside-genspark-a-new-vibe-working-approach-that-ditches-rigid-workflows-for-autonomous-agents/
+4. The new AI infrastructure reality: Bring compute to data, not data to compute
+Link: https://venturebeat.com/data-infrastructure/the-new-ai-infrastructure-reality-bring-compute-to-data-not-data-to-compute/
 
-5. How CISOs became the gatekeepers of $309B AI infrastructure spending
-Link: https://venturebeat.com/ai/agenticops-and-the-race-to-control-enterprise-ai/
+5. Anthropic just made every Claude user a no-code app developer
+Link: https://venturebeat.com/ai/anthropic-just-made-every-claude-user-a-no-code-app-developer/
 
