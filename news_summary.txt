@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-24 18:28:18
+Daily News Summary - 2025-06-25 09:23:50
 ==================================================
 
-1. Why we’re focusing VB Transform on the agentic revolution – and what’s at stake for enterprise AI leaders
-Link: https://venturebeat.com/ai/why-were-focusing-vb-transform-on-the-agentic-revolution-and-whats-at-stake-for-enterprise-ai-leaders/
+1. 'Sandbox first’: Andrew Ng’s blueprint for accelerating enterprise AI innovation
+Link: https://venturebeat.com/ai/sandbox-first-andrew-ngs-blueprint-for-accelerating-enterprise-ai-innovation/
 
-2. Salesforce launches Agentforce 3 with AI agent observability and MCP support
-Link: https://venturebeat.com/ai/salesforce-launches-agentforce-3-with-ai-agent-observability-and-mcp-support/
+2. Windsurf CEO Varun Mohan throws cold water on 1-person, billion-dollar startup idea at VB Transform: 'more people allow you to grow faster'
+Link: https://venturebeat.com/programming-development/windsurf-ceo-varun-mohan-throws-cold-water-on-1-person-billion-dollar-startup-idea-at-vb-transform-more-people-allow-you-to-grow-faster/
 
-3. Musk's attempts to politicize his Grok AI are bad for users and enterprises — here's why
-Link: https://venturebeat.com/ai/musks-attempts-to-politicize-his-grok-ai-are-bad-for-users-and-enterprises-heres-why/
+3. Stanford's ChatEHR allows clinicians to query patient medical records using natural language, without compromising patient data
+Link: https://venturebeat.com/ai/stanfords-chatehr-allows-clinicians-to-query-patient-medical-records-using-natural-language-without-compromising-patient-data/
 
-4. How CISOs became the gatekeepers of $309B AI infrastructure spending
+4. What’s inside Genspark? A new vibe working approach that ditches rigid workflows for autonomous agents
+Link: https://venturebeat.com/ai/whats-inside-genspark-a-new-vibe-working-approach-that-ditches-rigid-workflows-for-autonomous-agents/
+
+5. How CISOs became the gatekeepers of $309B AI infrastructure spending
 Link: https://venturebeat.com/ai/agenticops-and-the-race-to-control-enterprise-ai/
-
-5. Emergence AI’s CRAFT arrives to make it easy for enterprises to automate their entire data pipeline
-Link: https://venturebeat.com/data-infrastructure/emergence-ais-craft-arrives-to-make-it-easy-for-enterprises-to-automate-their-entire-data-pipeline/
 
