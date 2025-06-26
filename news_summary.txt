@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-25 18:29:07
+Daily News Summary - 2025-06-26 09:22:26
 ==================================================
 
-1. 'Sandbox first’: Andrew Ng’s blueprint for accelerating enterprise AI innovation
-Link: https://venturebeat.com/ai/sandbox-first-andrew-ngs-blueprint-for-accelerating-enterprise-ai-innovation/
+1. Forget about AI costs: Google just changed the game with open-source Gemini CLI that will be free for most developers
+Link: https://venturebeat.com/ai/google-is-redefining-enterprise-ai-economics-with-open-source-gemini-cli-that-will-be-free-for-the-majority-of-developers/
 
-2. Windsurf CEO Varun Mohan throws cold water on 1-person, billion-dollar startup idea at VB Transform: 'more people allow you to grow faster'
-Link: https://venturebeat.com/programming-development/windsurf-ceo-varun-mohan-throws-cold-water-on-1-person-billion-dollar-startup-idea-at-vb-transform-more-people-allow-you-to-grow-faster/
+2. Anthropic just made every Claude user a no-code app developer
+Link: https://venturebeat.com/ai/anthropic-just-made-every-claude-user-a-no-code-app-developer/
 
-3. Stanford's ChatEHR allows clinicians to query patient medical records using natural language, without compromising patient data
-Link: https://venturebeat.com/ai/stanfords-chatehr-allows-clinicians-to-query-patient-medical-records-using-natural-language-without-compromising-patient-data/
-
-4. The new AI infrastructure reality: Bring compute to data, not data to compute
+3. The new AI infrastructure reality: Bring compute to data, not data to compute
 Link: https://venturebeat.com/data-infrastructure/the-new-ai-infrastructure-reality-bring-compute-to-data-not-data-to-compute/
 
-5. Anthropic just made every Claude user a no-code app developer
-Link: https://venturebeat.com/ai/anthropic-just-made-every-claude-user-a-no-code-app-developer/
+4. IBM sees enterprise customers are using ‘everything’ when it comes to AI, the challenge is matching the LLM to the right use case
+Link: https://venturebeat.com/ai/ibm-sees-enterprise-customers-are-using-everything-when-it-comes-to-ai-the-challenge-is-matching-the-llm-to-the-right-use-case/
+
+5. For Replit’s CEO, the future of software is ‘agents all the way down’
+Link: https://venturebeat.com/ai/for-replits-ceo-the-future-of-software-is-agents-all-the-way-down/
 
