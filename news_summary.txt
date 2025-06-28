@@ -1,8 +1,8 @@
-Daily News Summary - 2025-06-27 18:27:57
+Daily News Summary - 2025-06-28 09:21:08
 ==================================================
 
-1. Lessons learned from agentic AI leaders reveal critical deployment strategies for enterprises
-Link: https://venturebeat.com/ai/lessons-learned-from-agentic-ai-leaders-reveal-critical-deployment-strategies-for-enterprises/
+1. VentureBeat Special Issue - The Real Cost of AI
+Link: https://venturebeat.com/venturebeat-special-issue-the-real-cost-of-ai/
 
 2. Walmart cracks enterprise AI at scale: Thousands of use cases, one framework
 Link: https://venturebeat.com/ai/walmarts-enterprise-ai-blueprint-trust-engineering-at-scale/
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/walmarts-enterprise-ai-blueprint-trust-engineer
 3. What enterprise leaders can learn from LinkedIn’s success with AI agents
 Link: https://venturebeat.com/ai/what-enterprise-leaders-can-learn-from-linkedins-success-with-ai-agents/
 
-4. OpenAI’s API lead explains how enterprises are already succeeding with its Agents SDK and Responses API
-Link: https://venturebeat.com/programming-development/openais-api-lead-explains-how-enterprises-are-already-succeeding-with-its-agents-sdk-and-responses-api/
+4. Catio wins ‘coolest tech’ award at VB Transform 2025
+Link: https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/
 
-5. How Highmark Health and Google Cloud are using Gen AI to streamline medical claims and improve care: 6 key lessons
-Link: https://venturebeat.com/ai/how-highmark-health-and-google-cloud-are-using-gen-ai-to-streamline-medical-claims-and-improve-care-6-key-lessons/
+5. Retail Resurrection: David’s Bridal bets its future on AI after double bankruptcy
+Link: https://venturebeat.com/ai/retail-resurrection-davids-bridal-bets-its-future-on-ai-after-double-bankruptcy/
 
