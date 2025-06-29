@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-29 09:19:52
+Daily News Summary - 2025-06-29 18:25:49
 ==================================================
 
 1. VentureBeat Special Issue - The Real Cost of AI
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-
 3. AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows
 Link: https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/
 
-4. Catio wins ‘coolest tech’ award at VB Transform 2025
-Link: https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/
+4. Identity theft hits 1.1M reports — and authentication fatigue is only getting worse
+Link: https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/
 
-5. Retail Resurrection: David’s Bridal bets its future on AI after double bankruptcy
-Link: https://venturebeat.com/ai/retail-resurrection-davids-bridal-bets-its-future-on-ai-after-double-bankruptcy/
+5. Catio wins ‘coolest tech’ award at VB Transform 2025
+Link: https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/
 
