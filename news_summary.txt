@@ -1,18 +1,18 @@
-Daily News Summary - 2025-06-29 18:25:49
+Daily News Summary - 2025-06-30 09:23:53
 ==================================================
 
 1. VentureBeat Special Issue - The Real Cost of AI
 Link: https://venturebeat.com/venturebeat-special-issue-the-real-cost-of-ai/
 
-2. From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
-Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
-
-3. AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows
-Link: https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/
-
-4. Identity theft hits 1.1M reports — and authentication fatigue is only getting worse
+2. Identity theft hits 1.1M reports — and authentication fatigue is only getting worse
 Link: https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/
 
-5. Catio wins ‘coolest tech’ award at VB Transform 2025
-Link: https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/
+3. From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
+Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
+
+4. Between utopia and collapse: Navigating AI’s murky middle future
+Link: https://venturebeat.com/ai/between-utopia-and-collapse-navigating-ais-murky-middle-future/
+
+5. AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows
+Link: https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/
 
