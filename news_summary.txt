@@ -1,4 +1,4 @@
-Daily News Summary - 2025-06-30 18:28:34
+Daily News Summary - 2025-07-01 09:23:37
 ==================================================
 
 1. VentureBeat Special Issue - The Real Cost of AI
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-auth
 3. From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
 Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
 
-4. The first step in modernization: Ditching technical debt
-Link: https://venturebeat.com/data-infrastructure/the-first-step-in-modernization-ditching-technical-debt/
+4. Kayak and Expedia race to build AI travel agents that turn social posts into itineraries
+Link: https://venturebeat.com/ai/kayak-and-expedia-race-to-build-ai-travel-agents-that-turn-social-posts-into-itineraries/
 
-5. Between utopia and collapse: Navigating AI’s murky middle future
-Link: https://venturebeat.com/ai/between-utopia-and-collapse-navigating-ais-murky-middle-future/
+5. From chatbots to collaborators: How AI agents are reshaping enterprise work
+Link: https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work/
 
