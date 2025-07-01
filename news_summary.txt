@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-01 09:23:37
+Daily News Summary - 2025-07-01 18:28:14
 ==================================================
 
 1. VentureBeat Special Issue - The Real Cost of AI
@@ -10,9 +10,9 @@ Link: https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-auth
 3. From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
 Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
 
-4. Kayak and Expedia race to build AI travel agents that turn social posts into itineraries
-Link: https://venturebeat.com/ai/kayak-and-expedia-race-to-build-ai-travel-agents-that-turn-social-posts-into-itineraries/
+4. Jurny and Visual Matrix Partner to Bring Fully Autonomous Guest Experience to More Than 300,000 Hotel Rooms Worldwide
+Link: https://venturebeat.com/business/jurny-and-visual-matrix-partner-to-bring-fully-autonomous-guest-experience-to-more-than-300000-hotel-rooms-worldwide/
 
-5. From chatbots to collaborators: How AI agents are reshaping enterprise work
-Link: https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work/
+5. CommBox Declares the End of Traditional Websites with the Launch of CommSite
+Link: https://venturebeat.com/business/commbox-declares-the-end-of-traditional-websites-with-the-launch-of-commsite/
 
