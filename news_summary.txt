@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-02 09:23:27
+Daily News Summary - 2025-07-02 18:28:46
 ==================================================
 
 1. VentureBeat Special Issue - The Real Cost of AI
@@ -10,9 +10,21 @@ Link: https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-auth
 3. From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
 Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
 
-4. Capital One builds agentic AI modeled after its own org chart to supercharge auto sales
-Link: https://venturebeat.com/ai/capital-one-builds-agentic-ai-modeled-after-its-own-org-chart-to-supercharge-auto-sales/
+4. Confidence in agentic AI: Why eval infrastructure must come first
+Link: https://venturebeat.com/ai/confidence-in-agentic-ai-why-eval-infrastructure-must-come-first/
 
-5. Enterprise giants Atlassian, Intuit, and AWS are planning for a world where agents call the APIs
-Link: https://venturebeat.com/ai/enterprise-giants-atlassian-intuit-and-aws-are-planning-for-a-world-where-agents-call-the-apis/
+5. Transform 2025: Why observability is critical for AI agent ecosystems
+Link: https://venturebeat.com/ai/transform-2025-why-observability-is-critical-for-ai-agent-ecosystems/
+
+6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
+Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
+
+7. $450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch
+Link: https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/
+
+8. Watch: When did iPads get as expensive as MacBooks?
+Link: https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/
+
+9. Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch
+Link: https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/
 
