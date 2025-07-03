@@ -1,14 +1,14 @@
-Daily News Summary - 2025-07-02 18:28:46
+Daily News Summary - 2025-07-03 09:22:21
 ==================================================
 
 1. VentureBeat Special Issue - The Real Cost of AI
 Link: https://venturebeat.com/venturebeat-special-issue-the-real-cost-of-ai/
 
-2. Identity theft hits 1.1M reports — and authentication fatigue is only getting worse
-Link: https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/
+2. From 30 days to 1: Chevron's cloud migration ROI in real numbers
+Link: https://venturebeat.com/data-infrastructure/from-30-days-to-1-chevrons-cloud-migration-roi-in-real-numbers/
 
-3. From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways
-Link: https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
+3. Enterprise giants Atlassian, Intuit, and AWS are planning for a world where agents call the APIs
+Link: https://venturebeat.com/ai/enterprise-giants-atlassian-intuit-and-aws-are-planning-for-a-world-where-agents-call-the-apis/
 
 4. Confidence in agentic AI: Why eval infrastructure must come first
 Link: https://venturebeat.com/ai/confidence-in-agentic-ai-why-eval-infrastructure-must-come-first/
