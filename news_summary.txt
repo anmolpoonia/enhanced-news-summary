@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-03 18:28:20
+Daily News Summary - 2025-07-04 09:22:27
 ==================================================
 
 1. Confidence in agentic AI: Why eval infrastructure must come first
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/capital-one-builds-agentic-ai-to-supercharge-au
 3. VentureBeat Special Issue - The Real Cost of AI
 Link: https://venturebeat.com/venturebeat-special-issue-the-real-cost-of-ai/
 
-4. Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking
-Link: https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/
+4. Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%
+Link: https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/
 
-5. HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH
-Link: https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/
+5. Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking
+Link: https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
