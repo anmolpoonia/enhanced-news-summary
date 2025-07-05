@@ -2,5 +2,5 @@ Top 5 Words in News Titles:
 new: 252 mentions
 model: 152 mentions
 enterprise: 142 mentions
-just: 129 mentions
+just: 130 mentions
 openai: 128 mentions
