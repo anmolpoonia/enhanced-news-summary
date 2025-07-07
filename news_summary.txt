@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-06 18:26:12
+Daily News Summary - 2025-07-07 09:24:25
 ==================================================
 
 1. Data everywhere, alignment nowhere: What dashboards are getting wrong, and why you need a data product manager
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-a
 3. HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH
 Link: https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/
 
-4. Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%
-Link: https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/
+4. Forget the hype — real AI agents solve bounded problems, not open-world fantasies
+Link: https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/
 
-5. Confidence in agentic AI: Why eval infrastructure must come first
-Link: https://venturebeat.com/ai/confidence-in-agentic-ai-why-eval-infrastructure-must-come-first/
+5. Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%
+Link: https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
