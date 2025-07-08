@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-08 09:23:04
+Daily News Summary - 2025-07-08 18:28:44
 ==================================================
 
 1. Elon Musk's 'truth-seeking' Grok AI peddles conspiracy theories about Jewish control of media
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/new-1-5b-router-model-achieves-93-accuracy-with
 3. Why CISOs are making the SASE switch: Fewer vendors, smarter security, better AI guardrails
 Link: https://venturebeat.com/security/facing-ai-powered-threats-cisos-consolidate-around-single-vendor-sase/
 
-4. How Capital One built production multi-agent AI workflows to power enterprise use cases
-Link: https://venturebeat.com/ai/how-capital-one-built-production-multi-agent-ai-workflows-to-power-enterprise-use-cases/
+4. Sundial Raises $23M to Redefine Data-informed Decisions with AI
+Link: https://venturebeat.com/business/sundial-raises-23m-to-redefine-data-informed-decisions-with-ai/
 
-5. Cracking AI’s storage bottleneck and supercharging inference at the edge
-Link: https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/
+5. Kanverse.ai Deepens Oracle Partnership with Launch on Oracle Cloud Marketplace
+Link: https://venturebeat.com/business/kanverse-ai-deepens-oracle-partnership-with-launch-on-oracle-cloud-marketplace/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
