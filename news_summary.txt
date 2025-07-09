@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-08 18:28:44
+Daily News Summary - 2025-07-09 09:23:40
 ==================================================
 
-1. Elon Musk's 'truth-seeking' Grok AI peddles conspiracy theories about Jewish control of media
-Link: https://venturebeat.com/ai/elon-musks-truth-seeking-grok-ai-peddles-conspiracy-theories-about-jewish-control-of-media/
+1. MCP isn’t KYC-ready: Why regulated sectors are wary of open agent exchanges
+Link: https://venturebeat.com/ai/mcp-isnt-kyc-ready-why-regulated-sectors-are-wary-of-open-agent-exchanges/
 
-2. New 1.5B router model achieves 93% accuracy without costly retraining
-Link: https://venturebeat.com/ai/new-1-5b-router-model-achieves-93-accuracy-without-costly-retraining/
+2. Chinese researchers unveil MemOS, the first 'memory operating system' that gives AI human-like recall
+Link: https://venturebeat.com/ai/chinese-researchers-unveil-memos-the-first-memory-operating-system-that-gives-ai-human-like-recall/
 
-3. Why CISOs are making the SASE switch: Fewer vendors, smarter security, better AI guardrails
-Link: https://venturebeat.com/security/facing-ai-powered-threats-cisos-consolidate-around-single-vendor-sase/
+3. As AI use expands, platforms like Brain Max seek to simplify cross-app integration
+Link: https://venturebeat.com/ai/as-ai-use-expands-platforms-like-brainmax-seek-to-simplify-cross-app-integration/
 
-4. Sundial Raises $23M to Redefine Data-informed Decisions with AI
+4. Hugging Face just launched a $299 robot that could disrupt the entire robotics industry
+Link: https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/
+
+5. Sundial Raises $23M to Redefine Data-informed Decisions with AI
 Link: https://venturebeat.com/business/sundial-raises-23m-to-redefine-data-informed-decisions-with-ai/
-
-5. Kanverse.ai Deepens Oracle Partnership with Launch on Oracle Cloud Marketplace
-Link: https://venturebeat.com/business/kanverse-ai-deepens-oracle-partnership-with-launch-on-oracle-cloud-marketplace/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
