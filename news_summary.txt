@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-09 18:29:33
+Daily News Summary - 2025-07-10 09:23:58
 ==================================================
 
 1. Hugging Face just launched a $299 robot that could disrupt the entire robotics industry
 Link: https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/
 
-2. MCP isn’t KYC-ready: Why regulated sectors are wary of open agent exchanges
-Link: https://venturebeat.com/ai/mcp-isnt-kyc-ready-why-regulated-sectors-are-wary-of-open-agent-exchanges/
+2. Don't wait for a 'bake-off': How Intuit and Amex beat competitors to production AI agents
+Link: https://venturebeat.com/ai/dont-wait-for-a-bake-off-how-intuit-and-amex-beat-competitors-to-production-ai-agents/
 
-3. As AI use expands, platforms like Brain Max seek to simplify cross-app integration
-Link: https://venturebeat.com/ai/as-ai-use-expands-platforms-like-brainmax-seek-to-simplify-cross-app-integration/
+3. Announcing the winners of VentureBeat’s 7th Annual Women in AI awards
+Link: https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-7th-annual-women-in-ai-awards/
 
-4. Moving beyond AI agent hype: The execution gap that’s holding enterprises back
+4. Open vs. closed models: AI leaders from GM, Zoom and IBM weigh trade-offs for enterprise use
+Link: https://venturebeat.com/ai/open-vs-closed-models-ai-leaders-from-gm-zoom-and-ibm-weigh-trade-offs-for-enterprise-use/
+
+5. Moving beyond AI agent hype: The execution gap that’s holding enterprises back
 Link: https://venturebeat.com/ai/moving-beyond-ai-agent-hype-the-execution-gap-thats-holding-enterprises-back/
-
-5. Hohem’s AI Tracking iSteady M7 Gimbal Drops to $239 for Prime Day
-Link: https://venturebeat.com/business/hohems-ai-tracking-isteady-m7-gimbal-drops-to-239-for-prime-day/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
