@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-10 18:29:15
+Daily News Summary - 2025-07-11 09:22:35
 ==================================================
 
-1. Elon Musk introduced Grok 4 last night, calling it the 'smartest AI in the world' — what businesses need to know
-Link: https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/
+1. $8.8 trillion protected: How one CISO went from 'that's BS' to bulletproof in 90 days
+Link: https://venturebeat.com/security/ciso-dodges-bullet-protecting-8-8-trillion-from-shadow-ai/
 
-2. Hugging Face just launched a $299 robot that could disrupt the entire robotics industry
-Link: https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/
-
-3. Open vs. closed models: AI leaders from GM, Zoom and IBM weigh trade-offs for enterprise use
+2. Open vs. closed models: AI leaders from GM, Zoom and IBM weigh trade-offs for enterprise use
 Link: https://venturebeat.com/ai/open-vs-closed-models-ai-leaders-from-gm-zoom-and-ibm-weigh-trade-offs-for-enterprise-use/
 
-4. Data governance: The contract layer that makes agentic systems possible
-Link: https://venturebeat.com/ai/data-governance-the-contract-layer-that-makes-agentic-systems-possible/
+3. Elon Musk introduced Grok 4 last night, calling it the 'smartest AI in the world' — what businesses need to know
+Link: https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/
 
-5. Employee AI agent adoption: Maximizing gains while navigating challenges
-Link: https://venturebeat.com/ai/employee-ai-agent-adoption-maximizing-gains-while-navigating-challenges/
+4. AWS doubles down on infrastructure as strategy in the AI race with SageMaker upgrades
+Link: https://venturebeat.com/ai/aws-doubles-down-on-infrastructure-as-strategy-in-the-ai-race-with-sagemaker-upgrades/
+
+5. Data governance: The contract layer that makes agentic systems possible
+Link: https://venturebeat.com/ai/data-governance-the-contract-layer-that-makes-agentic-systems-possible/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
