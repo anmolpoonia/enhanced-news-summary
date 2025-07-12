@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-11 18:28:49
+Daily News Summary - 2025-07-12 09:20:22
 ==================================================
 
-1. $8.8 trillion protected: How one CISO went from 'that's BS' to bulletproof in 90 days
+1. Moonshot AI’s Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free
+Link: https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/
+
+2. A new paradigm for AI: How 'thinking as optimization' leads to better general-purpose models
+Link: https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/
+
+3. The great AI agent acceleration: Why enterprise adoption is happening faster than anyone predicted
+Link: https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted/
+
+4. Solo.io wins ‘most likely to succeed’ award at VB Transform 2025 innovation showcase
+Link: https://venturebeat.com/ai/solo-io-wins-most-likely-to-succeed-award-at-vb-transform-2025-innovation-showcase/
+
+5. $8.8 trillion protected: How one CISO went from ‘that’s BS’ to bulletproof in 90 days
 Link: https://venturebeat.com/security/ciso-dodges-bullet-protecting-8-8-trillion-from-shadow-ai/
-
-2. Open vs. closed models: AI leaders from GM, Zoom and IBM weigh trade-offs for enterprise use
-Link: https://venturebeat.com/ai/open-vs-closed-models-ai-leaders-from-gm-zoom-and-ibm-weigh-trade-offs-for-enterprise-use/
-
-3. Elon Musk introduced Grok 4 last night, calling it the 'smartest AI in the world' — what businesses need to know
-Link: https://venturebeat.com/ai/elon-musk-introduced-grok-4-last-night-calling-it-the-smartest-ai-in-the-world-what-businesses-need-to-know/
-
-4. AWS doubles down on infrastructure as strategy in the AI race with SageMaker upgrades
-Link: https://venturebeat.com/ai/aws-doubles-down-on-infrastructure-as-strategy-in-the-ai-race-with-sagemaker-upgrades/
-
-5. Data governance: The contract layer that makes agentic systems possible
-Link: https://venturebeat.com/ai/data-governance-the-contract-layer-that-makes-agentic-systems-possible/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
