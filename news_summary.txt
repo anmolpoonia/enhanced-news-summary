@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-12 18:26:43
+Daily News Summary - 2025-07-13 09:21:57
 ==================================================
 
-1. Moonshot AI’s Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free
-Link: https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/
+1. Building voice AI that listens to everyone: Transfer learning and synthetic speech in action
+Link: https://venturebeat.com/ai/building-voice-ai-that-listens-to-everyone-transfer-learning-and-synthetic-speech-in-action/
 
-2. A new paradigm for AI: How 'thinking as optimization' leads to better general-purpose models
-Link: https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/
-
-3. The great AI agent acceleration: Why enterprise adoption is happening faster than anyone predicted
+2. The great AI agent acceleration: Why enterprise adoption is happening faster than anyone predicted
 Link: https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted/
 
-4. Solo.io wins ‘most likely to succeed’ award at VB Transform 2025 innovation showcase
+3. Solo.io wins ‘most likely to succeed’ award at VB Transform 2025 innovation showcase
 Link: https://venturebeat.com/ai/solo-io-wins-most-likely-to-succeed-award-at-vb-transform-2025-innovation-showcase/
 
-5. $8.8 trillion protected: How one CISO went from ‘that’s BS’ to bulletproof in 90 days
-Link: https://venturebeat.com/security/ciso-dodges-bullet-protecting-8-8-trillion-from-shadow-ai/
+4. Moonshot AI’s Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free
+Link: https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/
+
+5. A new paradigm for AI: How ‘thinking as optimization’ leads to better general-purpose models
+Link: https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
