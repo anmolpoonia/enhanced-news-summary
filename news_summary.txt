@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-14 09:28:57
+Daily News Summary - 2025-07-14 18:31:24
 ==================================================
 
 1. The human harbor: Navigating identity and meaning in the AI age
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/programming-development/stop-vetting-engineers-lik
 3. Building voice AI that listens to everyone: Transfer learning and synthetic speech in action
 Link: https://venturebeat.com/ai/building-voice-ai-that-listens-to-everyone-transfer-learning-and-synthetic-speech-in-action/
 
-4. Moonshot AI’s Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free
-Link: https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/
+4. AI’s fourth wave is here — are enterprises ready for what’s next?
+Link: https://venturebeat.com/ai/ais-fourth-wave-is-here-are-enterprises-ready-for-whats-next/
 
-5. A new paradigm for AI: How ‘thinking as optimization’ leads to better general-purpose models
-Link: https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/
+5. Aviva Biopharm Inc. Unveils Groundbreaking Pre-Clinical Data on d3-T, a First-in-Class Testosterone Therapy for Women at ENDO 2025
+Link: https://venturebeat.com/business/aviva-biopharm-inc-unveils-groundbreaking-pre-clinical-data-on-d3-t-a-first-in-class-testosterone-therapy-for-women-at-endo-2025/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
