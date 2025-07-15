@@ -1,17 +1,17 @@
-Daily News Summary - 2025-07-14 18:31:24
+Daily News Summary - 2025-07-15 09:30:01
 ==================================================
 
-1. The human harbor: Navigating identity and meaning in the AI age
-Link: https://venturebeat.com/ai/the-human-harbor-navigating-identity-and-meaning-in-the-ai-age/
-
-2. Stop vetting engineers like it’s 2021 — the AI-native workforce has arrived
-Link: https://venturebeat.com/programming-development/stop-vetting-engineers-like-its-2021-the-ai-native-workforce-has-arrived/
-
-3. Building voice AI that listens to everyone: Transfer learning and synthetic speech in action
-Link: https://venturebeat.com/ai/building-voice-ai-that-listens-to-everyone-transfer-learning-and-synthetic-speech-in-action/
-
-4. AI’s fourth wave is here — are enterprises ready for what’s next?
+1. AI’s fourth wave is here -- are enterprises ready for what’s next?
 Link: https://venturebeat.com/ai/ais-fourth-wave-is-here-are-enterprises-ready-for-whats-next/
+
+2. Amazon launches Kiro, its own Claude-powered challenger to Windsurf and Codex
+Link: https://venturebeat.com/programming-development/amazon-launches-kiro-its-own-claude-powered-challenger-to-windsurf-and-codex/
+
+3. Remaining Windsurf team and tech acquired by Cognition, makers of Devin: 'We're friends with Anthropic again'
+Link: https://venturebeat.com/programming-development/remaining-windsurf-team-and-tech-acquired-by-cognition-makers-of-devin-were-friends-with-anthropic-again/
+
+4. Oncomatryx Biopharma Awarded €12.5 Million EIC Accelerator Funding to Advance Groundbreaking ADCs
+Link: https://venturebeat.com/business/oncomatryx-biopharma-awarded-e12-5-million-eic-accelerator-funding-to-advance-groundbreaking-adcs/
 
 5. Aviva Biopharm Inc. Unveils Groundbreaking Pre-Clinical Data on d3-T, a First-in-Class Testosterone Therapy for Women at ENDO 2025
 Link: https://venturebeat.com/business/aviva-biopharm-inc-unveils-groundbreaking-pre-clinical-data-on-d3-t-a-first-in-class-testosterone-therapy-for-women-at-endo-2025/
