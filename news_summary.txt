@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-15 09:30:01
+Daily News Summary - 2025-07-15 18:31:19
 ==================================================
 
-1. AI’s fourth wave is here -- are enterprises ready for what’s next?
-Link: https://venturebeat.com/ai/ais-fourth-wave-is-here-are-enterprises-ready-for-whats-next/
+1. Anthropic launches finance-specific Claude with built-in data connectors, higher limits and prompt libraries
+Link: https://venturebeat.com/ai/financial-firms-get-a-purpose-built-claude-as-anthropic-bets-on-vertical-ai-platforms/
 
-2. Amazon launches Kiro, its own Claude-powered challenger to Windsurf and Codex
+2. Perplexity offers free AI tools to students worldwide in partnership with SheerID
+Link: https://venturebeat.com/ai/perplexity-offers-free-ai-tools-to-students-worldwide-in-partnership-with-sheerid/
+
+3. Amazon launches Kiro, its own Claude-powered challenger to Windsurf and Codex
 Link: https://venturebeat.com/programming-development/amazon-launches-kiro-its-own-claude-powered-challenger-to-windsurf-and-codex/
 
-3. Remaining Windsurf team and tech acquired by Cognition, makers of Devin: 'We're friends with Anthropic again'
-Link: https://venturebeat.com/programming-development/remaining-windsurf-team-and-tech-acquired-by-cognition-makers-of-devin-were-friends-with-anthropic-again/
+4. Finally, a dev kit for designing on-device, mobile AI apps is here: Liquid AI’s LEAP
+Link: https://venturebeat.com/ai/finally-a-dev-kit-for-designing-on-device-mobile-ai-apps-is-here-liquid-ais-leap/
 
-4. Oncomatryx Biopharma Awarded €12.5 Million EIC Accelerator Funding to Advance Groundbreaking ADCs
-Link: https://venturebeat.com/business/oncomatryx-biopharma-awarded-e12-5-million-eic-accelerator-funding-to-advance-groundbreaking-adcs/
-
-5. Aviva Biopharm Inc. Unveils Groundbreaking Pre-Clinical Data on d3-T, a First-in-Class Testosterone Therapy for Women at ENDO 2025
-Link: https://venturebeat.com/business/aviva-biopharm-inc-unveils-groundbreaking-pre-clinical-data-on-d3-t-a-first-in-class-testosterone-therapy-for-women-at-endo-2025/
+5. Cutting through the chaos: Why AI needs a unified platform
+Link: https://venturebeat.com/ai/cutting-through-the-chaos-why-ai-needs-a-unified-platform/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
