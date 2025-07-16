@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-16 09:26:49
+Daily News Summary - 2025-07-16 18:30:37
 ==================================================
 
-1. OpenAI, Google DeepMind and Anthropic sound alarm: 'We may be losing the ability to understand AI'
-Link: https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/
+1. Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems
+Link: https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/
 
-2. Mira Murati says her startup Thinking Machines will release new product in 'months' with 'significant open source component'
-Link: https://venturebeat.com/ai/mira-murati-says-her-startup-thinking-machines-will-release-new-product-in-months-with-significant-open-source-component/
+2. OpenAI, Google DeepMind and Anthropic sound alarm: 'We may be losing the ability to understand AI'
+Link: https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/
 
 3. Mistral’s Voxtral goes beyond transcription with summarization, speech-triggered functions
 Link: https://venturebeat.com/ai/mistrals-voxtral-goes-beyond-transcription-with-summarization-speech-triggered-functions/
 
-4. Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems
-Link: https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/
+4. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
+Link: https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/
 
-5. Finally, a dev kit for designing on-device, mobile AI apps is here: Liquid AI’s LEAP
-Link: https://venturebeat.com/ai/finally-a-dev-kit-for-designing-on-device-mobile-ai-apps-is-here-liquid-ais-leap/
+5. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
+Link: https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
