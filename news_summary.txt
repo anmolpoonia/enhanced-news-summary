@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-15 18:31:19
+Daily News Summary - 2025-07-16 09:26:49
 ==================================================
 
-1. Anthropic launches finance-specific Claude with built-in data connectors, higher limits and prompt libraries
-Link: https://venturebeat.com/ai/financial-firms-get-a-purpose-built-claude-as-anthropic-bets-on-vertical-ai-platforms/
+1. OpenAI, Google DeepMind and Anthropic sound alarm: 'We may be losing the ability to understand AI'
+Link: https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/
 
-2. Perplexity offers free AI tools to students worldwide in partnership with SheerID
-Link: https://venturebeat.com/ai/perplexity-offers-free-ai-tools-to-students-worldwide-in-partnership-with-sheerid/
+2. Mira Murati says her startup Thinking Machines will release new product in 'months' with 'significant open source component'
+Link: https://venturebeat.com/ai/mira-murati-says-her-startup-thinking-machines-will-release-new-product-in-months-with-significant-open-source-component/
 
-3. Amazon launches Kiro, its own Claude-powered challenger to Windsurf and Codex
-Link: https://venturebeat.com/programming-development/amazon-launches-kiro-its-own-claude-powered-challenger-to-windsurf-and-codex/
+3. Mistral’s Voxtral goes beyond transcription with summarization, speech-triggered functions
+Link: https://venturebeat.com/ai/mistrals-voxtral-goes-beyond-transcription-with-summarization-speech-triggered-functions/
 
-4. Finally, a dev kit for designing on-device, mobile AI apps is here: Liquid AI’s LEAP
+4. Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems
+Link: https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/
+
+5. Finally, a dev kit for designing on-device, mobile AI apps is here: Liquid AI’s LEAP
 Link: https://venturebeat.com/ai/finally-a-dev-kit-for-designing-on-device-mobile-ai-apps-is-here-liquid-ais-leap/
-
-5. Cutting through the chaos: Why AI needs a unified platform
-Link: https://venturebeat.com/ai/cutting-through-the-chaos-why-ai-needs-a-unified-platform/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
