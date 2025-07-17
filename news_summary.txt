@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-17 09:25:42
+Daily News Summary - 2025-07-17 18:30:21
 ==================================================
 
-1. Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems
-Link: https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/
+1. OpenAI unveils 'ChatGPT agent' that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you
+Link: https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/
 
-2. OpenAI, Google DeepMind and Anthropic sound alarm: 'We may be losing the ability to understand AI'
-Link: https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/
-
-3. Mistral’s Voxtral goes beyond transcription with summarization, speech-triggered functions
-Link: https://venturebeat.com/ai/mistrals-voxtral-goes-beyond-transcription-with-summarization-speech-triggered-functions/
-
-4. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
+2. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
 Link: https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/
 
-5. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
+3. Slack gets smarter: New AI tools summarize chats, explain jargon, and automate work
+Link: https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats-explain-jargon-and-automate-work/
+
+4. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
 Link: https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/
+
+5. Addition Wealth Announces AI-Powered B2B Financial Wellness Platform For Enterprises
+Link: https://venturebeat.com/business/addition-wealth-announces-ai-powered-b2b-financial-wellness-platform-for-enterprises/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
