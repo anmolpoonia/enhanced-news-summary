@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-17 18:30:21
+Daily News Summary - 2025-07-18 09:25:46
 ==================================================
 
 1. OpenAI unveils 'ChatGPT agent' that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as
 3. Slack gets smarter: New AI tools summarize chats, explain jargon, and automate work
 Link: https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats-explain-jargon-and-automate-work/
 
-4. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
-Link: https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/
+4. Mistral’s Le Chat adds deep research agent and voice mode to challenge OpenAI’s enterprise dominance
+Link: https://venturebeat.com/ai/mistrals-le-chat-adds-deep-research-agent-and-voice-mode-to-challenge-openais-enterprise-dominance/
 
-5. Addition Wealth Announces AI-Powered B2B Financial Wellness Platform For Enterprises
-Link: https://venturebeat.com/business/addition-wealth-announces-ai-powered-b2b-financial-wellness-platform-for-enterprises/
+5. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
+Link: https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
