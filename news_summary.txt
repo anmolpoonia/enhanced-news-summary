@@ -1,8 +1,8 @@
-Daily News Summary - 2025-07-18 09:25:46
+Daily News Summary - 2025-07-18 18:29:27
 ==================================================
 
-1. OpenAI unveils 'ChatGPT agent' that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you
-Link: https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/
+1. Salesforce used AI to cut support load by 5% — but the real win was teaching bots to say 'I’m sorry'
+Link: https://venturebeat.com/ai/salesforce-used-ai-to-cut-support-load-by-5-but-the-real-win-was-teaching-bots-to-say-im-sorry/
 
 2. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
 Link: https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/
@@ -13,8 +13,8 @@ Link: https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats
 4. Mistral’s Le Chat adds deep research agent and voice mode to challenge OpenAI’s enterprise dominance
 Link: https://venturebeat.com/ai/mistrals-le-chat-adds-deep-research-agent-and-voice-mode-to-challenge-openais-enterprise-dominance/
 
-5. AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools
-Link: https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/
+5. OpenAI unveils ‘ChatGPT agent’ that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you
+Link: https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
