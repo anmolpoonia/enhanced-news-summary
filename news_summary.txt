@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-18 18:29:27
+Daily News Summary - 2025-07-19 09:20:42
 ==================================================
 
-1. Salesforce used AI to cut support load by 5% — but the real win was teaching bots to say 'I’m sorry'
-Link: https://venturebeat.com/ai/salesforce-used-ai-to-cut-support-load-by-5-but-the-real-win-was-teaching-bots-to-say-im-sorry/
+1. How OpenAI's red team made ChatGPT agent into an AI fortress
+Link: https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
 
-2. Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard
-Link: https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/
+2. Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps
+Link: https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/
 
-3. Slack gets smarter: New AI tools summarize chats, explain jargon, and automate work
-Link: https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats-explain-jargon-and-automate-work/
-
-4. Mistral’s Le Chat adds deep research agent and voice mode to challenge OpenAI’s enterprise dominance
+3. Mistral's Le Chat adds deep research agent and voice mode to challenge OpenAI's enterprise dominance
 Link: https://venturebeat.com/ai/mistrals-le-chat-adds-deep-research-agent-and-voice-mode-to-challenge-openais-enterprise-dominance/
 
-5. OpenAI unveils ‘ChatGPT agent’ that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you
-Link: https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/
+4. New embedding model leaderboard shakeup: Google takes #1 while Alibaba’s open source alternative closes gap
+Link: https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-1-while-alibabas-open-source-alternative-closes-gap/
+
+5. Salesforce used AI to cut support load by 5% — but the real win was teaching bots to say ‘I’m sorry’
+Link: https://venturebeat.com/ai/salesforce-used-ai-to-cut-support-load-by-5-but-the-real-win-was-teaching-bots-to-say-im-sorry/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
