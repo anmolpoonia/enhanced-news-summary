@@ -1,17 +1,17 @@
-Daily News Summary - 2025-07-19 18:27:56
+Daily News Summary - 2025-07-20 09:21:03
 ==================================================
 
-1. How OpenAI's red team made ChatGPT agent into an AI fortress
+1. 5 key questions your developers should be asking about MCP
+Link: https://venturebeat.com/ai/5-key-questions-your-developers-should-be-asking-about-mcp/
+
+2. How OpenAI's red team made ChatGPT agent into an AI fortress
 Link: https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
 
-2. Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps
-Link: https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/
-
-3. Mistral's Le Chat adds deep research agent and voice mode to challenge OpenAI's enterprise dominance
-Link: https://venturebeat.com/ai/mistrals-le-chat-adds-deep-research-agent-and-voice-mode-to-challenge-openais-enterprise-dominance/
-
-4. New embedding model leaderboard shakeup: Google takes #1 while Alibaba’s open source alternative closes gap
+3. New embedding model leaderboard shakeup: Google takes #1 while Alibaba's open source alternative closes gap
 Link: https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-1-while-alibabas-open-source-alternative-closes-gap/
+
+4. Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps
+Link: https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/
 
 5. Salesforce used AI to cut support load by 5% — but the real win was teaching bots to say ‘I’m sorry’
 Link: https://venturebeat.com/ai/salesforce-used-ai-to-cut-support-load-by-5-but-the-real-win-was-teaching-bots-to-say-im-sorry/
