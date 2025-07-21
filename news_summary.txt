@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-21 09:29:30
+Daily News Summary - 2025-07-21 18:31:43
 ==================================================
 
 1. Weaving reality or warping it? The personalization trap in AI systems
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/5-key-questions-your-developers-should-be-askin
 3. New embedding model leaderboard shakeup: Google takes #1 while Alibaba's open source alternative closes gap
 Link: https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-1-while-alibabas-open-source-alternative-closes-gap/
 
-4. How OpenAI’s red team made ChatGPT agent into an AI fortress
-Link: https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
+4. Fortuna Health Raises $18M Led by Andreessen Horowitz to Modernize Medicaid Access and Infrastructure Amid Federal Reforms
+Link: https://venturebeat.com/business/fortuna-health-raises-18m-led-by-andreessen-horowitz-to-modernize-medicaid-access-and-infrastructure-amid-federal-reforms/
 
-5. Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps
-Link: https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/
+5. Lerer Hippeau Welcomes Angel Investor and Operator Ron Zori to Fund IX as Venture Partner
+Link: https://venturebeat.com/business/lerer-hippeau-welcomes-angel-investor-and-operator-ron-zori-to-fund-ix-as-venture-partner/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
