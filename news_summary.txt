@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-20 18:28:01
+Daily News Summary - 2025-07-21 09:29:30
 ==================================================
 
-1. 5 key questions your developers should be asking about MCP
-Link: https://venturebeat.com/ai/5-key-questions-your-developers-should-be-asking-about-mcp/
+1. Weaving reality or warping it? The personalization trap in AI systems
+Link: https://venturebeat.com/ai/weaving-reality-or-warping-it-the-personalization-trap-in-ai-systems/
 
-2. How OpenAI's red team made ChatGPT agent into an AI fortress
-Link: https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
+2. 5 key questions your developers should be asking about MCP
+Link: https://venturebeat.com/ai/5-key-questions-your-developers-should-be-asking-about-mcp/
 
 3. New embedding model leaderboard shakeup: Google takes #1 while Alibaba's open source alternative closes gap
 Link: https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-1-while-alibabas-open-source-alternative-closes-gap/
 
-4. Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps
-Link: https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/
+4. How OpenAI’s red team made ChatGPT agent into an AI fortress
+Link: https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
 
-5. Salesforce used AI to cut support load by 5% — but the real win was teaching bots to say ‘I’m sorry’
-Link: https://venturebeat.com/ai/salesforce-used-ai-to-cut-support-load-by-5-but-the-real-win-was-teaching-bots-to-say-im-sorry/
+5. Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps
+Link: https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
