@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-22 09:26:38
+Daily News Summary - 2025-07-22 18:31:09
 ==================================================
 
 1. Google DeepMind makes AI history with gold medal win at world's toughest math competition
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/security/how-crowdstrikes-78-minute-outage-reshape
 3. Chinese startup Manus challenges ChatGPT in data visualization: which should enterprises use?
 Link: https://venturebeat.com/data-infrastructure/chinese-startup-manus-challenges-chatgpt-in-data-visualization-which-should-enterprises-use/
 
-4. A ChatGPT ‘router’ that automatically selects the right OpenAI model for your job appears imminent
-Link: https://venturebeat.com/ai/a-chatgpt-router-that-automatically-selects-the-right-openai-model-for-your-job-appears-imminent/
+4. State of Oregon Invests in Meriwether Group Capital’s Hero Fund Following Third-Party Review
+Link: https://venturebeat.com/business/state-of-oregon-invests-in-meriwether-group-capitals-hero-fund-following-third-party-review/
 
-5. Fortuna Health Raises $18M Led by Andreessen Horowitz to Modernize Medicaid Access and Infrastructure Amid Federal Reforms
-Link: https://venturebeat.com/business/fortuna-health-raises-18m-led-by-andreessen-horowitz-to-modernize-medicaid-access-and-infrastructure-amid-federal-reforms/
+5. Provectus Algae Raises $12.6M in Series A Led by At One Ventures and Grant Funding
+Link: https://venturebeat.com/business/provectus-algae-raises-12-6m-in-series-a-led-by-at-one-ventures-and-grant-funding/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
