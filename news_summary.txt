@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-22 18:31:09
+Daily News Summary - 2025-07-23 09:28:06
 ==================================================
 
-1. Google DeepMind makes AI history with gold medal win at world's toughest math competition
-Link: https://venturebeat.com/ai/google-deepmind-makes-ai-history-with-gold-medal-win-at-worlds-toughest-math-competition/
+1. Anthropic researchers discover the weird AI problem: Why thinking longer makes models dumber
+Link: https://venturebeat.com/ai/anthropic-researchers-discover-the-weird-ai-problem-why-thinking-longer-makes-models-dumber/
 
-2. Crowdstrike's massive cyber outage 1-year later: lessons enterprises can learn to improve security
-Link: https://venturebeat.com/security/how-crowdstrikes-78-minute-outage-reshaped-enterprise-cybersecurity/
+2. Mixture-of-recursions delivers 2x faster inference—Here's how to implement it
+Link: https://venturebeat.com/ai/mixture-of-recursions-delivers-2x-faster-inference-heres-how-to-implement-it/
 
-3. Chinese startup Manus challenges ChatGPT in data visualization: which should enterprises use?
-Link: https://venturebeat.com/data-infrastructure/chinese-startup-manus-challenges-chatgpt-in-data-visualization-which-should-enterprises-use/
+3. Alibaba's new open source Qwen3-235B-A22B-2507 beats Kimi-2 and offers low compute version
+Link: https://venturebeat.com/ai/alibabas-new-open-source-qwen3-235b-a22b-2507-beats-kimi-2-and-offers-low-compute-version/
 
-4. State of Oregon Invests in Meriwether Group Capital’s Hero Fund Following Third-Party Review
-Link: https://venturebeat.com/business/state-of-oregon-invests-in-meriwether-group-capitals-hero-fund-following-third-party-review/
+4. Corstasis Therapeutics Announces Appointment of Sanjeev Narula to its Strategic Advisory Board
+Link: https://venturebeat.com/business/corstasis-therapeutics-announces-appointment-of-sanjeev-narula-to-its-strategic-advisory-board/
 
-5. Provectus Algae Raises $12.6M in Series A Led by At One Ventures and Grant Funding
-Link: https://venturebeat.com/business/provectus-algae-raises-12-6m-in-series-a-led-by-at-one-ventures-and-grant-funding/
+5. Intuit brings agentic AI to the mid-market saving organizations 17 to 20 hours a month
+Link: https://venturebeat.com/ai/intuit-brings-agentic-ai-to-the-mid-market-saving-organizations-17-to-20-hours-a-month/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
