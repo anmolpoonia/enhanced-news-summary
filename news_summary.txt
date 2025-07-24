@@ -1,17 +1,17 @@
-Daily News Summary - 2025-07-23 18:30:50
+Daily News Summary - 2025-07-24 09:26:11
 ==================================================
 
-1. Anthropic researchers discover the weird AI problem: Why thinking longer makes models dumber
-Link: https://venturebeat.com/ai/anthropic-researchers-discover-the-weird-ai-problem-why-thinking-longer-makes-models-dumber/
+1. White House plan signals “open-weight first” era—and enterprises need new guardrails
+Link: https://venturebeat.com/ai/white-house-plan-signals-open-weight-first-era-and-enterprises-need-new-guardrails/
 
-2. Mixture-of-recursions delivers 2x faster inference—Here's how to implement it
-Link: https://venturebeat.com/ai/mixture-of-recursions-delivers-2x-faster-inference-heres-how-to-implement-it/
+2. Qwen3-Coder-480B-A35B-Instruct launches and it 'might be the best coding model yet'
+Link: https://venturebeat.com/programming-development/qwen3-coder-480b-a35b-instruct-launches-and-it-might-be-the-best-coding-model-yet/
 
-3. Alibaba's new open source Qwen3-235B-A22B-2507 beats Kimi-2 and offers low compute version
-Link: https://venturebeat.com/ai/alibabas-new-open-source-qwen3-235b-a22b-2507-beats-kimi-2-and-offers-low-compute-version/
-
-4. Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely
+3. Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely
 Link: https://venturebeat.com/ai/former-anthropic-exec-raises-15m-to-insure-ai-agents-and-help-startups-deploy-safely/
+
+4. SecurityPal combines AI and experts in Nepal to speed enterprise security questionnaires by 87X or more
+Link: https://venturebeat.com/security/securitypal-combines-ai-and-experts-in-nepal-to-speed-enterprise-security-questionnaires-by-87x-or-more/
 
 5. Olto Raises $5.1M to Transform B2B Sales with AI, Starting with the World’s First AI Demo Engineer
 Link: https://venturebeat.com/business/olto-raises-5-1m-to-transform-b2b-sales-with-ai-starting-with-the-worlds-first-ai-demo-engineer/
