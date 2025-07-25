@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-24 18:30:52
+Daily News Summary - 2025-07-25 09:25:30
 ==================================================
 
 1. White House plan signals “open-weight first” era—and enterprises need new guardrails
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/programming-development/qwen3-coder-480b-a35b-inst
 3. Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely
 Link: https://venturebeat.com/ai/former-anthropic-exec-raises-15m-to-insure-ai-agents-and-help-startups-deploy-safely/
 
-4. Heritage Group Closes on $370 Million Fourth Fund
-Link: https://venturebeat.com/business/heritage-group-closes-on-370-million-fourth-fund/
+4. Anthropic unveils ‘auditing agents’ to test for AI misalignment
+Link: https://venturebeat.com/ai/anthropic-unveils-auditing-agents-to-test-for-ai-misalignment/
 
-5. MeMed Completes Development of First-Ever Fingerstick Host-Response Test for Rapid Differentiation of Bacterial and Viral Infections
-Link: https://venturebeat.com/business/memed-completes-development-of-first-ever-fingerstick-host-response-test-for-rapid-differentiation-of-bacterial-and-viral-infections/
+5. Freed says 20,000 clinicians are using its medical AI transcription ‘scribe,’ but competition is rising fast
+Link: https://venturebeat.com/ai/freed-says-20000-clinicians-are-using-its-medical-ai-transcription-scribe-but-competition-is-rising-fast/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
