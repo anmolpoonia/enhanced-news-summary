@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-26 18:28:17
+Daily News Summary - 2025-07-27 09:21:21
 ==================================================
 
 1. New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief
 3. It's Qwen's summer: new open source Qwen3-235B-A22B-Thinking-2507 tops OpenAI, Gemini reasoning models on key benchmarks
 Link: https://venturebeat.com/ai/its-qwens-summer-new-open-source-qwen3-235b-a22b-thinking-2507-tops-openai-gemini-reasoning-models-on-key-benchmarks/
 
-4. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
-Link: https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/
+4. Why AI is making us lose our minds (and not in the way you’d think)
+Link: https://venturebeat.com/ai/why-ai-is-making-us-lose-our-minds-and-not-in-the-way-youd-think/
 
-5. Anthropic unveils ‘auditing agents’ to test for AI misalignment
-Link: https://venturebeat.com/ai/anthropic-unveils-auditing-agents-to-test-for-ai-misalignment/
+5. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
+Link: https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
