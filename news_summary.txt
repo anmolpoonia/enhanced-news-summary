@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-27 09:21:21
+Daily News Summary - 2025-07-28 09:29:19
 ==================================================
 
-1. New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples
-Link: https://venturebeat.com/ai/new-ai-architecture-delivers-100x-faster-reasoning-than-llms-with-just-1000-training-examples/
+1. When progress doesn’t feel like home: Why many are hesitant to join the AI migration
+Link: https://venturebeat.com/ai/when-progress-doesnt-feel-like-home-why-many-are-hesitant-to-join-the-ai-migration/
 
-2. Meta announces its Superintelligence Labs Chief Scientist: former OpenAI GPT-4 co-creator Shengjia Zhao
-Link: https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief-scientist-former-openai-gpt-4-co-creator-shengjia-zhao/
-
-3. It's Qwen's summer: new open source Qwen3-235B-A22B-Thinking-2507 tops OpenAI, Gemini reasoning models on key benchmarks
-Link: https://venturebeat.com/ai/its-qwens-summer-new-open-source-qwen3-235b-a22b-thinking-2507-tops-openai-gemini-reasoning-models-on-key-benchmarks/
-
-4. Why AI is making us lose our minds (and not in the way you’d think)
+2. Why AI is making us lose our minds (and not in the way you'd think)
 Link: https://venturebeat.com/ai/why-ai-is-making-us-lose-our-minds-and-not-in-the-way-youd-think/
 
-5. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
+3. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
 Link: https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/
+
+4. Meta announces its Superintelligence Labs Chief Scientist: former OpenAI GPT-4 co-creator Shengjia Zhao
+Link: https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief-scientist-former-openai-gpt-4-co-creator-shengjia-zhao/
+
+5. New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples
+Link: https://venturebeat.com/ai/new-ai-architecture-delivers-100x-faster-reasoning-than-llms-with-just-1000-training-examples/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
