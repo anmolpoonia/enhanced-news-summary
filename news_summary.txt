@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-29 09:27:10
+Daily News Summary - 2025-07-29 18:32:33
 ==================================================
 
-1. Anthropic throttles Claude rate limits, devs call foul
-Link: https://venturebeat.com/ai/anthropic-throttles-claude-rate-limits-devs-call-foul/
+1. ChatGPT just got smarter: OpenAI’s Study Mode helps students learn step-by-step
+Link: https://venturebeat.com/ai/chatgpt-just-got-smarter-openais-study-mode-helps-students-learn-step-by-step/
 
-2. No more links, no more scrolling—The browser is becoming an AI Agent
-Link: https://venturebeat.com/ai/no-more-links-no-more-scrolling-the-browser-is-becoming-an-ai-agent/
+2. Writer launches a 'super agent' that actually gets sh*t done, outperforms OpenAI on key benchmarks
+Link: https://venturebeat.com/ai/writer-launches-a-super-agent-that-actually-gets-sht-done-outperforms-openai-on-key-benchmarks/
 
-3. How E2B became essential to 88% of Fortune 100 companies and raised $21 million
-Link: https://venturebeat.com/ai/how-e2b-became-essential-to-88-of-fortune-100-companies-and-raised-21-million/
-
-4. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
+3. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
 Link: https://venturebeat.com/ai/chinese-startup-z-ai-launches-powerful-open-source-glm-4-5-model-family-with-powerpoint-creation/
 
-5. Horizon Quantum Joins the QuEra Quantum Alliance, Strengthening Quantum Software Ecosystem
-Link: https://venturebeat.com/business/horizon-quantum-joins-the-quera-quantum-alliance-strengthening-quantum-software-ecosystem/
+4. Stack Overflow data reveals the hidden productivity tax of ‘almost right’ AI code
+Link: https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/
+
+5. From pilot to payoff: Turning AI investment into real ROI
+Link: https://venturebeat.com/ai/from-pilot-to-payoff-turning-ai-investment-into-real-roi/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
