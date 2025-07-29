@@ -1,17 +1,17 @@
-Daily News Summary - 2025-07-28 18:32:16
+Daily News Summary - 2025-07-29 09:27:10
 ==================================================
 
-1. When progress doesn’t feel like home: Why many are hesitant to join the AI migration
-Link: https://venturebeat.com/ai/when-progress-doesnt-feel-like-home-why-many-are-hesitant-to-join-the-ai-migration/
+1. Anthropic throttles Claude rate limits, devs call foul
+Link: https://venturebeat.com/ai/anthropic-throttles-claude-rate-limits-devs-call-foul/
 
-2. Why AI is making us lose our minds (and not in the way you'd think)
-Link: https://venturebeat.com/ai/why-ai-is-making-us-lose-our-minds-and-not-in-the-way-youd-think/
+2. No more links, no more scrolling—The browser is becoming an AI Agent
+Link: https://venturebeat.com/ai/no-more-links-no-more-scrolling-the-browser-is-becoming-an-ai-agent/
 
-3. CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone
-Link: https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/
-
-4. How E2B became essential to 88% of Fortune 100 companies and raised $21 million
+3. How E2B became essential to 88% of Fortune 100 companies and raised $21 million
 Link: https://venturebeat.com/ai/how-e2b-became-essential-to-88-of-fortune-100-companies-and-raised-21-million/
+
+4. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
+Link: https://venturebeat.com/ai/chinese-startup-z-ai-launches-powerful-open-source-glm-4-5-model-family-with-powerpoint-creation/
 
 5. Horizon Quantum Joins the QuEra Quantum Alliance, Strengthening Quantum Software Ecosystem
 Link: https://venturebeat.com/business/horizon-quantum-joins-the-quera-quantum-alliance-strengthening-quantum-software-ecosystem/
