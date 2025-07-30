@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-29 18:32:33
+Daily News Summary - 2025-07-30 09:29:27
 ==================================================
 
 1. ChatGPT just got smarter: OpenAI’s Study Mode helps students learn step-by-step
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/writer-launches-a-super-agent-that-actually-get
 3. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
 Link: https://venturebeat.com/ai/chinese-startup-z-ai-launches-powerful-open-source-glm-4-5-model-family-with-powerpoint-creation/
 
-4. Stack Overflow data reveals the hidden productivity tax of ‘almost right’ AI code
-Link: https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/
+4. AI vs. AI: Prophet Security raises $30M to replace human analysts with autonomous defenders
+Link: https://venturebeat.com/ai/ai-vs-ai-prophet-security-raises-30m-to-replace-human-analysts-with-autonomous-defenders/
 
-5. From pilot to payoff: Turning AI investment into real ROI
-Link: https://venturebeat.com/ai/from-pilot-to-payoff-turning-ai-investment-into-real-roi/
+5. Acree opens up new enterprise-focused, customizable AI model AFM-4.5B trained on ‘clean, rigorously filtered data’
+Link: https://venturebeat.com/ai/acree-opens-up-new-enterprise-focused-customizable-ai-model-afm-4-5b-trained-on-clean-rigorously-filtered-data/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
