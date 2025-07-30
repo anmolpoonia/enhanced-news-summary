@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-30 09:29:27
+Daily News Summary - 2025-07-30 18:31:25
 ==================================================
 
-1. ChatGPT just got smarter: OpenAI’s Study Mode helps students learn step-by-step
-Link: https://venturebeat.com/ai/chatgpt-just-got-smarter-openais-study-mode-helps-students-learn-step-by-step/
+1. Nightfall launches ‘Nyx,’ an AI that automates data loss prevention at enterprise scale
+Link: https://venturebeat.com/ai/nightfall-launches-nyx-an-ai-that-automates-data-loss-prevention-at-enterprise-scale/
 
-2. Writer launches a 'super agent' that actually gets sh*t done, outperforms OpenAI on key benchmarks
-Link: https://venturebeat.com/ai/writer-launches-a-super-agent-that-actually-gets-sht-done-outperforms-openai-on-key-benchmarks/
+2. How can enterprises keep systems safe as AI agents join human employees? Cyata launches with a new, dedicated solution
+Link: https://venturebeat.com/security/how-can-enterprises-keep-systems-safe-as-ai-agents-join-human-employees-cyata-launches-with-a-new-dedicated-solution/
 
-3. Chinese startup Z.ai launches powerful open source GLM-4.5 model family with PowerPoint creation
-Link: https://venturebeat.com/ai/chinese-startup-z-ai-launches-powerful-open-source-glm-4-5-model-family-with-powerpoint-creation/
+3. Google DeepMind says its new AI can map the entire planet with unprecedented accuracy
+Link: https://venturebeat.com/ai/google-deepmind-says-its-new-ai-can-map-the-entire-planet-with-unprecedented-accuracy/
 
-4. AI vs. AI: Prophet Security raises $30M to replace human analysts with autonomous defenders
-Link: https://venturebeat.com/ai/ai-vs-ai-prophet-security-raises-30m-to-replace-human-analysts-with-autonomous-defenders/
+4. Mark Zuckerberg says ‘developing superintelligence is now in sight,’ shades OpenAI and other firms focused on automating work
+Link: https://venturebeat.com/ai/mark-zuckerberg-says-developing-superintelligence-is-now-in-sight-shades-openai-and-other-firms-focused-on-automating-work/
 
-5. Acree opens up new enterprise-focused, customizable AI model AFM-4.5B trained on ‘clean, rigorously filtered data’
-Link: https://venturebeat.com/ai/acree-opens-up-new-enterprise-focused-customizable-ai-model-afm-4-5b-trained-on-clean-rigorously-filtered-data/
+5. C8 Health started with an AI that gives anesthesiologists guidance on demand — now it’s targeting whole hospitals
+Link: https://venturebeat.com/ai/c8-health-started-with-an-ai-that-gives-anesthesiologists-guidance-on-demand-now-its-targeting-whole-hospitals/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
