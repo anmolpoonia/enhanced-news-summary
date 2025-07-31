@@ -1,4 +1,4 @@
-Daily News Summary - 2025-07-30 18:31:25
+Daily News Summary - 2025-07-31 09:27:54
 ==================================================
 
 1. Nightfall launches ‘Nyx,’ an AI that automates data loss prevention at enterprise scale
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/security/how-can-enterprises-keep-systems-safe-as-
 3. Google DeepMind says its new AI can map the entire planet with unprecedented accuracy
 Link: https://venturebeat.com/ai/google-deepmind-says-its-new-ai-can-map-the-entire-planet-with-unprecedented-accuracy/
 
-4. Mark Zuckerberg says ‘developing superintelligence is now in sight,’ shades OpenAI and other firms focused on automating work
-Link: https://venturebeat.com/ai/mark-zuckerberg-says-developing-superintelligence-is-now-in-sight-shades-openai-and-other-firms-focused-on-automating-work/
+4. LangChain’s Align Evals closes the evaluator trust gap with prompt-level calibration
+Link: https://venturebeat.com/ai/langchains-align-evals-closes-the-evaluator-trust-gap-with-prompt-level-calibration/
 
-5. C8 Health started with an AI that gives anesthesiologists guidance on demand — now it’s targeting whole hospitals
-Link: https://venturebeat.com/ai/c8-health-started-with-an-ai-that-gives-anesthesiologists-guidance-on-demand-now-its-targeting-whole-hospitals/
+5. ‘Subliminal learning’: Anthropic uncovers how AI fine-tuning secretly teaches bad habits
+Link: https://venturebeat.com/ai/subliminal-learning-anthropic-uncovers-how-ai-fine-tuning-secretly-teaches-bad-habits/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
