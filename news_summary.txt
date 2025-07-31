@@ -1,20 +1,20 @@
-Daily News Summary - 2025-07-31 09:27:54
+Daily News Summary - 2025-07-31 18:31:44
 ==================================================
 
-1. Nightfall launches ‘Nyx,’ an AI that automates data loss prevention at enterprise scale
-Link: https://venturebeat.com/ai/nightfall-launches-nyx-an-ai-that-automates-data-loss-prevention-at-enterprise-scale/
+1. ‘Subliminal learning’: Anthropic uncovers how AI fine-tuning secretly teaches bad habits
+Link: https://venturebeat.com/ai/subliminal-learning-anthropic-uncovers-how-ai-fine-tuning-secretly-teaches-bad-habits/
 
-2. How can enterprises keep systems safe as AI agents join human employees? Cyata launches with a new, dedicated solution
-Link: https://venturebeat.com/security/how-can-enterprises-keep-systems-safe-as-ai-agents-join-human-employees-cyata-launches-with-a-new-dedicated-solution/
-
-3. Google DeepMind says its new AI can map the entire planet with unprecedented accuracy
-Link: https://venturebeat.com/ai/google-deepmind-says-its-new-ai-can-map-the-entire-planet-with-unprecedented-accuracy/
-
-4. LangChain’s Align Evals closes the evaluator trust gap with prompt-level calibration
+2. LangChain’s Align Evals closes the evaluator trust gap with prompt-level calibration
 Link: https://venturebeat.com/ai/langchains-align-evals-closes-the-evaluator-trust-gap-with-prompt-level-calibration/
 
-5. ‘Subliminal learning’: Anthropic uncovers how AI fine-tuning secretly teaches bad habits
-Link: https://venturebeat.com/ai/subliminal-learning-anthropic-uncovers-how-ai-fine-tuning-secretly-teaches-bad-habits/
+3. Stack Overflow data reveals the hidden productivity tax of 'almost right' AI code
+Link: https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/
+
+4. You’ve heard of AI ‘Deep Research’ tools…now Manus is launching ‘Wide Research’ that spins up 100+ agents to scour the web for you
+Link: https://venturebeat.com/ai/youve-heard-of-ai-deep-research-tools-now-manus-is-launching-wide-research-that-spins-up-100-agents-to-scour-the-web-for-you/
+
+5. Lazlo 326 Launches First Fully Integrated Lottery and Retail Media Platform in U.S. Pilot With National Retailer
+Link: https://venturebeat.com/business/lazlo-326-launches-first-fully-integrated-lottery-and-retail-media-platform-in-u-s-pilot-with-national-retailer/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
