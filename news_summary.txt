@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-01 09:27:36
+Daily News Summary - 2025-08-01 18:30:35
 ==================================================
 
-1. ‘Subliminal learning’: Anthropic uncovers how AI fine-tuning secretly teaches bad habits
-Link: https://venturebeat.com/ai/subliminal-learning-anthropic-uncovers-how-ai-fine-tuning-secretly-teaches-bad-habits/
+1. OpenAI removes ChatGPT feature after private conversations leak to Google search
+Link: https://venturebeat.com/ai/openai-removes-chatgpt-feature-after-private-conversations-leak-to-google-search/
 
-2. LangChain’s Align Evals closes the evaluator trust gap with prompt-level calibration
-Link: https://venturebeat.com/ai/langchains-align-evals-closes-the-evaluator-trust-gap-with-prompt-level-calibration/
+2. Deep Cogito goes big, releasing 4 new open source hybrid reasoning models with self-improving 'intuition'
+Link: https://venturebeat.com/ai/deep-cogito-goes-big-releasing-4-new-open-source-hybrid-reasoning-models-with-self-improving-intuition/
 
 3. Stack Overflow data reveals the hidden productivity tax of 'almost right' AI code
 Link: https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/
 
-4. OpenAI removes ChatGPT feature after private conversations leak to Google search
-Link: https://venturebeat.com/ai/openai-removes-chatgpt-feature-after-private-conversations-leak-to-google-search/
+4. Google releases Olympiad medal-winning Gemini 2.5 ‘Deep Think’ AI publicly — but there’s a catch…
+Link: https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/
 
-5. Deep Cogito goes big, releasing 4 new open source hybrid reasoning models with self-improving ‘intuition’
-Link: https://venturebeat.com/ai/deep-cogito-goes-big-releasing-4-new-open-source-hybrid-reasoning-models-with-self-improving-intuition/
+5. Hard-won vibe coding insights: Mailchimp’s 40% speed gain came with governance price
+Link: https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
