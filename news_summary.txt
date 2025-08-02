@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-01 18:30:35
+Daily News Summary - 2025-08-02 09:23:17
 ==================================================
 
-1. OpenAI removes ChatGPT feature after private conversations leak to Google search
+1. Why open-source AI became an American national priority
+Link: https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/
+
+2. New vision model from Cohere runs on two GPUs, beats top-tier VLMs on visual tasks
+Link: https://venturebeat.com/ai/new-vision-model-from-cohere-runs-on-two-gpus-beats-top-tier-vlms-on-visual-tasks/
+
+3. OpenAI removes ChatGPT feature after private conversations leak to Google search
 Link: https://venturebeat.com/ai/openai-removes-chatgpt-feature-after-private-conversations-leak-to-google-search/
-
-2. Deep Cogito goes big, releasing 4 new open source hybrid reasoning models with self-improving 'intuition'
-Link: https://venturebeat.com/ai/deep-cogito-goes-big-releasing-4-new-open-source-hybrid-reasoning-models-with-self-improving-intuition/
-
-3. Stack Overflow data reveals the hidden productivity tax of 'almost right' AI code
-Link: https://venturebeat.com/ai/stack-overflow-data-reveals-the-hidden-productivity-tax-of-almost-right-ai-code/
 
 4. Google releases Olympiad medal-winning Gemini 2.5 ‘Deep Think’ AI publicly — but there’s a catch…
 Link: https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/
 
-5. Hard-won vibe coding insights: Mailchimp’s 40% speed gain came with governance price
-Link: https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price/
+5. Deep Cogito goes big, releasing 4 new open source hybrid reasoning models with self-improving ‘intuition’
+Link: https://venturebeat.com/ai/deep-cogito-goes-big-releasing-4-new-open-source-hybrid-reasoning-models-with-self-improving-intuition/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
