@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-04 09:33:01
+Daily News Summary - 2025-08-04 18:32:39
 ==================================================
 
 1. Why tomorrow’s best devs won’t just code — they’ll curate, coordinate and command AI
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-ent
 3. Why open-source AI became an American national priority
 Link: https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/
 
-4. New vision model from Cohere runs on two GPUs, beats top-tier VLMs on visual tasks
-Link: https://venturebeat.com/ai/new-vision-model-from-cohere-runs-on-two-gpus-beats-top-tier-vlms-on-visual-tasks/
+4. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
+Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
 
-5. Google releases Olympiad medal-winning Gemini 2.5 ‘Deep Think’ AI publicly — but there’s a catch…
-Link: https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/
+5. Joinable Labs Launches to Accelerate the Time-to-Intelligence of Private AI With $2M Seed Round and First Product: RAG in a BOX
+Link: https://venturebeat.com/business/joinable-labs-launches-to-accelerate-the-time-to-intelligence-of-private-ai-with-2m-seed-round-and-first-product-rag-in-a-box/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
