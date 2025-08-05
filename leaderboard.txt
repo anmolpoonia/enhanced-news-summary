@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-new: 305 mentions
-techcrunch: 201 mentions
-agents: 188 mentions
+new: 307 mentions
+techcrunch: 204 mentions
+agents: 189 mentions
 model: 173 mentions
 enterprise: 164 mentions

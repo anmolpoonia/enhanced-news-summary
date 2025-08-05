@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-05 09:28:38
+Daily News Summary - 2025-08-05 18:33:50
 ==================================================
 
-1. ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers
+1. OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b
+Link: https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/
+
+2. ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers
 Link: https://venturebeat.com/ai/chatgpt-rockets-to-700m-weekly-users-ahead-of-gpt-5-launch-with-reasoning-superpowers/
 
-2. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
+3. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
 Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
 
-3. Why open-source AI became an American national priority
-Link: https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/
+4. Deciens Capital Closes $93.33M Fund III to Back Next-Generation Financial Services
+Link: https://venturebeat.com/business/deciens-capital-closes-93-33m-fund-iii-to-back-next-generation-financial-services/
 
-4. Joinable Labs Launches to Accelerate the Time-to-Intelligence of Private AI With $2M Seed Round and First Product: RAG in a BOX
-Link: https://venturebeat.com/business/joinable-labs-launches-to-accelerate-the-time-to-intelligence-of-private-ai-with-2m-seed-round-and-first-product-rag-in-a-box/
-
-5. Approov Closes £5M Series A Funding to Redefine Mobile App Security for the AI Era in Round Led by Maven Capital Partners
-Link: https://venturebeat.com/business/approov-closes-5m-series-a-funding-to-redefine-mobile-app-security-for-the-ai-era-in-round-led-by-maven-capital-partners/
+5. ElephantSqlDB® Unveils First Quantum‑Powered Cloud Database, Delivering Enterprise‑Class Performance at Indie‑Friendly Prices
+Link: https://venturebeat.com/business/elephantsqldb-unveils-first-quantum%e2%80%91powered-cloud-database-delivering-enterprise%e2%80%91class-performance-at-indie%e2%80%91friendly-prices/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
