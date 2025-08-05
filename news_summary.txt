@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-04 18:32:39
+Daily News Summary - 2025-08-05 09:28:38
 ==================================================
 
-1. Why tomorrow’s best devs won’t just code — they’ll curate, coordinate and command AI
-Link: https://venturebeat.com/programming-development/why-tomorrows-best-devs-wont-just-code-theyll-curate-coordinate-and-command-ai/
+1. ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers
+Link: https://venturebeat.com/ai/chatgpt-rockets-to-700m-weekly-users-ahead-of-gpt-5-launch-with-reasoning-superpowers/
 
-2. Why the AI era is forcing a redesign of the entire compute backbone
-Link: https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/
+2. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
+Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
 
 3. Why open-source AI became an American national priority
 Link: https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/
 
-4. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
-Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
-
-5. Joinable Labs Launches to Accelerate the Time-to-Intelligence of Private AI With $2M Seed Round and First Product: RAG in a BOX
+4. Joinable Labs Launches to Accelerate the Time-to-Intelligence of Private AI With $2M Seed Round and First Product: RAG in a BOX
 Link: https://venturebeat.com/business/joinable-labs-launches-to-accelerate-the-time-to-intelligence-of-private-ai-with-2m-seed-round-and-first-product-rag-in-a-box/
+
+5. Approov Closes £5M Series A Funding to Redefine Mobile App Security for the AI Era in Round Led by Maven Capital Partners
+Link: https://venturebeat.com/business/approov-closes-5m-series-a-funding-to-redefine-mobile-app-security-for-the-ai-era-in-round-led-by-maven-capital-partners/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
