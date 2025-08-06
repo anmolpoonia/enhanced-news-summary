@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-05 18:33:50
+Daily News Summary - 2025-08-06 09:29:08
 ==================================================
 
-1. OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b
-Link: https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/
+1. Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives
+Link: https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/
 
-2. ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers
-Link: https://venturebeat.com/ai/chatgpt-rockets-to-700m-weekly-users-ahead-of-gpt-5-launch-with-reasoning-superpowers/
+2. OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b
+Link: https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/
 
 3. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
 Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
 
-4. Deciens Capital Closes $93.33M Fund III to Back Next-Generation Financial Services
-Link: https://venturebeat.com/business/deciens-capital-closes-93-33m-fund-iii-to-back-next-generation-financial-services/
+4. Google Cloud’s data agents promise to end the 80% toil problem plaguing enterprise data teams
+Link: https://venturebeat.com/data-infrastructure/google-clouds-data-agents-promise-to-end-the-80-toil-problem-plaguing-enterprise-data-teams/
 
-5. ElephantSqlDB® Unveils First Quantum‑Powered Cloud Database, Delivering Enterprise‑Class Performance at Indie‑Friendly Prices
-Link: https://venturebeat.com/business/elephantsqldb-unveils-first-quantum%e2%80%91powered-cloud-database-delivering-enterprise%e2%80%91class-performance-at-indie%e2%80%91friendly-prices/
+5. Deciens Capital Closes $93.33M Fund III to Back Next-Generation Financial Services
+Link: https://venturebeat.com/business/deciens-capital-closes-93-33m-fund-iii-to-back-next-generation-financial-services/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
