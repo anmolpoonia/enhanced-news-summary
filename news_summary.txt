@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-06 09:29:08
+Daily News Summary - 2025-08-06 18:31:19
 ==================================================
 
 1. Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-mo
 3. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
 Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
 
-4. Google Cloud’s data agents promise to end the 80% toil problem plaguing enterprise data teams
-Link: https://venturebeat.com/data-infrastructure/google-clouds-data-agents-promise-to-end-the-80-toil-problem-plaguing-enterprise-data-teams/
+4. Google’s new diffusion AI agent mimics human writing to improve enterprise research
+Link: https://venturebeat.com/ai/googles-new-diffusion-ai-agent-mimics-human-writing-to-improve-enterprise-research/
 
-5. Deciens Capital Closes $93.33M Fund III to Back Next-Generation Financial Services
-Link: https://venturebeat.com/business/deciens-capital-closes-93-33m-fund-iii-to-back-next-generation-financial-services/
+5. Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge
+Link: https://venturebeat.com/ai/anthropic-ships-automated-security-reviews-for-claude-code-as-ai-generated-vulnerabilities-surge/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
