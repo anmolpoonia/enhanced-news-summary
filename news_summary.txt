@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-06 18:31:19
+Daily News Summary - 2025-08-07 09:28:13
 ==================================================
 
-1. Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives
-Link: https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/
+1. How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks
+Link: https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/
 
-2. OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b
-Link: https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/
+2. The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed
+Link: https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/
 
-3. Qwen-Image is a powerful, open source new AI image generator with support for embedded text in English & Chinese
-Link: https://venturebeat.com/ai/qwen-image-is-a-powerful-open-source-new-ai-image-generator-with-support-for-embedded-text-in-english-chinese/
+3. For regulated industries, AWS’s neurosymbolic AI promises safe, explainable agent automation
+Link: https://venturebeat.com/ai/for-regulated-industries-awss-neurosymbolic-ai-promises-safe-explainable-agent-automation/
 
-4. Google’s new diffusion AI agent mimics human writing to improve enterprise research
+4. New ‘persona vectors’ from Anthropic let you decode and direct an LLM’s personality
+Link: https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/
+
+5. Google’s new diffusion AI agent mimics human writing to improve enterprise research
 Link: https://venturebeat.com/ai/googles-new-diffusion-ai-agent-mimics-human-writing-to-improve-enterprise-research/
-
-5. Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge
-Link: https://venturebeat.com/ai/anthropic-ships-automated-security-reviews-for-claude-code-as-ai-generated-vulnerabilities-surge/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
