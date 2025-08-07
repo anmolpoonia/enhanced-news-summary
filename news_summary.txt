@@ -1,11 +1,11 @@
-Daily News Summary - 2025-08-07 09:28:13
+Daily News Summary - 2025-08-07 18:33:33
 ==================================================
 
-1. How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks
-Link: https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/
+1. OpenAI launches GPT-5, nano, mini and Pro — not AGI, but capable of generating 'software-on-demand'
+Link: https://venturebeat.com/ai/openai-launches-gpt-5-not-agi-but-capable-of-generating-software-on-demand/
 
-2. The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed
-Link: https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/
+2. How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks
+Link: https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/
 
 3. For regulated industries, AWS’s neurosymbolic AI promises safe, explainable agent automation
 Link: https://venturebeat.com/ai/for-regulated-industries-awss-neurosymbolic-ai-promises-safe-explainable-agent-automation/
@@ -13,8 +13,8 @@ Link: https://venturebeat.com/ai/for-regulated-industries-awss-neurosymbolic-ai-
 4. New ‘persona vectors’ from Anthropic let you decode and direct an LLM’s personality
 Link: https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/
 
-5. Google’s new diffusion AI agent mimics human writing to improve enterprise research
-Link: https://venturebeat.com/ai/googles-new-diffusion-ai-agent-mimics-human-writing-to-improve-enterprise-research/
+5. The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed
+Link: https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
