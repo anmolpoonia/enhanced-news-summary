@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-07 18:33:33
+Daily News Summary - 2025-08-08 09:28:34
 ==================================================
 
 1. OpenAI launches GPT-5, nano, mini and Pro — not AGI, but capable of generating 'software-on-demand'
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled
 3. For regulated industries, AWS’s neurosymbolic AI promises safe, explainable agent automation
 Link: https://venturebeat.com/ai/for-regulated-industries-awss-neurosymbolic-ai-promises-safe-explainable-agent-automation/
 
-4. New ‘persona vectors’ from Anthropic let you decode and direct an LLM’s personality
-Link: https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/
+4. ChatGPT users dismayed as OpenAI pulls popular models GPT-4o, o3 and more — enterprise API remains (for now)
+Link: https://venturebeat.com/ai/chatgpt-users-dismayed-as-openai-pulls-popular-models-gpt-4o-o3-and-more-enterprise-api-remains-for-now/
 
-5. The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed
-Link: https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/
+5. Black Hat 2025: Why your AI tools are becoming the next insider threat
+Link: https://venturebeat.com/security/black-hat-2025-how-agentic-ai-is-finally-delivering-real-value/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
