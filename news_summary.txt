@@ -1,17 +1,17 @@
-Daily News Summary - 2025-08-08 18:29:18
+Daily News Summary - 2025-08-09 09:20:45
 ==================================================
 
-1. ChatGPT users dismayed as OpenAI pulls popular models GPT-4o, o3 and more — enterprise API remains (for now)
+1. OpenAI returns old models to ChatGPT as Sam Altman admits ‘bumpy’ GPT-5 rollout
+Link: https://venturebeat.com/ai/openai-returns-old-models-to-chatgpt-as-sam-altman-admits-bumpy-gpt-5-rollout/
+
+2. OpenAI's GPT-5 rollout is not going smoothly
+Link: https://venturebeat.com/ai/openais-gpt-5-rollout-is-not-going-smoothly/
+
+3. ChatGPT users dismayed as OpenAI pulls popular models GPT-4o, o3 and more — enterprise API remains (for now)
 Link: https://venturebeat.com/ai/chatgpt-users-dismayed-as-openai-pulls-popular-models-gpt-4o-o3-and-more-enterprise-api-remains-for-now/
 
-2. OpenAI launches GPT-5, nano, mini and Pro — not AGI, but capable of generating 'software-on-demand'
-Link: https://venturebeat.com/ai/openai-launches-gpt-5-not-agi-but-capable-of-generating-software-on-demand/
-
-3. New 'persona vectors' from Anthropic let you decode and direct an LLM's personality
-Link: https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/
-
-4. OpenAI’s GPT-5 rollout is not going smoothly
-Link: https://venturebeat.com/ai/openais-gpt-5-rollout-is-not-going-smoothly/
+4. Anthropic revenue tied to two customers as AI pricing war threatens margins
+Link: https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-pricing-war-threatens-margins/
 
 5. Datasite to Acquire Sourcescrub, Expanding Private Market Intelligence Solutions
 Link: https://venturebeat.com/business/datasite-to-acquire-sourcescrub-expanding-private-market-intelligence-solutions/
