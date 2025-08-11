@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-10 18:27:48
+Daily News Summary - 2025-08-11 09:27:39
 ==================================================
 
-1. From terabytes to insights: Real-world AI obervability architecture
-Link: https://venturebeat.com/ai/from-terabytes-to-insights-real-world-ai-obervability-architecture/
+1. AI's promise of opportunity masks a reality of managed displacement
+Link: https://venturebeat.com/ai/ais-promise-of-opportunity-masks-a-reality-of-managed-displacement/
 
-2. Anthropic revenue tied to two customers as AI pricing war threatens margins
-Link: https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-pricing-war-threatens-margins/
+2. From terabytes to insights: Real-world AI obervability architecture
+Link: https://venturebeat.com/ai/from-terabytes-to-insights-real-world-ai-obervability-architecture/
 
 3. Black Hat 2025: Why your AI tools are becoming the next insider threat
 Link: https://venturebeat.com/security/black-hat-2025-how-agentic-ai-is-finally-delivering-real-value/
 
-4. OpenAI returns old models to ChatGPT as Sam Altman admits ‘bumpy’ GPT-5 rollout
-Link: https://venturebeat.com/ai/openai-returns-old-models-to-chatgpt-as-sam-altman-admits-bumpy-gpt-5-rollout/
+4. Anthropic revenue tied to two customers as AI pricing war threatens margins
+Link: https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-pricing-war-threatens-margins/
 
-5. OpenAI’s GPT-5 rollout is not going smoothly
-Link: https://venturebeat.com/ai/openais-gpt-5-rollout-is-not-going-smoothly/
+5. OpenAI returns old models to ChatGPT as Sam Altman admits ‘bumpy’ GPT-5 rollout
+Link: https://venturebeat.com/ai/openai-returns-old-models-to-chatgpt-as-sam-altman-admits-bumpy-gpt-5-rollout/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
