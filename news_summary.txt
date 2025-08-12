@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-11 18:31:38
+Daily News Summary - 2025-08-12 09:23:40
 ==================================================
 
 1. OpenAI is editing its GPT-5 rollout on the fly — here's what's changing in ChatGPT
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-p
 3. Black Hat 2025: Why your AI tools are becoming the next insider threat
 Link: https://venturebeat.com/security/black-hat-2025-how-agentic-ai-is-finally-delivering-real-value/
 
-4. 84% of Consumers Would Switch Banks Over Financial Crime Links, ThetaRay Report Finds
-Link: https://venturebeat.com/business/84-of-consumers-would-switch-banks-over-financial-crime-links-thetaray-report-finds/
+4. Datasite Acquires Leading Agentic AI Company Blueflame
+Link: https://venturebeat.com/business/datasite-acquires-leading-agentic-ai-company-blueflame/
 
-5. Horizon Quantum Appoints Greg Gould as Chief Financial Officer
-Link: https://venturebeat.com/business/horizon-quantum-appoints-greg-gould-as-chief-financial-officer/
+5. TD Securities taps Layer 6 and OpenAI to deliver real-time equity insights to sales and trading teams
+Link: https://venturebeat.com/ai/td-securities-taps-layer-6-and-openai-to-deliver-real-time-equity-insights-to-sales-and-trading-teams/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
