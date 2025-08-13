@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-13 09:24:16
+Daily News Summary - 2025-08-13 18:29:43
 ==================================================
 
-1. OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises 'plenty of notice' if it leaves again
+1. Ai2's MolmoAct model ‘thinks in 3D’ to challenge Nvidia and Google in robotics AI
+Link: https://venturebeat.com/ai/ai2s-molmoact-model-thinks-in-3d-to-challenge-nvidia-and-google-in-robotics-ai/
+
+2. The NYSE sped up its realtime streaming data 5X with Redpanda
+Link: https://venturebeat.com/data-infrastructure/the-nyse-sped-up-its-realtime-streaming-data-5x-with-redpanda/
+
+3. OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises 'plenty of notice' if it leaves again
 Link: https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/
 
-2. The end of perimeter defense: When your own AI tools become the threat actor
-Link: https://venturebeat.com/security/black-hat-2025-chatgpt-copilot-deepseek-now-create-malware/
+4. Stratus Materials Releases and Begins Shipping LXMO-2, its 2nd Generation LMR CAM, to Customers and Partners
+Link: https://venturebeat.com/business/stratus-materials-releases-and-begins-shipping-lxmo-2-its-2nd-generation-lmr-cam-to-customers-and-partners/
 
-3. Liquid AI wants to give smartphones small, fast AI that can see with new LFM2-VL model
-Link: https://venturebeat.com/ai/liquid-ai-wants-to-give-smartphones-small-fast-ai-that-can-see-with-new-lfm2-vl-model/
-
-4. OpenAI adds new ChatGPT third-party tool connectors to Dropbox, MS Teams as Altman clarifies GPT-5 prioritization
-Link: https://venturebeat.com/ai/openai-adds-new-chatgpt-third-party-tool-connectors-to-dropbox-ms-teams-as-altman-clarifies-gpt-5-prioritization/
-
-5. Heritage Distilling (Nasdaq: CASK) and Story Foundation Announce the Launch of $360M $IP Token Reserve, With Participation from a16z crypto and Other Prominent Investors
-Link: https://venturebeat.com/business/heritage-distilling-nasdaq-cask-and-story-foundation-announce-the-launch-of-360m-ip-token-reserve-with-participation-from-a16z-crypto-and-other-prominent-investors/
+5. Reprieve Cardiovascular Secures $61 Million Financing and Enrolls First Patient in Pivotal Study
+Link: https://venturebeat.com/business/reprieve-cardiovascular-secures-61-million-financing-and-enrolls-first-patient-in-pivotal-study/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
