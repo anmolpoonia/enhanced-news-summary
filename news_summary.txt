@@ -1,14 +1,14 @@
-Daily News Summary - 2025-08-12 18:31:27
+Daily News Summary - 2025-08-13 09:24:16
 ==================================================
 
-1. Claude can now process entire software projects in single request, Anthropic says
-Link: https://venturebeat.com/ai/claude-can-now-process-entire-software-projects-in-single-request-anthropic-says/
+1. OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises 'plenty of notice' if it leaves again
+Link: https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/
 
-2. Salesforce's new CoAct-1 agents don't just point and click — they write code to accomplish tasks faster and with greater success rates
-Link: https://venturebeat.com/ai/salesforces-new-coact-1-agents-dont-just-point-and-click-they-write-code-to-accomplish-tasks-faster-and-with-greater-success-rates/
+2. The end of perimeter defense: When your own AI tools become the threat actor
+Link: https://venturebeat.com/security/black-hat-2025-chatgpt-copilot-deepseek-now-create-malware/
 
-3. TD Securities taps Layer 6 and OpenAI to deliver real-time equity insights to sales and trading teams
-Link: https://venturebeat.com/ai/td-securities-taps-layer-6-and-openai-to-deliver-real-time-equity-insights-to-sales-and-trading-teams/
+3. Liquid AI wants to give smartphones small, fast AI that can see with new LFM2-VL model
+Link: https://venturebeat.com/ai/liquid-ai-wants-to-give-smartphones-small-fast-ai-that-can-see-with-new-lfm2-vl-model/
 
 4. OpenAI adds new ChatGPT third-party tool connectors to Dropbox, MS Teams as Altman clarifies GPT-5 prioritization
 Link: https://venturebeat.com/ai/openai-adds-new-chatgpt-third-party-tool-connectors-to-dropbox-ms-teams-as-altman-clarifies-gpt-5-prioritization/
