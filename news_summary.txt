@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-14 09:24:25
+Daily News Summary - 2025-08-14 18:30:34
 ==================================================
 
-1. Google adds limited chat personalization to Gemini, trails Anthropic and OpenAI in memory features
+1. Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers
+Link: https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/
+
+2. Google adds limited chat personalization to Gemini, trails Anthropic and OpenAI in memory features
 Link: https://venturebeat.com/ai/google-adds-limited-chat-personalization-to-gemini-trails-anthropic-and-openai-in-memory-features/
 
-2. Ai2's MolmoAct model ‘thinks in 3D’ to challenge Nvidia and Google in robotics AI
+3. Ai2's MolmoAct model ‘thinks in 3D’ to challenge Nvidia and Google in robotics AI
 Link: https://venturebeat.com/ai/ai2s-molmoact-model-thinks-in-3d-to-challenge-nvidia-and-google-in-robotics-ai/
 
-3. What happens the day after superintelligence?
+4. Google unveils ultra-small and efficient open source AI model Gemma 3 270M that can run on smartphones
+Link: https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
+
+5. What happens the day after superintelligence?
 Link: https://venturebeat.com/ai/what-happens-the-day-after-superintelligence/
-
-4. Stratus Materials Releases and Begins Shipping LXMO-2, its 2nd Generation LMR CAM, to Customers and Partners
-Link: https://venturebeat.com/business/stratus-materials-releases-and-begins-shipping-lxmo-2-its-2nd-generation-lmr-cam-to-customers-and-partners/
-
-5. The NYSE sped up its realtime streaming data 5X with Redpanda
-Link: https://venturebeat.com/data-infrastructure/the-nyse-sped-up-its-realtime-streaming-data-5x-with-redpanda/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
