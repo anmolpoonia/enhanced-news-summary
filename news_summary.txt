@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-15 09:22:21
+Daily News Summary - 2025-08-15 18:29:38
 ==================================================
 
 1. Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-s
 3. What happens the day after superintelligence?
 Link: https://venturebeat.com/ai/what-happens-the-day-after-superintelligence/
 
-4. That ‘cheap’ open-source AI model is actually burning through your compute budget
-Link: https://venturebeat.com/ai/that-cheap-open-source-ai-model-is-actually-burning-through-your-compute-budget/
+4. Grove Biopharma to Participate in Materials Biology Symposium at ACS Fall 2025 Scientific Meeting
+Link: https://venturebeat.com/business/grove-biopharma-to-participate-in-materials-biology-symposium-at-acs-fall-2025-scientific-meeting/
 
-5. Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers
-Link: https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/
+5. That ‘cheap’ open-source AI model is actually burning through your compute budget
+Link: https://venturebeat.com/ai/that-cheap-open-source-ai-model-is-actually-burning-through-your-compute-budget/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
