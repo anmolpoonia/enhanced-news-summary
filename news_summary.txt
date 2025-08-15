@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-14 18:30:34
+Daily News Summary - 2025-08-15 09:22:21
 ==================================================
 
-1. Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers
-Link: https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/
+1. Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)
+Link: https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/
 
-2. Google adds limited chat personalization to Gemini, trails Anthropic and OpenAI in memory features
-Link: https://venturebeat.com/ai/google-adds-limited-chat-personalization-to-gemini-trails-anthropic-and-openai-in-memory-features/
-
-3. Ai2's MolmoAct model ‘thinks in 3D’ to challenge Nvidia and Google in robotics AI
-Link: https://venturebeat.com/ai/ai2s-molmoact-model-thinks-in-3d-to-challenge-nvidia-and-google-in-robotics-ai/
-
-4. Google unveils ultra-small and efficient open source AI model Gemma 3 270M that can run on smartphones
+2. Google unveils ultra-small and efficient open source AI model Gemma 3 270M that can run on smartphones
 Link: https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
 
-5. What happens the day after superintelligence?
+3. What happens the day after superintelligence?
 Link: https://venturebeat.com/ai/what-happens-the-day-after-superintelligence/
+
+4. That ‘cheap’ open-source AI model is actually burning through your compute budget
+Link: https://venturebeat.com/ai/that-cheap-open-source-ai-model-is-actually-burning-through-your-compute-budget/
+
+5. Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers
+Link: https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
