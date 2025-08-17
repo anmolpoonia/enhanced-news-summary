@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-17 09:20:19
+Daily News Summary - 2025-08-17 18:27:59
 ==================================================
 
 1. Teaching the model: Designing LLM feedback loops that get smarter over time
