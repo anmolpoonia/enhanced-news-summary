@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-19 09:21:36
+Daily News Summary - 2025-08-19 18:26:15
 ==================================================
 
 1. Hugging Face: 5 ways enterprises can slash AI costs without sacrificing performance
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/nvidia-releases-a-new-small-open-model-nemotron
 3. GEPA optimizes LLMs without costly reinforcement learning
 Link: https://venturebeat.com/ai/gepa-optimizes-llms-without-costly-reinforcement-learning/
 
-4. TensorZero nabs $7.3M seed to solve the messy world of enterprise LLM development
-Link: https://venturebeat.com/ai/tensorzero-nabs-7-3m-seed-to-solve-the-messy-world-of-enterprise-llm-development/
+4. Scaling agentic AI safely — and stopping the next big security breach
+Link: https://venturebeat.com/ai/scaling-agentic-ai-safely-and-stopping-the-next-big-security-breach/
 
-5. The looming crisis of AI speed without guardrails
-Link: https://venturebeat.com/ai/the-looming-crisis-of-ai-speed-without-guardrails/
+5. Daversa Earns Great Place To Work Certification™ for Fourth Consecutive Year
+Link: https://venturebeat.com/business/daversa-earns-great-place-to-work-certification-for-fourth-consecutive-year/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
