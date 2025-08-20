@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-19 18:26:15
+Daily News Summary - 2025-08-20 09:22:44
 ==================================================
 
-1. Hugging Face: 5 ways enterprises can slash AI costs without sacrificing performance
-Link: https://venturebeat.com/ai/hugging-face-5-ways-enterprises-can-slash-ai-costs-without-sacrificing-performance/
+1. DeepSeek V3.1 just dropped — and it might be the most powerful open AI yet
+Link: https://venturebeat.com/ai/deepseek-v3-1-just-dropped-and-it-might-be-the-most-powerful-open-ai-yet/
 
-2. Nvidia releases a new small, open model Nemotron-Nano-9B-v2 with toggle on/off reasoning
-Link: https://venturebeat.com/ai/nvidia-releases-a-new-small-open-model-nemotron-nano-9b-v2-with-toggle-on-off-reasoning/
+2. LLMs generate 'fluent nonsense' when reasoning outside their training zone
+Link: https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone/
 
-3. GEPA optimizes LLMs without costly reinforcement learning
-Link: https://venturebeat.com/ai/gepa-optimizes-llms-without-costly-reinforcement-learning/
+3. Stop benchmarking in the lab: Inclusion Arena shows how LLMs perform in production
+Link: https://venturebeat.com/ai/stop-benchmarking-in-the-lab-inclusion-arena-shows-how-llms-perform-in-production/
 
-4. Scaling agentic AI safely — and stopping the next big security breach
-Link: https://venturebeat.com/ai/scaling-agentic-ai-safely-and-stopping-the-next-big-security-breach/
+4. Alation says new query feature offers 30% accuracy boost, helping enterprises turn data catalogs into problem solvers
+Link: https://venturebeat.com/data-infrastructure/alation-says-new-query-feature-offers-30-accuracy-boost-helping-enterprises-turn-data-catalogs-into-problem-solvers/
 
-5. Daversa Earns Great Place To Work Certification™ for Fourth Consecutive Year
-Link: https://venturebeat.com/business/daversa-earns-great-place-to-work-certification-for-fourth-consecutive-year/
+5. Qwen-Image Edit gives Photoshop a run for its money with AI-powered text-to-image edits that work in seconds
+Link: https://venturebeat.com/ai/qwen-image-edit-gives-photoshop-a-run-for-its-money-with-ai-powered-text-to-image-edits-that-work-in-seconds/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
