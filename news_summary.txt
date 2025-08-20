@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-20 09:22:44
+Daily News Summary - 2025-08-20 18:29:10
 ==================================================
 
 1. DeepSeek V3.1 just dropped — and it might be the most powerful open AI yet
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-ou
 3. Stop benchmarking in the lab: Inclusion Arena shows how LLMs perform in production
 Link: https://venturebeat.com/ai/stop-benchmarking-in-the-lab-inclusion-arena-shows-how-llms-perform-in-production/
 
-4. Alation says new query feature offers 30% accuracy boost, helping enterprises turn data catalogs into problem solvers
-Link: https://venturebeat.com/data-infrastructure/alation-says-new-query-feature-offers-30-accuracy-boost-helping-enterprises-turn-data-catalogs-into-problem-solvers/
+4. CodeSignal’s new AI tutoring app Cosmo wants to be the ‘Duolingo for job skills’
+Link: https://venturebeat.com/security/codesignals-new-ai-tutoring-app-cosmo-wants-to-be-the-duolingo-for-job-skills/
 
-5. Qwen-Image Edit gives Photoshop a run for its money with AI-powered text-to-image edits that work in seconds
-Link: https://venturebeat.com/ai/qwen-image-edit-gives-photoshop-a-run-for-its-money-with-ai-powered-text-to-image-edits-that-work-in-seconds/
+5. Wisdom, the AI-Powered Dental Revenue Cycle Management Platform, Raises $28M to Accelerate Product Innovation and Capitalize on Rapid Growth
+Link: https://venturebeat.com/business/wisdom-the-ai-powered-dental-revenue-cycle-management-platform-raises-28m-to-accelerate-product-innovation-and-capitalize-on-rapid-growth/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
