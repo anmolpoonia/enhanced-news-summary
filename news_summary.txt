@@ -1,4 +1,4 @@
-Daily News Summary - 2025-08-21 09:21:55
+Daily News Summary - 2025-08-21 18:28:12
 ==================================================
 
 1. Enterprise Claude gets admin, compliance tools—just not unlimited usage
@@ -10,11 +10,11 @@ Link: https://venturebeat.com/ai/codesignals-new-ai-tutoring-app-cosmo-wants-to-
 3. TikTok parent company ByteDance releases new open source Seed-OSS-36B model with 512K token context
 Link: https://venturebeat.com/ai/tiktok-parent-company-bytedance-releases-new-open-source-seed-oss-36b-model-with-512k-token-context/
 
-4. Wisdom, the AI-Powered Dental Revenue Cycle Management Platform, Raises $28M to Accelerate Product Innovation and Capitalize on Rapid Growth
-Link: https://venturebeat.com/business/wisdom-the-ai-powered-dental-revenue-cycle-management-platform-raises-28m-to-accelerate-product-innovation-and-capitalize-on-rapid-growth/
+4. How AI ‘digital minds’ startup Delphi stopped drowning in user data and scaled up with Pinecone
+Link: https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/
 
-5. Helm.ai and Honda Motor Co. Agree to Multi-Year ADAS Joint Development for Mass Production Consumer Vehicles
-Link: https://venturebeat.com/business/helm-ai-and-honda-motor-co-agree-to-multi-year-adas-joint-development-for-mass-production-consumer-vehicles/
+5. West Loop Strategy Signs Strategic Collaboration Agreement with AWS to Accelerate Adoption of Generative A.I. and Modernize Business Intelligence
+Link: https://venturebeat.com/business/west-loop-strategy-signs-strategic-collaboration-agreement-with-aws-to-accelerate-adoption-of-generative-a-i-and-modernize-business-intelligence/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
