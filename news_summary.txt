@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-22 09:21:59
+Daily News Summary - 2025-08-22 18:27:59
 ==================================================
 
-1. Enterprise Claude gets admin, compliance tools—just not unlimited usage
-Link: https://venturebeat.com/ai/enterprise-claude-gets-admin-compliance-tools-just-not-unlimited-usage/
+1. MIT report misunderstood: Shadow AI economy booms while headlines cry failure
+Link: https://venturebeat.com/ai/mit-report-misunderstood-shadow-ai-economy-booms-while-headlines-cry-failure/
 
-2. CodeSignal's new AI tutoring app Cosmo wants to be the 'Duolingo for job skills'
-Link: https://venturebeat.com/ai/codesignals-new-ai-tutoring-app-cosmo-wants-to-be-the-duolingo-for-job-skills/
-
-3. TikTok parent company ByteDance releases new open source Seed-OSS-36B model with 512K token context
-Link: https://venturebeat.com/ai/tiktok-parent-company-bytedance-releases-new-open-source-seed-oss-36b-model-with-512k-token-context/
-
-4. Don’t sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more
+2. Don't sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more
 Link: https://venturebeat.com/ai/dont-sleep-on-cohere-command-a-reasoning-its-first-reasoning-model-is-built-for-enterprise-customer-service-and-more/
 
-5. Inside Walmart’s AI security stack: How a startup mentality is hardening enterprise-scale defense
+3. Inside Walmart’s AI security stack: How a startup mentality is hardening enterprise-scale defense
 Link: https://venturebeat.com/security/exclusive-walmarts-ciso-is-rebuilding-identity-security-for-ai-age/
+
+4. Chan Zuckerberg Initiative’s rBio uses virtual cells to train AI, bypassing lab work
+Link: https://venturebeat.com/ai/chan-zuckerberg-initiatives-rbio-uses-virtual-cells-to-train-ai-bypassing-lab-work/
+
+5. How AI ‘digital minds’ startup Delphi stopped drowning in user data and scaled up with Pinecone
+Link: https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
