@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-22 18:27:59
+Daily News Summary - 2025-08-23 09:19:02
 ==================================================
 
-1. MIT report misunderstood: Shadow AI economy booms while headlines cry failure
-Link: https://venturebeat.com/ai/mit-report-misunderstood-shadow-ai-economy-booms-while-headlines-cry-failure/
+1. OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic
+Link: https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/
 
-2. Don't sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more
+2. MCP-Universe benchmark shows GPT-5 fails more than half of real-world orchestration tasks
+Link: https://venturebeat.com/ai/mcp-universe-benchmark-shows-gpt-5-fails-more-than-half-of-real-world-orchestration-tasks/
+
+3. Meta is partnering with Midjourney and will license its technology for 'future models and products'
+Link: https://venturebeat.com/ai/meta-is-partnering-with-midjourney-and-will-license-its-technology-for-future-models-and-products/
+
+4. Don’t sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more
 Link: https://venturebeat.com/ai/dont-sleep-on-cohere-command-a-reasoning-its-first-reasoning-model-is-built-for-enterprise-customer-service-and-more/
 
-3. Inside Walmart’s AI security stack: How a startup mentality is hardening enterprise-scale defense
-Link: https://venturebeat.com/security/exclusive-walmarts-ciso-is-rebuilding-identity-security-for-ai-age/
-
-4. Chan Zuckerberg Initiative’s rBio uses virtual cells to train AI, bypassing lab work
-Link: https://venturebeat.com/ai/chan-zuckerberg-initiatives-rbio-uses-virtual-cells-to-train-ai-bypassing-lab-work/
-
-5. How AI ‘digital minds’ startup Delphi stopped drowning in user data and scaled up with Pinecone
-Link: https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/
+5. Four big enterprise lessons from Walmart’s AI security: agentic risks, identity reboot, velocity with governance, and AI vs. AI defense
+Link: https://venturebeat.com/security/four-big-enterprise-lessons-from-walmart-ai-security-agentic-risks-identity-reboot-velocity-with-governance-and-ai-vs-ai-defense/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
