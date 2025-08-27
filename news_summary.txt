@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-26 18:27:40
+Daily News Summary - 2025-08-27 09:21:05
 ==================================================
 
-1. Gemini Nano Banana improves image editing consistency and control at scale for enterprises – but is not perfect
-Link: https://venturebeat.com/ai/gemini-expands-image-editing-for-enterprises-consistency-collaboration-and-control-at-scale/
+1. Enterprise leaders say recipe for AI agents is matching them to existing processes — not the other way around
+Link: https://venturebeat.com/ai/enterprise-leaders-say-recipe-for-ai-agents-is-matching-them-to-existing-processes-not-the-other-way-around/
 
-2. This website lets you blind-test GPT-5 vs. GPT-4o—and the results may surprise you
-Link: https://venturebeat.com/ai/this-website-lets-you-blind-test-gpt-5-vs-gpt-4o-and-the-results-may-surprise-you/
+2. How procedural memory can cut the cost and complexity of AI agents
+Link: https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/
 
-3. Developers lose focus 1,200 times a day — how MCP could change that
-Link: https://venturebeat.com/ai/developers-lose-focus-1200-times-a-day-how-mcp-could-change-that/
+3. Anthropic launches Claude for Chrome in limited beta, but prompt injection attacks remain a major concern
+Link: https://venturebeat.com/ai/anthropic-launches-claude-for-chrome-in-limited-beta-but-prompt-injection-attacks-remain-a-major-concern/
 
-4. Skywork Launches UniPic 2.0, Reshaping the Future of AI Imaging and Unlocking New Investment Horizons
-Link: https://venturebeat.com/business/skywork-launches-unipic-2-0-reshaping-the-future-of-ai-imaging-and-unlocking-new-investment-horizons/
+4. AWS, Microsoft and Google unite behind Linux Foundation DocumentDB database to cut enterprise costs and limit vendor lock-in
+Link: https://venturebeat.com/data-infrastructure/aws-microsoft-and-google-unite-behind-linux-foundation-documentdb-database-to-cut-enterprise-costs-and-limit-vendor-lock-in/
 
-5. RAAPID Unveils Industry First AI-Powered RADV Audit Solution for Health Plans at RISE West 2025
-Link: https://venturebeat.com/business/raapid-unveils-industry-first-ai-powered-radv-audit-solution-for-health-plans-at-rise-west-2025/
+5. I2Pure and Caracal Announce Expanded Collaboration and Go-To-Market Effort for Novel Iodine Products
+Link: https://venturebeat.com/business/i2pure-and-caracal-announce-expanded-collaboration-and-go-to-market-effort-for-novel-iodine-products/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
