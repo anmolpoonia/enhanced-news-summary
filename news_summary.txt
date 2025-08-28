@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-28 09:21:04
+Daily News Summary - 2025-08-28 18:27:39
 ==================================================
 
-1. Enterprise leaders say recipe for AI agents is matching them to existing processes — not the other way around
-Link: https://venturebeat.com/ai/enterprise-leaders-say-recipe-for-ai-agents-is-matching-them-to-existing-processes-not-the-other-way-around/
+1. OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations
+Link: https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-misuse-risks-what-enterprises-must-add-to-gpt-5-evaluations/
 
-2. How procedural memory can cut the cost and complexity of AI agents
-Link: https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/
-
-3. Anthropic launches Claude for Chrome in limited beta, but prompt injection attacks remain a major concern
-Link: https://venturebeat.com/ai/anthropic-launches-claude-for-chrome-in-limited-beta-but-prompt-injection-attacks-remain-a-major-concern/
-
-4. Salesforce builds ‘flight simulator’ for AI agents as 95% of enterprise pilots fail to reach production
+2. Salesforce builds 'flight simulator' for AI agents as 95% of enterprise pilots fail to reach production
 Link: https://venturebeat.com/ai/salesforce-builds-flight-simulator-for-ai-agents-as-95-of-enterprise-pilots-fail-to-reach-production/
 
-5. AWS, Microsoft and Google unite behind Linux Foundation DocumentDB database to cut enterprise costs and limit vendor lock-in
-Link: https://venturebeat.com/data-infrastructure/aws-microsoft-and-google-unite-behind-linux-foundation-documentdb-database-to-cut-enterprise-costs-and-limit-vendor-lock-in/
+3. Enterprise leaders say recipe for AI agents is matching them to existing processes — not the other way around
+Link: https://venturebeat.com/ai/enterprise-leaders-say-recipe-for-ai-agents-is-matching-them-to-existing-processes-not-the-other-way-around/
+
+4. Audacity IB Wins 2025 Healthcare & Life Sciences Deal of the Year; To Be Honored at the 16th Annual International M&A Awards for Sale of ZyMōt Fertility to CooperSurgical
+Link: https://venturebeat.com/business/audacity-ib-wins-2025-healthcare-life-sciences-deal-of-the-year-to-be-honored-at-the-16th-annual-international-ma-awards-for-sale-of-zymot-fertility-to-coopersurgical/
+
+5. UserEvidence Acquires Zealot and Raises Additional $7 Million to Redefine Customer Advocacy and Proof in the GTM Era
+Link: https://venturebeat.com/business/userevidence-acquires-zealot-and-raises-additional-7-million-to-redefine-customer-advocacy-and-proof-in-the-gtm-era/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
