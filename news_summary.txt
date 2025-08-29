@@ -1,20 +1,20 @@
-Daily News Summary - 2025-08-28 18:27:39
+Daily News Summary - 2025-08-29 09:21:14
 ==================================================
 
-1. OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations
-Link: https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-misuse-risks-what-enterprises-must-add-to-gpt-5-evaluations/
+1. Nvidia’s $46.7B Q2 proves the platform, but its next fight is ASIC economics on inference
+Link: https://venturebeat.com/ai/nvidias-strong-q2-results-cant-mask-the-asic-challenge-in-their-future/
 
-2. Salesforce builds 'flight simulator' for AI agents as 95% of enterprise pilots fail to reach production
-Link: https://venturebeat.com/ai/salesforce-builds-flight-simulator-for-ai-agents-as-95-of-enterprise-pilots-fail-to-reach-production/
+2. Nous Research drops Hermes 4 AI models that outperform ChatGPT without content restrictions
+Link: https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions/
 
-3. Enterprise leaders say recipe for AI agents is matching them to existing processes — not the other way around
-Link: https://venturebeat.com/ai/enterprise-leaders-say-recipe-for-ai-agents-is-matching-them-to-existing-processes-not-the-other-way-around/
+3. Forget data labeling: Tencent’s R-Zero shows how LLMs can train themselves
+Link: https://venturebeat.com/ai/forget-data-labeling-tencents-r-zero-shows-how-llms-can-train-themselves/
 
-4. Audacity IB Wins 2025 Healthcare & Life Sciences Deal of the Year; To Be Honored at the 16th Annual International M&A Awards for Sale of ZyMōt Fertility to CooperSurgical
-Link: https://venturebeat.com/business/audacity-ib-wins-2025-healthcare-life-sciences-deal-of-the-year-to-be-honored-at-the-16th-annual-international-ma-awards-for-sale-of-zymot-fertility-to-coopersurgical/
+4. In crowded voice AI market, OpenAI bets on instruction-following and expressive speech to win enterprise adoption
+Link: https://venturebeat.com/ai/in-crowded-voice-ai-market-openai-bets-on-instruction-following-and-expressive-speech-to-win-enterprise-adoption/
 
-5. UserEvidence Acquires Zealot and Raises Additional $7 Million to Redefine Customer Advocacy and Proof in the GTM Era
-Link: https://venturebeat.com/business/userevidence-acquires-zealot-and-raises-additional-7-million-to-redefine-customer-advocacy-and-proof-in-the-gtm-era/
+5. Seeweb Launches Regolo.ai to Simplify and Green the Future of AI Deployment
+Link: https://venturebeat.com/business/seeweb-launches-regolo-ai-to-simplify-and-green-the-future-of-ai-deployment/
 
 6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
