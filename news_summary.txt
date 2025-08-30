@@ -1,17 +1,17 @@
-Daily News Summary - 2025-08-29 18:25:52
+Daily News Summary - 2025-08-30 09:18:27
 ==================================================
 
-1. Nvidia’s $46.7B Q2 proves the platform, but its next fight is ASIC economics on inference
+1. How Sakana AI's new evolutionary algorithm builds powerful AI models without expensive retraining
+Link: https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/
+
+2. Nvidia’s $46.7B Q2 proves the platform, but its next fight is ASIC economics on inference
 Link: https://venturebeat.com/ai/nvidias-strong-q2-results-cant-mask-the-asic-challenge-in-their-future/
 
-2. Nous Research drops Hermes 4 AI models that outperform ChatGPT without content restrictions
-Link: https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions/
-
-3. Forget data labeling: Tencent’s R-Zero shows how LLMs can train themselves
-Link: https://venturebeat.com/ai/forget-data-labeling-tencents-r-zero-shows-how-llms-can-train-themselves/
-
-4. How Intuit killed the chatbot crutch – and built an agentic AI playbook you can copy
+3. How Intuit killed the chatbot crutch – and built an agentic AI playbook you can copy
 Link: https://venturebeat.com/ai/how-intuit-killed-the-chatbot-crutch-and-built-an-agentic-ai-playbook-you-can-copy/
+
+4. Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds
+Link: https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/
 
 5. In crowded voice AI market, OpenAI bets on instruction-following and expressive speech to win enterprise adoption
 Link: https://venturebeat.com/ai/in-crowded-voice-ai-market-openai-bets-on-instruction-following-and-expressive-speech-to-win-enterprise-adoption/
