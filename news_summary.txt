@@ -1,15 +1,30 @@
-Daily News Summary - 2025-09-01 18:27:25
+Daily News Summary - 2025-09-02 09:21:45
 ==================================================
 
-1. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
+1. How Sakana AI's new evolutionary algorithm builds powerful AI models without expensive retraining
+Link: https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/
+
+2. Nvidia’s $46.7B Q2 proves the platform, but its next fight is ASIC economics on inference
+Link: https://venturebeat.com/ai/nvidias-strong-q2-results-cant-mask-the-asic-challenge-in-their-future/
+
+3. How Intuit killed the chatbot crutch – and built an agentic AI playbook you can copy
+Link: https://venturebeat.com/ai/how-intuit-killed-the-chatbot-crutch-and-built-an-agentic-ai-playbook-you-can-copy/
+
+4. Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds
+Link: https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/
+
+5. In crowded voice AI market, OpenAI bets on instruction-following and expressive speech to win enterprise adoption
+Link: https://venturebeat.com/ai/in-crowded-voice-ai-market-openai-bets-on-instruction-following-and-expressive-speech-to-win-enterprise-adoption/
+
+6. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
 Link: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
 
-2. $450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch
+7. $450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch
 Link: https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/
 
-3. Watch: When did iPads get as expensive as MacBooks?
+8. Watch: When did iPads get as expensive as MacBooks?
 Link: https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/
 
-4. Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch
+9. Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch
 Link: https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/
 
