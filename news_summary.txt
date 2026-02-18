@@ -1,4 +1,4 @@
-Daily News Summary - 2026-02-18 09:55:20
+Daily News Summary - 2026-02-18 18:55:33
 ==================================================
 
 1. Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
@@ -12,4 +12,7 @@ Link: https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-
 
 4. Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch
 Link: https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/
+
+5. Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch
+Link: https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/
 
