@@ -1,6 +1,6 @@
 Top 5 Words in News Titles:
-techcrunch: 1859 mentions
-uber: 1158 mentions
-agents: 719 mentions
-expensive: 593 mentions
-promises: 585 mentions
+techcrunch: 1863 mentions
+uber: 1160 mentions
+agents: 720 mentions
+expensive: 594 mentions
+promises: 586 mentions
